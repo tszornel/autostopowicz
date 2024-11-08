@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2008-04-13 11:36:48 by Hibernate Tools 3.2.0.b11 -->
+<hibernate-mapping>
+    <class name="pl.com.autostopowicz.entities.Car" table="car" catalog="autostopowicz">
+        <comment></comment>
+        <id name="idCar" type="java.lang.Integer">
+            <column name="idCar" />
+            <generator class="identity" />
+        </id>
+        <property name="make" type="string">
+            <column name="make" length="50" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="model" type="string">
+            <column name="model" length="50" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="color" type="string">
+            <column name="color" length="20" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="numberPlate" type="string">
+            <column name="numberPlate" length="20" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+        <set name="usercars" inverse="true">
+            <key>
+                <column name="idCar" not-null="true">
+                    <comment></comment>
+                </column>
+            </key>
+            <one-to-many class="pl.com.autostopowicz.entities.Usercar" />
+        </set>
+        <set name="drives" inverse="true">
+            <key>
+                <column name="idCar" not-null="true">
+                    <comment></comment>
+                </column>
+            </key>
+            <one-to-many class="pl.com.autostopowicz.entities.Drive" />
+        </set>
+    </class>
+</hibernate-mapping>

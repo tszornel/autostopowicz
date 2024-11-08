@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2008-04-13 11:36:48 by Hibernate Tools 3.2.0.b11 -->
+<hibernate-mapping>
+    <class name="pl.com.autostopowicz.entities.City" table="city" catalog="autostopowicz">
+        <comment></comment>
+        <id name="idCity" type="java.lang.Integer">
+            <column name="idCity" />
+            <generator class="identity" />
+        </id>
+        <many-to-one name="country" class="Country" fetch="select">
+            <column name="idCountry" not-null="true">
+                <comment></comment>
+            </column>
+        </many-to-one>
+        <property name="name" type="string">
+            <column name="name" length="50" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+        <set name="users" inverse="true">
+            <key>
+                <column name="idCity">
+                    <comment></comment>
+                </column>
+            </key>
+            <one-to-many class="pl.com.autostopowicz.entities.User" />
+        </set>
+        <set name="drivesForIdCityTo" inverse="true">
+            <key>
+                <column name="idCityTo" not-null="true">
+                    <comment></comment>
+                </column>
+            </key>
+            <one-to-many class="pl.com.autostopowicz.entities.Drive" />
+        </set>
+        <set name="drivesForIdCityFrom" inverse="true">
+            <key>
+                <column name="idCityFrom" not-null="true">
+                    <comment></comment>
+                </column>
+            </key>
+            <one-to-many class="pl.com.autostopowicz.entities.Drive" />
+        </set>
+    </class>
+</hibernate-mapping>

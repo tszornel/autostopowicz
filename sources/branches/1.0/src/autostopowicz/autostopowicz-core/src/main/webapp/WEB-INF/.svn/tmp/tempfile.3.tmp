@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<faces-config xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-facesconfig_1_2.xsd"
+	version="1.2">
+	<application>
+		<el-resolver>
+			org.springframework.web.jsf.el.SpringBeanFacesELResolver
+		</el-resolver>
+		<resource-bundle>
+			<base-name>checkDrives</base-name>
+			<var>checkDrive</var>
+		</resource-bundle>
+	</application>
+
+  
+
+
+	<!-- Polish -->
+	<navigation-rule>
+	
+	<navigation-case>
+    	<from-outcome>activate</from-outcome>
+    	<to-view-id>activate.jsp?test=#{registerController.activationCode}</to-view-id>
+  	<redirect />
+	</navigation-case>
+	
+	<navigation-case>
+    	<from-action>#{registerController.verify}</from-action>
+    	<from-outcome>verified</from-outcome>
+    	<to-view-id>/jsp/RegisterConfirm.jsp</to-view-id>
+  	<redirect />
+	</navigation-case>
+	
+	<navigation-case>
+    	<from-action>#{registerController.verify}</from-action>
+    	<from-outcome>notverified</from-outcome>
+    	<to-view-id>/jsp/Register.jsp</to-view-id>
+  		<redirect />
+	</navigation-case>
+	<navigation-case>
+    	<from-action>#{registerController.verify}</from-action>
+    	<from-outcome>notverified</from-outcome>
+    	<to-view-id>/jsp/Register.jsp</to-view-id>
+    	<redirect />
+  	</navigation-case>
+	<navigation-case>
+			<from-action>#{registerController.register}</from-action>
+			<from-outcome>success</from-outcome>
+			<to-view-id>/jsp/RegisterConfirm.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+		
+		<navigation-case>
+			<from-action>#{registerController.register}</from-action>
+			<from-outcome>failure</from-outcome>
+			<to-view-id>/jsp/RegisterConfirm.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+	
+
+		<navigation-case>
+			<from-outcome>home_page</from-outcome>
+			<to-view-id>/jsp/Home.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+
+
+		<navigation-case>
+			<from-outcome>help_page</from-outcome>
+			<to-view-id>/jsp/Help.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+
+
+		<navigation-case>
+			<from-outcome>add_drive</from-outcome>
+			<to-view-id>/jsp/AddDrive.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+
+		<navigation-case>
+			<from-outcome>check_drives</from-outcome>
+			<to-view-id>/jsp/CheckDrives.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+
+		<navigation-case>
+			<from-outcome>comments_articles</from-outcome>
+			<to-view-id>/jsp/CommentsArticles.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+
+		<navigation-case>
+			<from-outcome>register</from-outcome>
+			<to-view-id>/jsp/Register.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+
+
+		<!-- English -->
+
+		<navigation-case>
+			<from-outcome>home_page_en</from-outcome>
+			<to-view-id>/jsp/Home-english.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+
+
+		<navigation-case>
+			<from-outcome>help_page_en</from-outcome>
+			<to-view-id>/jsp/Help-english.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+
+		<navigation-case>
+			<from-outcome>add_drive_en</from-outcome>
+			<to-view-id>/jsp/AddDrive-english.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+
+		<navigation-case>
+			<from-outcome>check_drives_en</from-outcome>
+			<to-view-id>/jsp/CheckDrives-english.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+
+		<navigation-case>
+			<from-outcome>comments_articles_en</from-outcome>
+			<to-view-id>/jsp/CommentsArticles-english.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+
+		<navigation-case>
+			<from-outcome>register_en</from-outcome>
+			<to-view-id>/jsp/Register-english.jsp</to-view-id>
+			<redirect />
+		</navigation-case>
+		
+		
+	</navigation-rule>
+
+
+	<!-- login rules -->
+	<!-- <navigation-rule>
+		<from-view-id>*</from-view-id> 
+		<navigation-case>
+		<from-action>#{authenticationController.authenticate}</from-action>
+		<from-outcome>success</from-outcome>
+		<to-view-id>/jsp/Home.jsp</to-view-id>
+		<redirect/>
+		</navigation-case>
+		
+		<navigation-case>
+		<from-action>#{authenticationController.logout}</from-action>
+		<from-outcome>done</from-outcome>
+		<to-view-id>/Home.jsp</to-view-id>
+		<redirect/>
+		</navigation-case>
+		
+		</navigation-rule> -->
+
+	<!-- Navigation rules finished -->
+	<managed-bean>
+		<managed-bean-name>addDriveController</managed-bean-name>
+		<managed-bean-class>
+			pl.com.autostopowicz.controller.AddDriveController
+		</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+		<managed-property>
+			<property-name>dataSource</property-name>
+			<value>#{databaseManager}</value>
+		</managed-property>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>startPageController</managed-bean-name>
+		<managed-bean-class>
+			pl.com.autostopowicz.controller.StartPageController
+		</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+		<managed-property>
+			<property-name>dataSource</property-name>
+			<value>#{databaseManager}</value>
+		</managed-property>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>
+			commentsArticlesController
+		</managed-bean-name>
+		<managed-bean-class>
+			pl.com.autostopowicz.controller.CommentsArticlesController
+		</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+		<managed-property>
+			<property-name>dataSource</property-name>
+			<value>#{databaseManager}</value>
+		</managed-property>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>checkDrivesController</managed-bean-name>
+		<managed-bean-class>
+			pl.com.autostopowicz.controller.CheckDrivesController
+		</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+		<managed-property>
+			<property-name>dataSource</property-name>
+			<value>#{databaseManager}</value>
+		</managed-property>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>helpController</managed-bean-name>
+		<managed-bean-class>
+			pl.com.autostopowicz.controller.HelpController
+		</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+		<managed-property>
+			<property-name>dataSource</property-name>
+			<value>#{databaseManager}</value>
+		</managed-property>
+	</managed-bean>
+
+	<managed-bean>
+		<managed-bean-name>registerController</managed-bean-name>
+		<managed-bean-class>
+			pl.com.autostopowicz.controller.RegisterController
+		</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+		<managed-property>
+			<property-name>dataSource</property-name>
+			<value>#{databaseManager}</value>
+		</managed-property>
+		
+		<managed-property>
+			<property-name>mailSender</property-name>
+			<value>#{mailSender}</value>
+		</managed-property>
+		
+		<managed-property>
+			<property-name>message</property-name>
+			<value>#{mailMessage}</value>
+		</managed-property>
+		
+	</managed-bean>
+	
+	
+		<managed-bean>
+		<managed-bean-name>registerConfirmController</managed-bean-name>
+		<managed-bean-class>
+			pl.com.autostopowicz.controller.RegisterConfirmController
+		</managed-bean-class>
+		<managed-bean-scope>request</managed-bean-scope>
+		<managed-property>
+			<property-name>dataSource</property-name>
+			<value>#{databaseManager}</value>
+		</managed-property>
+		<managed-property>
+        <property-name>test</property-name>
+        <value>#{param.test}</value>
+    	
+    		</managed-property>
+	</managed-bean>
+	
+	
+	<managed-bean>
+		<managed-bean-name>calendarBean</managed-bean-name>
+		<managed-bean-class>
+			pl.com.autostopowicz.model.CalendarBean
+		</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>gmBean</managed-bean-name>
+		<managed-bean-class>
+			pl.com.autostopowicz.model.GMapBean
+		</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>countriesBean</managed-bean-name>
+		<managed-bean-class>
+			pl.com.autostopowicz.model.CountriesBean
+		</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>citiesBean</managed-bean-name>
+		<managed-bean-class>
+			pl.com.autostopowicz.model.CitiesBean
+		</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>ddmenu</managed-bean-name>
+		<managed-bean-class>
+			pl.com.autostopowicz.model.Menu
+		</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>drive</managed-bean-name>
+		<managed-bean-class>
+			pl.com.autostopowicz.model.Drive
+		</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+	</managed-bean>
+</faces-config>

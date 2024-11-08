@@ -1,0 +1,110 @@
+	package pl.com.autostopowicz.dao;
+
+import java.sql.SQLException;
+import java.util.List;
+
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+import org.hibernate.Criteria;
+import org.hibernate.HibernateException;
+import org.hibernate.Session;
+import org.hibernate.criterion.Restrictions;
+import org.springframework.orm.hibernate3.HibernateCallback;
+import org.springframework.orm.hibernate3.support.HibernateDaoSupport;
+
+import pl.com.autostopowicz.entities.AutostopowiczUser;
+
+
+/**
+ * This class is the DAO implementation with all the queries needed in the
+ * project.
+ * 
+ * @author $Author$
+ * @version $Rev$
+ */
+public class AutostopowiczDAOImpl extends HibernateDaoSupport implements
+		AutostopowiczDAO {
+	// ~ Static fields/initializers
+	// -------------------------------------------------------------------------------------
+
+	// ~ Instance fields
+	// ------------------------------------------------------------------------------------------------
+
+	/** Logger */
+	Log log = LogFactory.getLog(AutostopowiczDAOImpl.class);
+
+	// ~ Methods
+	// --------------------------------------------------------------------------------------------------------
+
+	/**
+	 * Query taking out all records from Users table
+	 * 
+	 * @return List of all Users.
+	 */
+	public List getUsers() {
+		return getHibernateTemplate().find("from User");
+	}
+
+	/**
+	 * Query taking out User with specified unique id.
+	 * 
+	 * @param id
+	 *            PK of the Users table
+	 * 
+	 * @return Users user with <code>id</code>
+	 */
+	public AutostopowiczUser getUser(int id) {
+		return (AutostopowiczUser) getHibernateTemplate().get(
+				pl.com.autostopowicz.entities.AutostopowiczUser.class, new Integer(id));
+	}
+
+	/**
+	 * Query that save record to the Users table
+	 * 
+	 * @param user
+	 *            new User that is added to the table.
+	 */
+	public void saveUser(AutostopowiczUser user) {
+		getHibernateTemplate().save(user);
+
+		if (log.isDebugEnabled()) {
+			log.debug("userId set to: " + user.getId());
+		}
+	}
+
+	public void updateUser(AutostopowiczUser user) {
+		getHibernateTemplate().update(user);
+
+		if (log.isDebugEnabled()) {
+			log.debug("userId set to: " + user.getId());
+		}
+	}
+
+	/**
+	 * Query that removes User with the specified unique id form the Users
+	 * table.
+	 * 
+	 * @param id
+	 *            PK unique ID of the Users table.
+	 */
+	public void removeUser(int id) {
+		Object user = getHibernateTemplate().load(
+				pl.com.autostopowicz.entities.User.class, new Integer(id));
+		getHibernateTemplate().delete(user);
+	}
+
+	public AutostopowiczUser getUser(final String usrLogin) {
+		return (AutostopowiczUser) getHibernateTemplate().execute(new HibernateCallback() {
+			public Object doInHibernate(Session session)
+					throws HibernateException, SQLException {
+				Criteria criteria = session.createCriteria(AutostopowiczUser.class);
+
+				AutostopowiczUser user = (AutostopowiczUser) criteria.add(
+						Restrictions.like("autostopowiczLogin", usrLogin)).uniqueResult();
+				return user;
+			}
+		});
+	}
+
+
+}

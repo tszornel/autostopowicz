@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2008-04-13 11:36:48 by Hibernate Tools 3.2.0.b11 -->
+<hibernate-mapping>
+    <class name="pl.com.autostopowicz.entities.User" table="user" catalog="autostopowicz">
+        <comment></comment>
+        <id name="idUser" type="java.lang.Integer">
+            <column name="idUser" />
+            <generator class="identity" />
+        </id>
+        <many-to-one name="country" class="Country" fetch="select">
+            <column name="idCountry">
+                <comment></comment>
+            </column>
+        </many-to-one>
+        <many-to-one name="city" class="City" fetch="select">
+            <column name="idCity">
+                <comment></comment>
+            </column>
+        </many-to-one>
+        <property name="login" type="string">
+            <column name="login" length="50" not-null="true" unique="true">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="password" type="string">
+            <column name="password" length="50" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="email" type="string">
+            <column name="email" length="50" not-null="true" unique="true">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="role" type="int">
+            <column name="role" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="rank" type="int">
+            <column name="rank" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="name" type="string">
+            <column name="name" length="50">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="surname" type="string">
+            <column name="surname" length="50">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="address" type="string">
+            <column name="address" length="50">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="phone" type="string">
+            <column name="phone" length="15">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="description" type="string">
+            <column name="description" length="65535">
+                <comment></comment>
+            </column>
+        </property>
+        <set name="usercars" inverse="true">
+            <key>
+                <column name="idUser" not-null="true">
+                    <comment></comment>
+                </column>
+            </key>
+            <one-to-many class="Usercar" />
+        </set>
+        <set name="usergroups" inverse="true">
+            <key>
+                <column name="idUser" not-null="true">
+                    <comment></comment>
+                </column>
+            </key>
+            <one-to-many class="pl.com.autostopowicz.entities.Usergroup" />
+        </set>
+        <set name="drives" inverse="true">
+            <key>
+                <column name="idUser" not-null="true">
+                    <comment></comment>
+                </column>
+            </key>
+            <one-to-many class="pl.com.autostopowicz.entities.Drive" />
+        </set>
+    </class>
+</hibernate-mapping>

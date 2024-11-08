@@ -1,0 +1,19 @@
+8
+
+dir
+251
+svn+ssh://kapitanat/var/svn/autostopowicz/sources/branches/1.0/src/autostopowicz/maps-component/src/main/java/pl
+svn+ssh://kapitanat/var/svn/autostopowicz
+
+
+
+2007-12-07T08:32:45.051759Z
+4
+toms
+
+
+svn:special svn:externals svn:needs-lock
+
+com
+dir
+

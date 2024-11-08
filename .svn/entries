@@ -1,0 +1,49 @@
+8
+
+dir
+251
+svn+ssh://kapitanat/var/svn/autostopowicz
+svn+ssh://kapitanat/var/svn/autostopowicz
+
+
+
+2008-06-24T14:37:07.063749Z
+251
+toms
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83a767f4-8540-0410-bd16-91f79f8b2fd9
+
+documents
+dir
+
+sources
+dir
+
+first_file.txt
+file
+
+
+
+
+2008-06-16T21:03:00.250000Z
+c7191226c47ab24499863557d58da3ff
+2008-06-16T14:02:15.252934Z
+197
+toms
+
+workspace
+dir
+

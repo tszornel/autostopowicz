@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+<!DOCTYPE digester-rules SYSTEM "digester-rules.dtd">
+-->
+
+<digester-rules>
+	<pattern value="*/city">
+		<object-create-rule	classname="pl.com.autostopowicz.model.Country" />
+		<bean-property-setter-rule pattern="name" propertyname="name"/>	
+		<bean-property-setter-rule pattern="community" propertyname="community"/>	
+		<set-next-rule methodname="addCity"/>
+	</pattern>
+</digester-rules>

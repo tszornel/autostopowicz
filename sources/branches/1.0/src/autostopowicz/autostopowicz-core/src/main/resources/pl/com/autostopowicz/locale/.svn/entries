@@ -1,0 +1,52 @@
+8
+
+dir
+251
+svn+ssh://kapitanat/var/svn/autostopowicz/sources/branches/1.0/src/autostopowicz/autostopowicz-core/src/main/resources/pl/com/autostopowicz/locale
+svn+ssh://kapitanat/var/svn/autostopowicz
+
+
+
+2008-06-17T17:53:02.584094Z
+202
+pkshhz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83a767f4-8540-0410-bd16-91f79f8b2fd9
+
+Locale_eng.properties
+file
+
+
+
+
+2008-04-08T07:36:18.171875Z
+a769b60fb82ea783a3f8b5dff662f66f
+2008-03-26T21:48:18.715223Z
+80
+woan
+
+Locale_pl.properties
+file
+
+
+
+
+2008-06-17T20:04:32.125000Z
+49906a7cceab52c5d05125c2c5279c30
+2008-06-17T17:53:02.584094Z
+202
+pkshhz
+

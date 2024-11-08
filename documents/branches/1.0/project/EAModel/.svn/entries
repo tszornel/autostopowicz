@@ -1,0 +1,53 @@
+8
+
+dir
+251
+svn+ssh://kapitanat/var/svn/autostopowicz/documents/branches/1.0/project/EAModel
+svn+ssh://kapitanat/var/svn/autostopowicz
+
+
+
+2008-03-24T23:56:27.914493Z
+76
+woan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83a767f4-8540-0410-bd16-91f79f8b2fd9
+
+autostopowicz.xml
+file
+
+
+
+
+2007-12-12T08:53:28.188212Z
+35aff195d6d23e0c7d7119076a834724
+2007-12-12T09:01:35.074659Z
+15
+toms
+
+autostopowicz.eap
+file
+
+
+
+
+2008-04-12T09:45:09.125000Z
+679bd29b7dbed592ff51ebe11efd032e
+2008-03-24T23:56:27.914493Z
+76
+woan
+has-props
+

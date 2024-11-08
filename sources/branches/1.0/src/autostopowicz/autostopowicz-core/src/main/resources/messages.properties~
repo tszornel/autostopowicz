@@ -1,0 +1,13 @@
+error.login.not-specified=User credentials not specified (try guest/guest).
+error.login.invalid-user=Username not valid, try 'guest'
+error.login.invalid-pass=Password not valid, try 'guest'
+error.trade.insufficient-funds=You do not have enough money to place this order
+error.trade.not-enough-shares=You do not have that many shares
+error.trade.dont-own=You don't own this stock
+error.trade.invalid-symbol=Invalid ticker symbol: {0}
+
+
+
+error.account-settngs.name-empty=Name empty
+error.account-settngs.password-empty=Password Empty
+error.account-settngs.passwords-dont-match=Passwords Dont Match

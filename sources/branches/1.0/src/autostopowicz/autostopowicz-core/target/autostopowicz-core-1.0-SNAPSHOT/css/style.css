@@ -1,0 +1,334 @@
+a:link {
+	color: #000000;
+}
+
+a:visited {
+	color: #000000;
+}
+
+a:hover {
+	color: #FF0000;
+}
+
+a:active {
+	color: #336699;
+}
+
+html {
+	background-color: #FF9900;
+}
+
+li {
+	text-decoration: none;
+}
+
+ul li {
+	text-decoration: none;
+}
+
+body {
+	text-align: center; /*center hack*/
+	font-family: georgia, "times new roman", arial;
+	color: black;
+}
+
+#wrap {
+	width: 1024px; /*center hack*/
+	margin: 0% auto; /*center hack*/
+	text-align: left;
+	background: repeat-x;
+	background-color: white;
+	padding: 1% 0% 0% 0%;
+	/*height: 768px;*/
+	cursor: arrow;
+}
+
+.centered {
+	text-align: center;
+	margin: 0px auto;
+}
+#loginbox_subpage ul {
+	list-style-type:none;
+	text-align:center;
+	white-space:nowrap;	
+	clear:right;
+	height:14px;
+	padding-left:19px;
+
+	
+}
+
+#loginbox_subpage ul li{
+display:inline;
+float:right;
+margin:0px 5px 0px 0px;
+padding:0;
+text-align:center;
+white-space:nowrap;
+
+}
+
+
+#header,#header-english {
+	margin: 2% 1% 0% 1%;
+	background-position: center;
+	background-color: #2A89CD;
+	padding: 10px 20px 0px 20px;
+	background-repeat: no-repeat;
+	height: 240px;
+	border: 1px solid black;
+	background-image: url(../images/autostopowicz-header.jpg);
+}
+
+#header-english {
+	background-image: url(../images/hitch-hiker-header.jpg);
+}
+
+#header-subpage {
+	z-index: 1;
+	clear: right;
+	margin: 2% 1% 0% 1%;
+	background-position: left;
+	background-color: #FFFFFF;
+	padding: auto auto 0px auto;
+	background-repeat: no-repeat;
+	height: 140px;
+	border: 1px solid black;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: oblique;
+	font-size: 42px;
+	text-align: center;
+}
+
+#logo {
+	margin: 5% 1% 0% 1%;
+	float: right;
+	width: 60%;
+	background-position: left;
+	background-color: #FFFFFF;
+	padding: auto auto 0px 20px;
+	background-repeat: no-repeat;
+	z-index: 0;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: oblique;
+	font-size: 52px;
+	text-align: center;
+}
+
+#content { /*margin: 2% 1% 0% 1%;*/
+	padding: 4% 1% 2% 1%;
+	background-color: white;
+	min-height:450px;
+}
+
+#topic {
+	margin: 0% auto 0% auto;
+	padding: 1% auto 2% auto;
+	/*background-color:#eeaa00 ;*/
+	width: 82%;
+	background-color: #2A89CD;
+}
+
+div#menu {
+	color: black;
+	text-align: center;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: oblique;
+	font-size: x-large;
+	margin: 0% 1% 0% 1%;
+	padding-bottom: 10px;
+	background-color: #FFFFFF;
+}
+
+#loginbox { /*width: 200px;*/
+	text-align: center;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	/*height:150px;*/ /*float:right;*/
+}
+
+#loginbox_top {
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+.loginbox_fill_top,.loginbox_fill_bottom {
+	width: 100%;
+	height: 29px;
+	background-image: url(../images/loginbox/top_fill.png);
+	background-repeat: x-repeat;
+	padding: 0px;
+	margin: 0px;
+}
+
+.loginbox_fill_bottom {
+	background-image: url(../images/loginbox/bottom_fill.png);
+}
+
+#login_table {
+	-border: 1px solid #0000C8;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 3px;
+}
+
+#loginbox_content {
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	padding: 0px;
+	margin: 0px;
+	width: 194px;
+}
+
+#language_change {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#selection {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	padding-bottom: 5px;
+}
+
+#selection #selection_table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.submit-button {
+	color: #336699;
+	background-color: #FFCC33;
+	text-decoration: none;
+	border: 1px solid #000033;
+	text-align: center;
+	margin: auto;
+	width: 75%;
+	padding-left: 3px;
+	padding-right: 3px;
+	font-weight: bold;
+}
+
+.menu-button1 {
+	background: no-repeat url(../images/buttons/button1_up.jpg);
+	width: 100%;
+	height: 29px;
+}
+
+.pic-normal {
+	width: 120px;
+	border: 2px solid #ACBECE;
+}
+
+.wrap1 {
+	width: 190px;
+	height: 130px;
+	float: left;
+}
+
+.col { /*width:50%;*/
+	padding: 0px 0px 0px 0px;
+	vertical-align: top;
+}
+
+
+
+.menu-button1:hover {
+	background: no-repeat url(../images/buttons/button1_down.jpg);
+}
+
+.submit-button:hover {
+	text-shadow: #000000;
+}
+
+.button {
+	margin-left: 4px;
+	margin-right: 4px;
+}
+
+.down {
+	padding-top: 10px;
+}
+
+.blink {
+	text-decoration: blink;
+}
+
+.nounderline {
+	text-decoration: none;
+}
+
+.header1 {
+	background-image: url(../images/addDrive.jpg);
+}
+
+.header2 {
+	background-image: url(../images/checkDrive.jpg);
+}
+
+.header3 {
+	background-image: url(../images/opinions.jpg);
+}
+
+.header4 {
+	background-image: url(../images/help.jpg);
+}
+
+.header5 {
+	background-image: url(../images/register.jpg);
+}
+
+.header6 {
+	background-image: url(../images/profile.jpg);
+}
+
+.style1 {
+	color: #FFCC33;
+	margin: 0px;
+	padding: 0px;
+}
+
+.style2 {
+	color: #CC0000;
+	margin: 0px;
+	padding: 0px;
+}
+
+.style3 {
+	color: #000000;
+	margin: 0px;
+	padding: 0px;
+}
+.row{
+	vertical-align:middle;
+	text-align:center;
+}
+
+.rowModale{
+	height:600px;
+	
+}
+.label{
+	font-weight: bold;
+	
+}
+
+.button{
+	background-color:#BED6F8;
+	color:#000000;
+	border-color:#BED6F8;
+	font-family:Arial,Verdana,sans-serif;
+	font-size:14px;
+	background-image: url(../images/button.png);
+	margin:auto auto;
+	padding: 0px 2px;
+
+}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>pl.com.autostopowicz</groupId>
+	<artifactId>autostopowicz-abstract</artifactId>
+	<packaging>pom</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<name>--autostopowicz--</name>
+	<repositories>
+		<repository>
+			<id>autostopowicz-repo-id</id>
+			<name>Autostopowicz Repository</name>
+			<layout>default</layout>
+			<url>http://ip.ip.ip.ip/autostopowicz</url>
+			<releases>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+			</releases>
+			<snapshots>
+				<enabled>false</enabled>
+				<updatePolicy>always</updatePolicy>
+			</snapshots>
+		</repository>
+		<repository>
+			<id>autostopowicz-repo-snapshot</id>
+			<name>Autostopowicz Snapshot Repository</name>
+			<layout>default</layout>
+			<url>http://ip.ip.ip.ip/autostopowicz-snapshot</url>
+			<releases>
+				<enabled>false</enabled>
+				<updatePolicy>always</updatePolicy>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+			</snapshots>
+		</repository>
+	 </repositories>
+	<distributionManagement>
+		<repository>
+			<id>autostopowicz-deploy</id>
+			<url>ftp://ip.ip.ip.ip/projects/autostopowicz/</url>
+		</repository>
+		<snapshotRepository>
+			<id>parlay-deploy-maven2-snapshot</id>
+			<url>ftp://ip.ip.ip.ip/projects/autostopowicz-snapshot/</url>
+		</snapshotRepository>
+	   
+	</distributionManagement>
+	<modules>
+		<!--1-->
+		<module>autostopowicz</module>
+	  
+	</modules>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-compiler-plugin</artifactId>
+						<configuration>
+							<source>1.5</source>
+							<target>1.5</target>
+						</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

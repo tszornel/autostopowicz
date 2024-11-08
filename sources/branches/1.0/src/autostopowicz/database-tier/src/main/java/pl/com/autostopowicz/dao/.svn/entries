@@ -1,0 +1,54 @@
+8
+
+dir
+251
+svn+ssh://kapitanat/var/svn/autostopowicz/sources/branches/1.0/src/autostopowicz/database-tier/src/main/java/pl/com/autostopowicz/dao
+svn+ssh://kapitanat/var/svn/autostopowicz
+
+
+
+2008-06-20T11:36:46.325734Z
+234
+toms
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83a767f4-8540-0410-bd16-91f79f8b2fd9
+
+AutostopowiczDAOImpl.java
+file
+
+
+
+
+2008-06-20T20:23:52.468750Z
+860291fa364d1a94a48b80d7c2df1741
+2008-06-20T11:36:46.325734Z
+234
+toms
+has-props
+
+AutostopowiczDAO.java
+file
+
+
+
+
+2008-06-20T20:23:52.468750Z
+b929df7087b818a46d12d3bc0b72b9fd
+2008-06-20T11:36:46.325734Z
+234
+toms
+has-props
+

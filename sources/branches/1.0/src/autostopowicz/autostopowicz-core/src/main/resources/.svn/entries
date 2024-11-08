@@ -1,0 +1,55 @@
+8
+
+dir
+251
+svn+ssh://kapitanat/var/svn/autostopowicz/sources/branches/1.0/src/autostopowicz/autostopowicz-core/src/main/resources
+svn+ssh://kapitanat/var/svn/autostopowicz
+
+
+
+2008-06-17T17:53:02.584094Z
+202
+pkshhz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83a767f4-8540-0410-bd16-91f79f8b2fd9
+
+messages.properties
+file
+
+
+
+
+2007-12-14T09:41:16.468750Z
+db902a8cf19aaed85b3608e81607adbf
+2007-12-14T09:42:05.424575Z
+39
+toms
+
+log4j.properties
+file
+
+
+
+
+2008-04-17T12:53:27.625000Z
+d4e8bd3f27a41b11a75705586007d4b7
+2008-04-25T14:23:41.345204Z
+118
+toms
+
+pl
+dir
+

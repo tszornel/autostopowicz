@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<parent>
+		<artifactId>autostopowicz-abstract</artifactId>
+		<groupId>pl.com.autostopowicz</groupId>
+		<version>1.0-SNAPSHOT</version>
+		<relativePath>..</relativePath>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>pl.com.autostopowicz</groupId>
+	<artifactId>autostopowicz</artifactId>
+	<packaging>pom</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<name>-autostopowicz--</name>
+	<repositories>
+		<repository>
+			<id>parlay-maven2-snapshot</id>
+			<name>Ericpol Maven 2 Snapshot Repository</name>
+			<layout>default</layout>
+			<url>http://ip.ip.ip.ip/autostopowicz-snapshot</url>
+			<releases>
+				<enabled>false</enabled>
+				<updatePolicy>always</updatePolicy>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+			</snapshots>
+		</repository>
+	</repositories>
+	<modules>
+		<!--1-->
+		<module>database-tier</module>
+		<!--2-->
+		<module>maps-component</module>
+		<!--3-->
+		<module>autostopowicz-core</module>   
+	</modules>
+</project>

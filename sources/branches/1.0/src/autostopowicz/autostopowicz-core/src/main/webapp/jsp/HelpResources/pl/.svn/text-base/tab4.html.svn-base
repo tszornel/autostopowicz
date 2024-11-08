@@ -1,0 +1,9 @@
+﻿            <p>
+            Głównym zadaniem serwisu jest umożliwienie sprawnego wyszukiwania informacji o planowanych podróżach.
+            Służy do tego zakładka <strong>Szukaj Tras</strong> dostępna z głównej strony serwisu.
+            
+            Dostępne trasy można szukać podając miejsce początkowe, końcowe oraz datę.
+            Dzięki opcji dokładność możemy wyświetlić trasy wcześniejsze lub późniejsze o kilka dni w stosunku do interesującej nas daty.
+            
+            Istnieje również możliwość podania interesującej nas wolnej liczby miejsc.
+            </p>

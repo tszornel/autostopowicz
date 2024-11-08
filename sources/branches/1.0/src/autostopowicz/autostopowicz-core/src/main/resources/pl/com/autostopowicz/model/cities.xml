@@ -1,0 +1,6847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+<city>
+	<name>Aleksandrów Kujawski</name>
+	<community>Aleksandrów Kujawski</community>
+</city>
+<city>
+	<name>Aleksandrów Łódzki</name>
+	<community>Aleksandrów Łódzki</community>
+</city>
+<city>
+	<name>Alwernia</name>
+	<community>Alwernia</community>
+</city>
+<city>
+	<name>Andrespol</name>
+	<community>Andrespol</community>
+</city>
+<city>
+	<name>Andrychów</name>
+	<community>Andrychów</community>
+</city>
+<city>
+	<name>Annopol</name>
+	<community>Annopol</community>
+</city>
+<city>
+	<name>Antoniew</name>
+	<community>Aleksandrów Łódzki</community>
+</city>
+<city>
+	<name>Augustów</name>
+	<community>Augustów</community>
+</city>
+<city>
+	<name>Babice</name>
+	<community>Nędza</community>
+</city>
+<city>
+	<name>Babimost</name>
+	<community>Babimost</community>
+</city>
+<city>
+	<name>Baborów</name>
+	<community>Baborów</community>
+</city>
+<city>
+	<name>Banie</name>
+	<community>Banie</community>
+</city>
+<city>
+	<name>Baranowo</name>
+	<community>Tarnowo Podgórne</community>
+</city>
+<city>
+	<name>Baranów Sandomierski</name>
+	<community>Baranów Sandomierski</community>
+</city>
+<city>
+	<name>Barcin</name>
+	<community>Barcin</community>
+</city>
+<city>
+	<name>Barczewo</name>
+	<community>Barczewo</community>
+</city>
+<city>
+	<name>Bardo</name>
+	<community>Bardo</community>
+</city>
+<city>
+	<name>Barkowo</name>
+	<community>Gryfice</community>
+</city>
+<city>
+	<name>Barlinek</name>
+	<community>Barlinek</community>
+</city>
+<city>
+	<name>Bartnica</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Bartoszyce</name>
+	<community>Bartoszyce</community>
+</city>
+<city>
+	<name>Barwice</name>
+	<community>Barwice</community>
+</city>
+<city>
+	<name>Bażany</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Bedoń Przykościelny</name>
+	<community>Andrespol</community>
+</city>
+<city>
+	<name>Bedoń-Wieś</name>
+	<community>Andrespol</community>
+</city>
+<city>
+	<name>Benice</name>
+	<community>Krotoszyn</community>
+</city>
+<city>
+	<name>Bezrzecze</name>
+	<community>Dobra (Szczecińska)</community>
+</city>
+<city>
+	<name>Bełchatów</name>
+	<community>Bełchatów</community>
+</city>
+<city>
+	<name>Bełk</name>
+	<community>Czerwionka-Leszczyny</community>
+</city>
+<city>
+	<name>Bełżyce</name>
+	<community>Bełżyce</community>
+</city>
+<city>
+	<name>Biadacz</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Biadki</name>
+	<community>Krotoszyn</community>
+</city>
+<city>
+	<name>Biała</name>
+	<community>Biała</community>
+</city>
+<city>
+	<name>Biała Piska</name>
+	<community>Biała Piska</community>
+</city>
+<city>
+	<name>Biała Podlaska</name>
+	<community>Biała Podlaska</community>
+</city>
+<city>
+	<name>Biała Rawska</name>
+	<community>Biała Rawska</community>
+</city>
+<city>
+	<name>Białe Błoto</name>
+	<community>Dobroszyce</community>
+</city>
+<city>
+	<name>Białków</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Białobrzegi</name>
+	<community>Białobrzegi</community>
+</city>
+<city>
+	<name>Białogard</name>
+	<community>Białogard</community>
+</city>
+<city>
+	<name>Białowieża</name>
+	<community>Białowieża</community>
+</city>
+<city>
+	<name>Białośliwie</name>
+	<community>Białośliwie</community>
+</city>
+<city>
+	<name>Biały Bór</name>
+	<community>Biały Bór</community>
+</city>
+<city>
+	<name>Białystok</name>
+	<community>Białystok</community>
+</city>
+<city>
+	<name>Biecz</name>
+	<community>Biecz</community>
+</city>
+<city>
+	<name>Bieczyno</name>
+	<community>Trzebiatów</community>
+</city>
+<city>
+	<name>Bielany Wrocławskie</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Bielawa</name>
+	<community>Bielawa</community>
+</city>
+<city>
+	<name>Bielawa</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Bielawa</name>
+	<community>Konstancin-Jeziorna</community>
+</city>
+<city>
+	<name>Bielice</name>
+	<community>Bielice</community>
+</city>
+<city>
+	<name>Bielikowo</name>
+	<community>Brojce</community>
+</city>
+<city>
+	<name>Bielsk Podlaski</name>
+	<community>Bielsk Podlaski</community>
+</city>
+<city>
+	<name>Bielsko-Biała</name>
+	<community>Bielsko-Biała</community>
+</city>
+<city>
+	<name>Bielsko-Biała</name>
+	<community>Kozy</community>
+</city>
+<city>
+	<name>Bierkowice</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Bierutów</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Bieruń</name>
+	<community>Bieruń</community>
+</city>
+<city>
+	<name>Bieruń</name>
+	<community>Tychy</community>
+</city>
+<city>
+	<name>Bierzyce</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Biestrzyków</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Bieżuń</name>
+	<community>Bieżuń</community>
+</city>
+<city>
+	<name>Bieńkowice</name>
+	<community>Krzyżanowice</community>
+</city>
+<city>
+	<name>Biskupice Podgórne</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Biskupiec</name>
+	<community>Biskupiec</community>
+</city>
+<city>
+	<name>Bisztynek</name>
+	<community>Bisztynek</community>
+</city>
+<city>
+	<name>Biłgoraj</name>
+	<community>Biłgoraj</community>
+</city>
+<city>
+	<name>Blachownia</name>
+	<community>Blachownia</community>
+</city>
+<city>
+	<name>Blizne Jasińskiego</name>
+	<community>Stare Babice</community>
+</city>
+<city>
+	<name>Blizne Łaszczyńskiego</name>
+	<community>Stare Babice</community>
+</city>
+<city>
+	<name>Bobolice</name>
+	<community>Bobolice</community>
+</city>
+<city>
+	<name>Boboszów</name>
+	<community>Międzylesie</community>
+</city>
+<city>
+	<name>Bobrowniki</name>
+	<community>Bobrowniki</community>
+</city>
+<city>
+	<name>Bochnia</name>
+	<community>Bochnia</community>
+</city>
+<city>
+	<name>Bodzentyn</name>
+	<community>Bodzentyn</community>
+</city>
+<city>
+	<name>Bogacica</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Bogacka Szklarnia</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Bogatynia</name>
+	<community>Bogatynia</community>
+</city>
+<city>
+	<name>Bogdaszowice</name>
+	<community>Kostomłoty</community>
+</city>
+<city>
+	<name>Bogdańczowice</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Boguchwała</name>
+	<community>Boguchwała</community>
+</city>
+<city>
+	<name>Boguszyce</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Boguszyce</name>
+	<community>Prószków</community>
+</city>
+<city>
+	<name>Boguszów-Gorce</name>
+	<community>Boguszów-Gorce</community>
+</city>
+<city>
+	<name>Bogusławice</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Bogusławice</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Bojanowo</name>
+	<community>Bojanowo</community>
+</city>
+<city>
+	<name>Bolesław</name>
+	<community>Krzyżanowice</community>
+</city>
+<city>
+	<name>Bolesławiec</name>
+	<community>Bolesławiec</community>
+</city>
+<city>
+	<name>Bolków</name>
+	<community>Bolków</community>
+</city>
+<city>
+	<name>Bolszewo</name>
+	<community>Wejherowo</community>
+</city>
+<city>
+	<name>Borchówka</name>
+	<community>Nowosolna</community>
+</city>
+<city>
+	<name>Borek Wielkopolski</name>
+	<community>Borek Wielkopolski</community>
+</city>
+<city>
+	<name>Borki</name>
+	<community>Dobrzeń Wielki</community>
+</city>
+<city>
+	<name>Borkowice</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Borne Sulinowo</name>
+	<community>Borne Sulinowo</community>
+</city>
+<city>
+	<name>Borowa</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Borowina</name>
+	<community>Konstancin-Jeziorna</community>
+</city>
+<city>
+	<name>Boruszowice</name>
+	<community>Tworóg</community>
+</city>
+<city>
+	<name>Borówiec</name>
+	<community>Kórnik</community>
+</city>
+<city>
+	<name>Borówno</name>
+	<community>Czarny Bór</community>
+</city>
+<city>
+	<name>Bożacin</name>
+	<community>Krotoszyn</community>
+</city>
+<city>
+	<name>Bożków</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Bralin</name>
+	<community>Bralin</community>
+</city>
+<city>
+	<name>Braniewo</name>
+	<community>Braniewo</community>
+</city>
+<city>
+	<name>Brańsk</name>
+	<community>Brańsk</community>
+</city>
+<city>
+	<name>Brodnica</name>
+	<community>Brodnica</community>
+</city>
+<city>
+	<name>Brojce</name>
+	<community>Brojce</community>
+</city>
+<city>
+	<name>Brok</name>
+	<community>Brok</community>
+</city>
+<city>
+	<name>Bronisin Dworski</name>
+	<community>Rzgów</community>
+</city>
+<city>
+	<name>Bronów</name>
+	<community>Czechowice-Dziedzice</community>
+</city>
+<city>
+	<name>Brusiek</name>
+	<community>Koszęcin</community>
+</city>
+<city>
+	<name>Brusy</name>
+	<community>Brusy</community>
+</city>
+<city>
+	<name>Brwinów</name>
+	<community>Brwinów</community>
+</city>
+<city>
+	<name>Brynica</name>
+	<community>Łubniany</community>
+</city>
+<city>
+	<name>Brzeg</name>
+	<community>Brzeg</community>
+</city>
+<city>
+	<name>Brzeg Dolny</name>
+	<community>Brzeg Dolny</community>
+</city>
+<city>
+	<name>Brzesko</name>
+	<community>Brzesko</community>
+</city>
+<city>
+	<name>Brzeszcze</name>
+	<community>Brzeszcze</community>
+</city>
+<city>
+	<name>Brzezia Łąka</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Brzezinka</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Brzeziny</name>
+	<community>Brzeziny</community>
+</city>
+<city>
+	<name>Brześć Kujawski</name>
+	<community>Brześć Kujawski</community>
+</city>
+<city>
+	<name>Brzeźce</name>
+	<community>Bierawa</community>
+</city>
+<city>
+	<name>Brzeźce</name>
+	<community>Pszczyna</community>
+</city>
+<city>
+	<name>Brzeźnica Nowa</name>
+	<community>Nowa Brzeźnica</community>
+</city>
+<city>
+	<name>Brzozów</name>
+	<community>Brzozów</community>
+</city>
+<city>
+	<name>Brójce</name>
+	<community>Brójce</community>
+</city>
+<city>
+	<name>Budzistowo</name>
+	<community>Kołobrzeg</community>
+</city>
+<city>
+	<name>Buk</name>
+	<community>Buk</community>
+</city>
+<city>
+	<name>Bukowiec</name>
+	<community>Brójce</community>
+</city>
+<city>
+	<name>Bukowiec</name>
+	<community>Mysłakowice</community>
+</city>
+<city>
+	<name>Bukowina</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Bukowina Tatrzańska</name>
+	<community>Bukowina Tatrzańska</community>
+</city>
+<city>
+	<name>Bukowno</name>
+	<community>Bukowno</community>
+</city>
+<city>
+	<name>Buków</name>
+	<community>Lubomia</community>
+</city>
+<city>
+	<name>Busko-Zdrój</name>
+	<community>Busko-Zdrój</community>
+</city>
+<city>
+	<name>Bychawa</name>
+	<community>Bychawa</community>
+</city>
+<city>
+	<name>Bycina</name>
+	<community>Rudziniec</community>
+</city>
+<city>
+	<name>Byczyna</name>
+	<community>Byczyna</community>
+</city>
+<city>
+	<name>Bydgoszcz</name>
+	<community>Białe Błota</community>
+</city>
+<city>
+	<name>Bydgoszcz</name>
+	<community>Bydgoszcz</community>
+</city>
+<city>
+	<name>Bydlin</name>
+	<community>Klucze</community>
+</city>
+<city>
+	<name>Byków</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Bystra Śląska</name>
+	<community>Wilkowice</community>
+</city>
+<city>
+	<name>Bystre</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Bystrzyca Kłodzka</name>
+	<community>Bystrzyca Kłodzka</community>
+</city>
+<city>
+	<name>Byszewy</name>
+	<community>Nowosolna</community>
+</city>
+<city>
+	<name>Bytom</name>
+	<community>Bytom</community>
+</city>
+<city>
+	<name>Bytom</name>
+	<community>Zabrze</community>
+</city>
+<city>
+	<name>Bytom</name>
+	<community>Świętochłowice</community>
+</city>
+<city>
+	<name>Bytom Odrzański</name>
+	<community>Bytom Odrzański</community>
+</city>
+<city>
+	<name>Bytów</name>
+	<community>Bytów</community>
+</city>
+<city>
+	<name>Błaszki</name>
+	<community>Błaszki</community>
+</city>
+<city>
+	<name>Błażowa</name>
+	<community>Błażowa</community>
+</city>
+<city>
+	<name>Błonie</name>
+	<community>Błonie</community>
+</city>
+<city>
+	<name>Bąków</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Bąków</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Bąków</name>
+	<community>Strumień</community>
+</city>
+<city>
+	<name>Będzin</name>
+	<community>Będzin</community>
+</city>
+<city>
+	<name>Cedynia</name>
+	<community>Cedynia</community>
+</city>
+<city>
+	<name>Cerkwica</name>
+	<community>Karnice</community>
+</city>
+<city>
+	<name>Cesarzowice</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Chałupki</name>
+	<community>Krzyżanowice</community>
+</city>
+<city>
+	<name>Chałupy</name>
+	<community>Władysławowo</community>
+</city>
+<city>
+	<name>Chechło</name>
+	<community>Klucze</community>
+</city>
+<city>
+	<name>Chełm</name>
+	<community>Chełm</community>
+</city>
+<city>
+	<name>Chełmek</name>
+	<community>Chełmek</community>
+</city>
+<city>
+	<name>Chełmno</name>
+	<community>Chełmno</community>
+</city>
+<city>
+	<name>Chełmsko Śląskie</name>
+	<community>Lubawka</community>
+</city>
+<city>
+	<name>Chełmża</name>
+	<community>Chełmża</community>
+</city>
+<city>
+	<name>Chełstów</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Chełstówek</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Chmielnik</name>
+	<community>Chmielnik</community>
+</city>
+<city>
+	<name>Chmielno</name>
+	<community>Chmielno</community>
+</city>
+<city>
+	<name>Chmielowice</name>
+	<community>Komprachcice</community>
+</city>
+<city>
+	<name>Chocianów</name>
+	<community>Chocianów</community>
+</city>
+<city>
+	<name>Chocieszów</name>
+	<community>Szczytna</community>
+</city>
+<city>
+	<name>Chociwel</name>
+	<community>Chociwel</community>
+</city>
+<city>
+	<name>Chodecz</name>
+	<community>Chodecz</community>
+</city>
+<city>
+	<name>Chodzież</name>
+	<community>Chodzież</community>
+</city>
+<city>
+	<name>Chojna</name>
+	<community>Chojna</community>
+</city>
+<city>
+	<name>Chojnice</name>
+	<community>Chojnice</community>
+</city>
+<city>
+	<name>Chojnów</name>
+	<community>Chojnów</community>
+</city>
+<city>
+	<name>Chomętowo</name>
+	<community>Trzebiatów</community>
+</city>
+<city>
+	<name>Choroszcz</name>
+	<community>Choroszcz</community>
+</city>
+<city>
+	<name>Chorzele</name>
+	<community>Chorzele</community>
+</city>
+<city>
+	<name>Chorzów</name>
+	<community>Chorzów</community>
+</city>
+<city>
+	<name>Choszczno</name>
+	<community>Choszczno</community>
+</city>
+<city>
+	<name>Chrzanów</name>
+	<community>Chrzanów</community>
+</city>
+<city>
+	<name>Chrząstawa Mała</name>
+	<community>Czernica</community>
+</city>
+<city>
+	<name>Chrząstawa Wielka</name>
+	<community>Czernica</community>
+</city>
+<city>
+	<name>Chróścina</name>
+	<community>Dąbrowa</community>
+</city>
+<city>
+	<name>Chudów</name>
+	<community>Gierałtowice</community>
+</city>
+<city>
+	<name>Chwaliszew</name>
+	<community>Krotoszyn</community>
+</city>
+<city>
+	<name>Chwaszczyno</name>
+	<community>Żukowo</community>
+</city>
+<city>
+	<name>Chylice</name>
+	<community>Piaseczno</community>
+</city>
+<city>
+	<name>Chyliczki</name>
+	<community>Piaseczno</community>
+</city>
+<city>
+	<name>Chłopy</name>
+	<community>Mielno</community>
+</city>
+<city>
+	<name>Chęciny</name>
+	<community>Chęciny</community>
+</city>
+<city>
+	<name>Ciechanowiec</name>
+	<community>Ciechanowiec</community>
+</city>
+<city>
+	<name>Ciechanów</name>
+	<community>Ciechanów</community>
+</city>
+<city>
+	<name>Ciechocinek</name>
+	<community>Ciechocinek</community>
+</city>
+<city>
+	<name>Cieszanów</name>
+	<community>Cieszanów</community>
+</city>
+<city>
+	<name>Cieszowa</name>
+	<community>Koszęcin</community>
+</city>
+<city>
+	<name>Cieszyce</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Cieszyn</name>
+	<community>Cieszyn</community>
+</city>
+<city>
+	<name>Cieśle</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Cieślin</name>
+	<community>Klucze</community>
+</city>
+<city>
+	<name>Ciećmierz</name>
+	<community>Karnice</community>
+</city>
+<city>
+	<name>Ciężkowice</name>
+	<community>Ciężkowice</community>
+</city>
+<city>
+	<name>Cybinka</name>
+	<community>Cybinka</community>
+</city>
+<city>
+	<name>Czaplinek</name>
+	<community>Czaplinek</community>
+</city>
+<city>
+	<name>Czarków</name>
+	<community>Pszczyna</community>
+</city>
+<city>
+	<name>Czarna Białostocka</name>
+	<community>Czarna Białostocka</community>
+</city>
+<city>
+	<name>Czarna Woda</name>
+	<community>Czarna Woda</community>
+</city>
+<city>
+	<name>Czarne</name>
+	<community>Czarne</community>
+</city>
+<city>
+	<name>Czarnków</name>
+	<community>Czarnków</community>
+</city>
+<city>
+	<name>Czarnowąsy</name>
+	<community>Dobrzeń Wielki</community>
+</city>
+<city>
+	<name>Czarny Bór</name>
+	<community>Czarny Bór</community>
+</city>
+<city>
+	<name>Czarnów</name>
+	<community>Konstancin-Jeziorna</community>
+</city>
+<city>
+	<name>Czchów</name>
+	<community>Czchów</community>
+</city>
+<city>
+	<name>Czechowice-Dziedzice</name>
+	<community>Czechowice-Dziedzice</community>
+</city>
+<city>
+	<name>Czeladź</name>
+	<community>Czeladź</community>
+</city>
+<city>
+	<name>Czempiń</name>
+	<community>Czempiń</community>
+</city>
+<city>
+	<name>Czernica</name>
+	<community>Czernica</community>
+</city>
+<city>
+	<name>Czerniejewo</name>
+	<community>Czerniejewo</community>
+</city>
+<city>
+	<name>Czersk</name>
+	<community>Czersk</community>
+</city>
+<city>
+	<name>Czersk</name>
+	<community>Góra Kalwaria</community>
+</city>
+<city>
+	<name>Czerwieńczyce</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Czerwieńsk</name>
+	<community>Czerwieńsk</community>
+</city>
+<city>
+	<name>Czerwionka-Leszczyny</name>
+	<community>Czerwionka-Leszczyny</community>
+</city>
+<city>
+	<name>Czerwińsk nad Wisłą</name>
+	<community>Czerwińsk nad Wisłą</community>
+</city>
+<city>
+	<name>Czerńczyce</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Czeszów</name>
+	<community>Zawonia</community>
+</city>
+<city>
+	<name>Czyżeminek</name>
+	<community>Rzgów</community>
+</city>
+<city>
+	<name>Człopa</name>
+	<community>Człopa</community>
+</city>
+<city>
+	<name>Człuchów</name>
+	<community>Człuchów</community>
+</city>
+<city>
+	<name>Częstochowa</name>
+	<community>Częstochowa</community>
+</city>
+<city>
+	<name>Ćmielów</name>
+	<community>Ćmielów</community>
+</city>
+<city>
+	<name>Daleszyce</name>
+	<community></community>
+</city>
+<city>
+	<name>Dalików</name>
+	<community>Dalików</community>
+</city>
+<city>
+	<name>Dargosław</name>
+	<community>Brojce</community>
+</city>
+<city>
+	<name>Darłowo</name>
+	<community>Darłowo</community>
+</city>
+<city>
+	<name>Darżewo</name>
+	<community>Brojce</community>
+</city>
+<city>
+	<name>Debrzno</name>
+	<community>Debrzno</community>
+</city>
+<city>
+	<name>Dobczyce</name>
+	<community>Dobczyce</community>
+</city>
+<city>
+	<name>Dobiegniew</name>
+	<community>Dobiegniew</community>
+</city>
+<city>
+	<name>Dobra</name>
+	<community>Dobra</community>
+</city>
+<city>
+	<name>Dobra</name>
+	<community>Dobra</community>
+</city>
+<city>
+	<name>Dobra</name>
+	<community>Dobroszyce</community>
+</city>
+<city>
+	<name>Dobre Miasto</name>
+	<community>Dobre Miasto</community>
+</city>
+<city>
+	<name>Dobrodzień</name>
+	<community>Dobrodzień</community>
+</city>
+<city>
+	<name>Dobroszyce</name>
+	<community>Dobroszyce</community>
+</city>
+<city>
+	<name>Dobroszów Oleśnicki</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Dobrzany</name>
+	<community>Dobrzany</community>
+</city>
+<city>
+	<name>Dobrzeń</name>
+	<community>Dobroszyce</community>
+</city>
+<city>
+	<name>Dobrzeń Mały</name>
+	<community>Dobrzeń Wielki</community>
+</city>
+<city>
+	<name>Dobrzeń Wielki</name>
+	<community>Dobrzeń Wielki</community>
+</city>
+<city>
+	<name>Dobrzyca</name>
+	<community>Dobrzyca</community>
+</city>
+<city>
+	<name>Dobrzykowice</name>
+	<community>Czernica</community>
+</city>
+<city>
+	<name>Dobrzyń nad Wisłą</name>
+	<community>Dobrzyń nad Wisłą</community>
+</city>
+<city>
+	<name>Dolice</name>
+	<community>Dolice</community>
+</city>
+<city>
+	<name>Dolnik</name>
+	<community>Międzylesie</community>
+</city>
+<city>
+	<name>Dolsk</name>
+	<community>Dolsk</community>
+</city>
+<city>
+	<name>Domaszczyn</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Domaszków</name>
+	<community>Międzylesie</community>
+</city>
+<city>
+	<name>Domasław</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Domasławice</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Drawno</name>
+	<community>Drawno</community>
+</city>
+<city>
+	<name>Drawsko Pomorskie</name>
+	<community>Drawsko Pomorskie</community>
+</city>
+<city>
+	<name>Drezdenko</name>
+	<community>Drezdenko</community>
+</city>
+<city>
+	<name>Drobin</name>
+	<community>Drobin</community>
+</city>
+<city>
+	<name>Drogoszowice</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Drohiczyn</name>
+	<community>Drohiczyn</community>
+</city>
+<city>
+	<name>Droszków</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Drożdzięcin</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Drzazgi</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Drzewica</name>
+	<community>Drzewica</community>
+</city>
+<city>
+	<name>Drzonków</name>
+	<community>Zielona Góra</community>
+</city>
+<city>
+	<name>Drągów</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Duchnice</name>
+	<community>Ożarów Mazowiecki</community>
+</city>
+<city>
+	<name>Dukla</name>
+	<community>Dukla</community>
+</city>
+<city>
+	<name>Duszniki-Zdrój</name>
+	<community>Duszniki-Zdrój</community>
+</city>
+<city>
+	<name>Dworki</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Dworszowice Kościelne</name>
+	<community>Nowa Brzeźnica</community>
+</city>
+<city>
+	<name>Dylew</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Dynów</name>
+	<community>Dynów</community>
+</city>
+<city>
+	<name>Dziadowo</name>
+	<community>Gryfice</community>
+</city>
+<city>
+	<name>Działdowo</name>
+	<community>Działdowo</community>
+</city>
+<city>
+	<name>Działoszyce</name>
+	<community>Działoszyce</community>
+</city>
+<city>
+	<name>Działoszyn</name>
+	<community>Działoszyn</community>
+</city>
+<city>
+	<name>Dziekanów Leśny</name>
+	<community>Łomianki</community>
+</city>
+<city>
+	<name>Dziekanów Polski</name>
+	<community>Łomianki</community>
+</city>
+<city>
+	<name>Dzierzgoń</name>
+	<community>Dzierzgoń</community>
+</city>
+<city>
+	<name>Dzierżoniów</name>
+	<community>Dzierżoniów</community>
+</city>
+<city>
+	<name>Dziewkowice</name>
+	<community>Strzelce Opolskie</community>
+</city>
+<city>
+	<name>Dzikowiec</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Dziwnów</name>
+	<community>Dziwnów</community>
+</city>
+<city>
+	<name>Dziwnówek</name>
+	<community>Dziwnów</community>
+</city>
+<city>
+	<name>Dźwirzyno</name>
+	<community>Kołobrzeg</community>
+</city>
+<city>
+	<name>Długopole Górne</name>
+	<community>Międzylesie</community>
+</city>
+<city>
+	<name>Długopole-Zdrój</name>
+	<community>Bystrzyca Kłodzka</community>
+</city>
+<city>
+	<name>Długołęka</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Dąbie</name>
+	<community>Dąbie</community>
+</city>
+<city>
+	<name>Dąbki</name>
+	<community>Darłowo</community>
+</city>
+<city>
+	<name>Dąbrowa</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Dąbrowa</name>
+	<community>Łomianki</community>
+</city>
+<city>
+	<name>Dąbrowa Białostocka</name>
+	<community>Dąbrowa Białostocka</community>
+</city>
+<city>
+	<name>Dąbrowa Górnicza</name>
+	<community>Dąbrowa Górnicza</community>
+</city>
+<city>
+	<name>Dąbrowa Tarnowska</name>
+	<community>Dąbrowa Tarnowska</community>
+</city>
+<city>
+	<name>Dębica</name>
+	<community>Dębica</community>
+</city>
+<city>
+	<name>Dębienko</name>
+	<community>Stęszew</community>
+</city>
+<city>
+	<name>Dębki</name>
+	<community>Krokowa</community>
+</city>
+<city>
+	<name>Dęblin</name>
+	<community>Dęblin</community>
+</city>
+<city>
+	<name>Dębno</name>
+	<community>Dębno</community>
+</city>
+<city>
+	<name>Dębno</name>
+	<community>Stęszew</community>
+</city>
+<city>
+	<name>Dębogórze</name>
+	<community>Kosakowo</community>
+</city>
+<city>
+	<name>Dębogórze Wybudowanie</name>
+	<community>Kosakowo</community>
+</city>
+<city>
+	<name>Elbląg</name>
+	<community>Elbląg</community>
+</city>
+<city>
+	<name>Ełk</name>
+	<community>Ełk</community>
+</city>
+<city>
+	<name>Felicjanów</name>
+	<community>Władysławów</community>
+</city>
+<city>
+	<name>Folwark</name>
+	<community>Prószków</community>
+</city>
+<city>
+	<name>Frampol</name>
+	<community>Frampol</community>
+</city>
+<city>
+	<name>Frombork</name>
+	<community>Frombork</community>
+</city>
+<city>
+	<name>Gajków</name>
+	<community>Czernica</community>
+</city>
+<city>
+	<name>Gajnik</name>
+	<community>Międzylesie</community>
+</city>
+<city>
+	<name>Garbów</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Garwolin</name>
+	<community>Garwolin</community>
+</city>
+<city>
+	<name>Gdańsk</name>
+	<community>Gdańsk</community>
+</city>
+<city>
+	<name>Gdynia</name>
+	<community>Gdynia</community>
+</city>
+<city>
+	<name>Gdynia</name>
+	<community>Kosakowo</community>
+</city>
+<city>
+	<name>Gierałtowice</name>
+	<community>Gierałtowice</community>
+</city>
+<city>
+	<name>Giżycko</name>
+	<community>Giżycko</community>
+</city>
+<city>
+	<name>Glinojeck</name>
+	<community>Glinojeck</community>
+</city>
+<city>
+	<name>Gniechowice</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Gniew</name>
+	<community>Gniew</community>
+</city>
+<city>
+	<name>Gniewkowo</name>
+	<community>Gniewkowo</community>
+</city>
+<city>
+	<name>Gniezno</name>
+	<community>Gniezno</community>
+</city>
+<city>
+	<name>Goczałkowice-Zdrój</name>
+	<community>Goczałkowice-Zdrój</community>
+</city>
+<city>
+	<name>Godzieszowa</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Gogolin</name>
+	<community>Gogolin</community>
+</city>
+<city>
+	<name>Gogołowa</name>
+	<community>Mszana</community>
+</city>
+<city>
+	<name>Golasowice</name>
+	<community>Pawłowice</community>
+</city>
+<city>
+	<name>Golczewo</name>
+	<community>Golczewo</community>
+</city>
+<city>
+	<name>Golczowice</name>
+	<community>Klucze</community>
+</city>
+<city>
+	<name>Goleniów</name>
+	<community>Goleniów</community>
+</city>
+<city>
+	<name>Golina</name>
+	<community>Golina</community>
+</city>
+<city>
+	<name>Golub-Dobrzyń</name>
+	<community>Golub-Dobrzyń</community>
+</city>
+<city>
+	<name>Goniądz</name>
+	<community>Goniądz</community>
+</city>
+<city>
+	<name>Gorlice</name>
+	<community>Gorlice</community>
+</city>
+<city>
+	<name>Gorzanów</name>
+	<community>Bystrzyca Kłodzka</community>
+</city>
+<city>
+	<name>Gorzesław</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Gorzuchów</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Gorzupia</name>
+	<community>Krotoszyn</community>
+</city>
+<city>
+	<name>Gorzów Wielkopolski</name>
+	<community>Gorzów Wielkopolski</community>
+</city>
+<city>
+	<name>Gorzów Śląski</name>
+	<community>Gorzów Śląski</community>
+</city>
+<city>
+	<name>Gospodarz</name>
+	<community>Rzgów</community>
+</city>
+<city>
+	<name>Gostynin</name>
+	<community>Gostynin</community>
+</city>
+<city>
+	<name>Gostyń</name>
+	<community>Gostyń</community>
+</city>
+<city>
+	<name>Goszcz</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Goszczyno</name>
+	<community>Krokowa</community>
+</city>
+<city>
+	<name>Gosław</name>
+	<community>Trzebiatów</community>
+</city>
+<city>
+	<name>Gosławice</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Gotartów</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Goworów</name>
+	<community>Międzylesie</community>
+</city>
+<city>
+	<name>Gozdnica</name>
+	<community>Gozdnica</community>
+</city>
+<city>
+	<name>Gołaszyn</name>
+	<community>Bojanowo</community>
+</city>
+<city>
+	<name>Gołańcz</name>
+	<community>Gołańcz</community>
+</city>
+<city>
+	<name>Gołańcz Pomorska</name>
+	<community>Trzebiatów</community>
+</city>
+<city>
+	<name>Gołdap</name>
+	<community>Gołdap</community>
+</city>
+<city>
+	<name>Gołuchów</name>
+	<community>Gołuchów</community>
+</city>
+<city>
+	<name>Grabina</name>
+	<community>Nowosolna</community>
+</city>
+<city>
+	<name>Grabowno Małe</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Grabowno Wielkie</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Grabów nad Prosną</name>
+	<community>Grabów nad Prosną</community>
+</city>
+<city>
+	<name>Grabówka</name>
+	<community>Supraśl</community>
+</city>
+<city>
+	<name>Grajewo</name>
+	<community>Grajewo</community>
+</city>
+<city>
+	<name>Groblice</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Grodków</name>
+	<community>Grodków</community>
+</city>
+<city>
+	<name>Grodzisk Mazowiecki</name>
+	<community>Grodzisk Mazowiecki</community>
+</city>
+<city>
+	<name>Grodzisk Wielkopolski</name>
+	<community>Grodzisk Wielkopolski</community>
+</city>
+<city>
+	<name>Grodziszów</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Gromiec</name>
+	<community>Libiąż</community>
+</city>
+<city>
+	<name>Grudziądz</name>
+	<community>Grudziądz</community>
+</city>
+<city>
+	<name>Grybów</name>
+	<community>Grybów</community>
+</city>
+<city>
+	<name>Gryfice</name>
+	<community>Gryfice</community>
+</city>
+<city>
+	<name>Gryfino</name>
+	<community>Gryfino</community>
+</city>
+<city>
+	<name>Gryfów Śląski</name>
+	<community>Gryfów Śląski</community>
+</city>
+<city>
+	<name>Grzybowo</name>
+	<community>Kołobrzeg</community>
+</city>
+<city>
+	<name>Grzymków</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Grzędy</name>
+	<community>Czarny Bór</community>
+</city>
+<city>
+	<name>Grzędy Górne</name>
+	<community>Czarny Bór</community>
+</city>
+<city>
+	<name>Grójec</name>
+	<community>Grójec</community>
+</city>
+<city>
+	<name>Gubin</name>
+	<community>Gubin</community>
+</city>
+<city>
+	<name>Głogów</name>
+	<community>Głogów</community>
+</city>
+<city>
+	<name>Głogów Małopolski</name>
+	<community>Głogów Małopolski</community>
+</city>
+<city>
+	<name>Głogówek</name>
+	<community>Głogówek</community>
+</city>
+<city>
+	<name>Głoska</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Głowno</name>
+	<community>Głowno</community>
+</city>
+<city>
+	<name>Głubczyce</name>
+	<community>Głubczyce</community>
+</city>
+<city>
+	<name>Głuchowo</name>
+	<community>Komorniki</community>
+</city>
+<city>
+	<name>Głuchołazy</name>
+	<community>Głuchołazy</community>
+</city>
+<city>
+	<name>Głuchów</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Głuszyca</name>
+	<community>Głuszyca</community>
+</city>
+<city>
+	<name>Gąbin</name>
+	<community>Gąbin</community>
+</city>
+<city>
+	<name>Gądki</name>
+	<community>Kórnik</community>
+</city>
+<city>
+	<name>Gądów</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Góra</name>
+	<community>Góra</community>
+</city>
+<city>
+	<name>Góra Kalwaria</name>
+	<community>Góra Kalwaria</community>
+</city>
+<city>
+	<name>Górki</name>
+	<community>Prószków</community>
+</city>
+<city>
+	<name>Górki Duże</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Górki Małe</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Górowo Iławeckie</name>
+	<community>Górowo Iławeckie</community>
+</city>
+<city>
+	<name>Górzno</name>
+	<community>Górzno</community>
+</city>
+<city>
+	<name>Hajnówka</name>
+	<community>Hajnówka</community>
+</city>
+<city>
+	<name>Halinów</name>
+	<community>Halinów</community>
+</city>
+<city>
+	<name>Hel</name>
+	<community>Hel</community>
+</city>
+<city>
+	<name>Henryków</name>
+	<community>Ziębice</community>
+</city>
+<city>
+	<name>Hornówek</name>
+	<community>Izabelin</community>
+</city>
+<city>
+	<name>Hrubieszów</name>
+	<community>Hrubieszów</community>
+</city>
+<city>
+	<name>Ignatki</name>
+	<community>Juchnowiec Kościelny</community>
+</city>
+<city>
+	<name>Imielin</name>
+	<community>Imielin</community>
+</city>
+<city>
+	<name>Inowrocław</name>
+	<community>Inowrocław</community>
+</city>
+<city>
+	<name>Iwiny</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Iwonicz-Zdrój</name>
+	<community>Iwonicz-Zdrój</community>
+</city>
+<city>
+	<name>Izabelin</name>
+	<community>Izabelin</community>
+</city>
+<city>
+	<name>Izabelin C</name>
+	<community>Izabelin</community>
+</city>
+<city>
+	<name>Izabelin Dziekanówek</name>
+	<community>Czosnów</community>
+</city>
+<city>
+	<name>Izbica Kujawska</name>
+	<community>Izbica Kujawska</community>
+</city>
+<city>
+	<name>Izbicko</name>
+	<community>Izbicko</community>
+</city>
+<city>
+	<name>Iława</name>
+	<community>Iława</community>
+</city>
+<city>
+	<name>Iłowa</name>
+	<community>Iłowa</community>
+</city>
+<city>
+	<name>Iłża</name>
+	<community>Iłża</community>
+</city>
+<city>
+	<name>Ińsko</name>
+	<community>Ińsko</community>
+</city>
+<city>
+	<name>Jabłonna</name>
+	<community>Jabłonna</community>
+</city>
+<city>
+	<name>Jabłonowo Pomorskie</name>
+	<community>Jabłonowo Pomorskie</community>
+</city>
+<city>
+	<name>Jaczków</name>
+	<community>Czarny Bór</community>
+</city>
+<city>
+	<name>Janikowo</name>
+	<community>Janikowo</community>
+</city>
+<city>
+	<name>Jankowice</name>
+	<community>Pszczyna</community>
+</city>
+<city>
+	<name>Jankowo Gdańskie</name>
+	<community>Kolbudy</community>
+</city>
+<city>
+	<name>Janowa Góra</name>
+	<community>Stronie Śląskie</community>
+</city>
+<city>
+	<name>Janowce Rybnickie</name>
+	<community>Świerklany</community>
+</city>
+<city>
+	<name>Janowice Wielkie</name>
+	<community>Janowice Wielkie</community>
+</city>
+<city>
+	<name>Janowiec Wielkopolski</name>
+	<community>Janowiec Wielkopolski</community>
+</city>
+<city>
+	<name>Jantar</name>
+	<community>Stegna</community>
+</city>
+<city>
+	<name>Januszkowice</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Janów Lubelski</name>
+	<community>Janów Lubelski</community>
+</city>
+<city>
+	<name>Janówka</name>
+	<community>Andrespol</community>
+</city>
+<city>
+	<name>Jarocin</name>
+	<community>Jarocin</community>
+</city>
+<city>
+	<name>Jaromirowice</name>
+	<community>Gubin</community>
+</city>
+<city>
+	<name>Jaroszowiec</name>
+	<community>Klucze</community>
+</city>
+<city>
+	<name>Jarosław</name>
+	<community>Jarosław</community>
+</city>
+<city>
+	<name>Jarosławiec</name>
+	<community>Postomino</community>
+</city>
+<city>
+	<name>Jasień</name>
+	<community>Jasień</community>
+</city>
+<city>
+	<name>Jastarnia</name>
+	<community>Jastarnia</community>
+</city>
+<city>
+	<name>Jastrowie</name>
+	<community>Jastrowie</community>
+</city>
+<city>
+	<name>Jastrzębia Góra</name>
+	<community>Władysławowo</community>
+</city>
+<city>
+	<name>Jastrzębie</name>
+	<community>Piaseczno</community>
+</city>
+<city>
+	<name>Jastrzębie Zdrój</name>
+	<community>Jastrzębie Zdrój</community>
+</city>
+<city>
+	<name>Jastrzębie Zdrój</name>
+	<community>Pawłowice</community>
+</city>
+<city>
+	<name>Jaszkotle</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Jaszkowa Dolna</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Jaszkowa Górna</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Jaszkówka</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Jaszowice</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Jasło</name>
+	<community>Jasło</community>
+</city>
+<city>
+	<name>Jawiszowice</name>
+	<community>Brzeszcze</community>
+</city>
+<city>
+	<name>Jawor</name>
+	<community>Jawor</community>
+</city>
+<city>
+	<name>Jaworowa</name>
+	<community>Raszyn</community>
+</city>
+<city>
+	<name>Jaworze</name>
+	<community>Jaworze</community>
+</city>
+<city>
+	<name>Jaworzno</name>
+	<community>Jaworzno</community>
+</city>
+<city>
+	<name>Jaworzyna Śląska</name>
+	<community>Jaworzyna Śląska</community>
+</city>
+<city>
+	<name>Jedlicze</name>
+	<community>Jedlicze</community>
+</city>
+<city>
+	<name>Jedlina-Zdrój</name>
+	<community>Jedlina-Zdrój</community>
+</city>
+<city>
+	<name>Jedlińsk</name>
+	<community>Jedlińsk</community>
+</city>
+<city>
+	<name>Jedwabne</name>
+	<community>Jedwabne</community>
+</city>
+<city>
+	<name>Jelcz-Laskowice</name>
+	<community>Jelcz-Laskowice</community>
+</city>
+<city>
+	<name>Jelenia Góra</name>
+	<community>Jelenia Góra</community>
+</city>
+<city>
+	<name>Jelenia Góra</name>
+	<community>Podgórzyn</community>
+</city>
+<city>
+	<name>Jeleniów</name>
+	<community>Lewin Kłodzki</community>
+</city>
+<city>
+	<name>Jelonek</name>
+	<community>Suchy Las</community>
+</city>
+<city>
+	<name>Jemielna</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Jemielnica</name>
+	<community>Jemielnica</community>
+</city>
+<city>
+	<name>Jenkowice</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Jeszkowice</name>
+	<community>Czernica</community>
+</city>
+<city>
+	<name>Jeziorany</name>
+	<community>Jeziorany</community>
+</city>
+<city>
+	<name>Jeżów Sudecki</name>
+	<community>Jeżów Sudecki</community>
+</city>
+<city>
+	<name>Jordanów</name>
+	<community>Jordanów</community>
+</city>
+<city>
+	<name>Jugów</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Julianów</name>
+	<community>Piaseczno</community>
+</city>
+<city>
+	<name>Jurata</name>
+	<community>Jastarnia</community>
+</city>
+<city>
+	<name>Jurczyce</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Justynów</name>
+	<community>Andrespol</community>
+</city>
+<city>
+	<name>Jutrosin</name>
+	<community>Jutrosin</community>
+</city>
+<city>
+	<name>Jutroszew</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Jędrzejów</name>
+	<community>Jędrzejów</community>
+</city>
+<city>
+	<name>Jędrzychów</name>
+	<community>Nysa</community>
+</city>
+<city>
+	<name>Józefosław</name>
+	<community>Piaseczno</community>
+</city>
+<city>
+	<name>Józefów</name>
+	<community>Józefów</community>
+</city>
+<city>
+	<name>Józefów</name>
+	<community>Józefów</community>
+</city>
+<city>
+	<name>Kalety</name>
+	<community>Kalety</community>
+</city>
+<city>
+	<name>Kalisz</name>
+	<community>Kalisz</community>
+</city>
+<city>
+	<name>Kalisz Pomorski</name>
+	<community>Kalisz Pomorski</community>
+</city>
+<city>
+	<name>Kalwaria Zebrzydowska</name>
+	<community>Kalwaria Zebrzydowska</community>
+</city>
+<city>
+	<name>Kamienica</name>
+	<community>Stronie Śląskie</community>
+</city>
+<city>
+	<name>Kamieniec</name>
+	<community>Kamieniec</community>
+</city>
+<city>
+	<name>Kamieniec Wrocławski</name>
+	<community>Czernica</community>
+</city>
+<city>
+	<name>Kamieniec Ząbkowicki</name>
+	<community>Kamieniec Ząbkowicki</community>
+</city>
+<city>
+	<name>Kamienna Góra</name>
+	<community>Kamienna Góra</community>
+</city>
+<city>
+	<name>Kamień</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Kamień Krajeński</name>
+	<community>Kamień Krajeński</community>
+</city>
+<city>
+	<name>Kamień Pomorski</name>
+	<community>Kamień Pomorski</community>
+</city>
+<city>
+	<name>Kamieńsk</name>
+	<community>Kamieńsk</community>
+</city>
+<city>
+	<name>Kamieńszczyzna</name>
+	<community>Popów</community>
+</city>
+<city>
+	<name>Kamionna</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Kamyk</name>
+	<community>Kłobuck</community>
+</city>
+<city>
+	<name>Kanie</name>
+	<community>Brwinów</community>
+</city>
+<city>
+	<name>Karczew</name>
+	<community>Karczew</community>
+</city>
+<city>
+	<name>Kargowa</name>
+	<community>Kargowa</community>
+</city>
+<city>
+	<name>Karlino</name>
+	<community>Karlino</community>
+</city>
+<city>
+	<name>Karnice</name>
+	<community>Karnice</community>
+</city>
+<city>
+	<name>Karpacz</name>
+	<community>Karpacz</community>
+</city>
+<city>
+	<name>Karpicko</name>
+	<community>Wolsztyn</community>
+</city>
+<city>
+	<name>Karpniki</name>
+	<community>Mysłakowice</community>
+</city>
+<city>
+	<name>Kartuzy</name>
+	<community>Kartuzy</community>
+</city>
+<city>
+	<name>Karwia</name>
+	<community>Władysławowo</community>
+</city>
+<city>
+	<name>Karwiniec</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Karłów</name>
+	<community>Radków</community>
+</city>
+<city>
+	<name>Kazimierz Dolny</name>
+	<community>Kazimierz Dolny</community>
+</city>
+<city>
+	<name>Kazimierza Wielka</name>
+	<community>Kazimierza Wielka</community>
+</city>
+<city>
+	<name>Kałuszyn</name>
+	<community>Kałuszyn</community>
+</city>
+<city>
+	<name>Kańczuga</name>
+	<community>Kańczuga</community>
+</city>
+<city>
+	<name>Kcynia</name>
+	<community>Kcynia</community>
+</city>
+<city>
+	<name>Kielce</name>
+	<community>Kielce</community>
+</city>
+<city>
+	<name>Kietrz</name>
+	<community>Kietrz</community>
+</city>
+<city>
+	<name>Kiełczów</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Kiełczówek</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Kiełpin</name>
+	<community>Łomianki</community>
+</city>
+<city>
+	<name>Kiełpino</name>
+	<community>Brojce</community>
+</city>
+<city>
+	<name>Kijowice</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Kilianów</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Kisielice</name>
+	<community>Kisielice</community>
+</city>
+<city>
+	<name>Klaudyn</name>
+	<community>Stare Babice</community>
+</city>
+<city>
+	<name>Kleczew</name>
+	<community>Kleczew</community>
+</city>
+<city>
+	<name>Kleosin</name>
+	<community>Juchnowiec Kościelny</community>
+</city>
+<city>
+	<name>Klepacze</name>
+	<community>Choroszcz</community>
+</city>
+<city>
+	<name>Kleszczele</name>
+	<community>Kleszczele</community>
+</city>
+<city>
+	<name>Kletno</name>
+	<community>Stronie Śląskie</community>
+</city>
+<city>
+	<name>Kluczbork</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Klucze</name>
+	<community>Klucze</community>
+</city>
+<city>
+	<name>Knurów</name>
+	<community>Knurów</community>
+</city>
+<city>
+	<name>Knyszyn</name>
+	<community>Knyszyn</community>
+</city>
+<city>
+	<name>Kobierno</name>
+	<community>Krotoszyn</community>
+</city>
+<city>
+	<name>Kobierzyce</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Kobiór</name>
+	<community>Kobiór</community>
+</city>
+<city>
+	<name>Kobyla</name>
+	<community>Kornowac</community>
+</city>
+<city>
+	<name>Kobylice</name>
+	<community>Cisek</community>
+</city>
+<city>
+	<name>Kobylin</name>
+	<community>Kobylin</community>
+</city>
+<city>
+	<name>Kobyłka</name>
+	<community>Kobyłka</community>
+</city>
+<city>
+	<name>Kock</name>
+	<community>Kock</community>
+</city>
+<city>
+	<name>Kokoszkowy</name>
+	<community>Starogard Gdański</community>
+</city>
+<city>
+	<name>Kolbark</name>
+	<community>Klucze</community>
+</city>
+<city>
+	<name>Kolbudy</name>
+	<community>Kolbudy</community>
+</city>
+<city>
+	<name>Kolbuszowa</name>
+	<community>Kolbuszowa</community>
+</city>
+<city>
+	<name>Kolno</name>
+	<community>Kolno</community>
+</city>
+<city>
+	<name>Kolonia Dzikowiec</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Kolonia Dąbrowa</name>
+	<community>Wieluń</community>
+</city>
+<city>
+	<name>Kolonia Nowa Wieś</name>
+	<community>Czerwionka-Leszczyny</community>
+</city>
+<city>
+	<name>Kolonia Opacz</name>
+	<community>Michałowice</community>
+</city>
+<city>
+	<name>Kolonowskie</name>
+	<community>Kolonowskie</community>
+</city>
+<city>
+	<name>Kolsko</name>
+	<community>Kolsko</community>
+</city>
+<city>
+	<name>Koluszki</name>
+	<community>Koluszki</community>
+</city>
+<city>
+	<name>Komorów</name>
+	<community>Michałowice</community>
+</city>
+<city>
+	<name>Komprachcice</name>
+	<community>Komprachcice</community>
+</city>
+<city>
+	<name>Koniecpol</name>
+	<community>Koniecpol</community>
+</city>
+<city>
+	<name>Konin</name>
+	<community>Konin</community>
+</city>
+<city>
+	<name>Konradów</name>
+	<community>Lądek-Zdrój</community>
+</city>
+<city>
+	<name>Konstancin-Jeziorna</name>
+	<community>Konstancin-Jeziorna</community>
+</city>
+<city>
+	<name>Konstantynów Łódzki</name>
+	<community>Konstantynów Łódzki</community>
+</city>
+<city>
+	<name>Koprzywnica</name>
+	<community>Koprzywnica</community>
+</city>
+<city>
+	<name>Korfantów</name>
+	<community>Korfantów</community>
+</city>
+<city>
+	<name>Koronowo</name>
+	<community>Koronowo</community>
+</city>
+<city>
+	<name>Korsze</name>
+	<community>Korsze</community>
+</city>
+<city>
+	<name>Kosewko</name>
+	<community>Pomiechówek</community>
+</city>
+<city>
+	<name>Kostrzyn</name>
+	<community>Kostrzyn</community>
+</city>
+<city>
+	<name>Kostrzyn nad Odrą</name>
+	<community>Boleszkowice</community>
+</city>
+<city>
+	<name>Kostrzyn nad Odrą</name>
+	<community>Kostrzyn</community>
+</city>
+<city>
+	<name>Koszalin</name>
+	<community>Koszalin</community>
+</city>
+<city>
+	<name>Koszyn</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Koszęcin</name>
+	<community>Koszęcin</community>
+</city>
+<city>
+	<name>Kosów Lacki</name>
+	<community>Kosów Lacki</community>
+</city>
+<city>
+	<name>Kotliny</name>
+	<community>Brójce</community>
+</city>
+<city>
+	<name>Kotowice</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Kotórz Mały</name>
+	<community>Turawa</community>
+</city>
+<city>
+	<name>Kotórz Wielki</name>
+	<community>Turawa</community>
+</city>
+<city>
+	<name>Kowal</name>
+	<community>Kowal</community>
+</city>
+<city>
+	<name>Kowalewo Pomorskie</name>
+	<community>Kowalewo Pomorskie</community>
+</city>
+<city>
+	<name>Kowary</name>
+	<community>Kowary</community>
+</city>
+<city>
+	<name>Koziegłowy</name>
+	<community>Czerwonak</community>
+</city>
+<city>
+	<name>Koziegłowy</name>
+	<community>Koziegłowy</community>
+</city>
+<city>
+	<name>Kozielice</name>
+	<community>Kozielice</community>
+</city>
+<city>
+	<name>Kozienice</name>
+	<community>Kozienice</community>
+</city>
+<city>
+	<name>Kozłów</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Kozłów</name>
+	<community>Sośnicowice</community>
+</city>
+<city>
+	<name>Kościan</name>
+	<community>Kościan</community>
+</city>
+<city>
+	<name>Kościelisko</name>
+	<community>Kościelisko</community>
+</city>
+<city>
+	<name>Kościerzyna</name>
+	<community>Kościerzyna</community>
+</city>
+<city>
+	<name>Koźmin Wielkopolski</name>
+	<community>Koźmin Wielkopolski</community>
+</city>
+<city>
+	<name>Koło</name>
+	<community>Koło</community>
+</city>
+<city>
+	<name>Kołobrzeg</name>
+	<community>Kołobrzeg</community>
+</city>
+<city>
+	<name>Kożuchów</name>
+	<community>Kożuchów</community>
+</city>
+<city>
+	<name>Końskie</name>
+	<community>Końskie</community>
+</city>
+<city>
+	<name>Krajanów</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Krajenka</name>
+	<community>Krajenka</community>
+</city>
+<city>
+	<name>Krapkowice</name>
+	<community>Krapkowice</community>
+</city>
+<city>
+	<name>Krasnobród</name>
+	<community>Krasnobród</community>
+</city>
+<city>
+	<name>Krasnystaw</name>
+	<community>Krasnystaw</community>
+</city>
+<city>
+	<name>Kraszew</name>
+	<community>Andrespol</community>
+</city>
+<city>
+	<name>Kraśnik</name>
+	<community>Kraśnik</community>
+</city>
+<city>
+	<name>Kretomino</name>
+	<community>Manowo</community>
+</city>
+<city>
+	<name>Krobia</name>
+	<community>Krobia</community>
+</city>
+<city>
+	<name>Krobielowice</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Kroczyce</name>
+	<community>Kroczyce</community>
+</city>
+<city>
+	<name>Krokowa</name>
+	<community>Krokowa</community>
+</city>
+<city>
+	<name>Krosno</name>
+	<community>Chorkówka</community>
+</city>
+<city>
+	<name>Krosno</name>
+	<community>Krosno</community>
+</city>
+<city>
+	<name>Krosno Odrzańskie</name>
+	<community>Krosno Odrzańskie</community>
+</city>
+<city>
+	<name>Krosnowice</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Krotoszyn</name>
+	<community>Krotoszyn</community>
+</city>
+<city>
+	<name>Krościenko nad Dunajcem</name>
+	<community>Szczawnica</community>
+</city>
+<city>
+	<name>Krośniewice</name>
+	<community>Krośniewice</community>
+</city>
+<city>
+	<name>Kruszowice</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Kruszwica</name>
+	<community>Kruszwica</community>
+</city>
+<city>
+	<name>Kruszyna</name>
+	<community>Sulechów</community>
+</city>
+<city>
+	<name>Kruszów</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Krynica Morska</name>
+	<community>Krynica Morska</community>
+</city>
+<city>
+	<name>Krynica-Zdrój</name>
+	<community>Krynica-Zdrój</community>
+</city>
+<city>
+	<name>Krzanowice</name>
+	<community>Krzanowice</community>
+</city>
+<city>
+	<name>Krzeczyn</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Krzepice</name>
+	<community>Krzepice</community>
+</city>
+<city>
+	<name>Krzeptów</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Krzeszowice</name>
+	<community>Krzeszowice</community>
+</city>
+<city>
+	<name>Krzyków</name>
+	<community>Czernica</community>
+</city>
+<city>
+	<name>Krzywiec</name>
+	<community>Aleksandrów Łódzki</community>
+</city>
+<city>
+	<name>Krzywizna</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Krzywiń</name>
+	<community>Krzywiń</community>
+</city>
+<city>
+	<name>Krzywopłoty</name>
+	<community>Klucze</community>
+</city>
+<city>
+	<name>Krzyż Wielkopolski</name>
+	<community>Krzyż Wielkopolski</community>
+</city>
+<city>
+	<name>Krzyżanowice</name>
+	<community>Krzyżanowice</community>
+</city>
+<city>
+	<name>Krzyżanowice</name>
+	<community>Wisznia Mała</community>
+</city>
+<city>
+	<name>Krzyżowice</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Krzyżowice</name>
+	<community>Pawłowice</community>
+</city>
+<city>
+	<name>Krzów</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Krężoły</name>
+	<community>Sulechów</community>
+</city>
+<city>
+	<name>Królikowice</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Ksawerów</name>
+	<community>Ksawerów</community>
+</city>
+<city>
+	<name>Książ Wielkopolski</name>
+	<community>Książ Wielkopolski</community>
+</city>
+<city>
+	<name>Książenice</name>
+	<community>Czerwionka-Leszczyny</community>
+</city>
+<city>
+	<name>Książenice</name>
+	<community>Grabów nad Prosną</community>
+</city>
+<city>
+	<name>Księginice</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Księżyno</name>
+	<community>Juchnowiec Kościelny</community>
+</city>
+<city>
+	<name>Kudowa-Zdrój</name>
+	<community>Kudowa-Zdrój</community>
+</city>
+<city>
+	<name>Kujakowice Dolne</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Kujakowice Górne</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Kuniów</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Kunów</name>
+	<community>Kunów</community>
+</city>
+<city>
+	<name>Kup</name>
+	<community>Dobrzeń Wielki</community>
+</city>
+<city>
+	<name>Kurowice</name>
+	<community>Brójce</community>
+</city>
+<city>
+	<name>Kutno</name>
+	<community>Kutno</community>
+</city>
+<city>
+	<name>Kuźnia Raciborska</name>
+	<community>Kuźnia Raciborska</community>
+</city>
+<city>
+	<name>Kuźnica</name>
+	<community>Jastarnia</community>
+</city>
+<city>
+	<name>Kuźnica</name>
+	<community>Kuźnica</community>
+</city>
+<city>
+	<name>Kwaśniów Dolny</name>
+	<community>Klucze</community>
+</city>
+<city>
+	<name>Kwaśniów Górny</name>
+	<community>Klucze</community>
+</city>
+<city>
+	<name>Kwidzyn</name>
+	<community>Kwidzyn</community>
+</city>
+<city>
+	<name>Kwirynów</name>
+	<community>Stare Babice</community>
+</city>
+<city>
+	<name>Kłecko</name>
+	<community>Kłecko</community>
+</city>
+<city>
+	<name>Kłobuck</name>
+	<community>Kłobuck</community>
+</city>
+<city>
+	<name>Kłodawa</name>
+	<community>Kłodawa</community>
+</city>
+<city>
+	<name>Kłodzko</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Kątna</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Kąty Rybackie</name>
+	<community>Sztutowo</community>
+</city>
+<city>
+	<name>Kąty Wrocławskie</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Kębłowo</name>
+	<community>Wolsztyn</community>
+</city>
+<city>
+	<name>Kędzierzyn-Koźle</name>
+	<community>Kędzierzyn-Koźle</community>
+</city>
+<city>
+	<name>Kępa</name>
+	<community>Łubniany</community>
+</city>
+<city>
+	<name>Kępa Kiełpińska</name>
+	<community>Łomianki</community>
+</city>
+<city>
+	<name>Kępice</name>
+	<community>Kępice</community>
+</city>
+<city>
+	<name>Kępno</name>
+	<community>Kępno</community>
+</city>
+<city>
+	<name>Kętrzyn</name>
+	<community>Kętrzyn</community>
+</city>
+<city>
+	<name>Kęty</name>
+	<community>Kęty</community>
+</city>
+<city>
+	<name>Kórnik</name>
+	<community>Kórnik</community>
+</city>
+<city>
+	<name>Lanckorona</name>
+	<community>Lanckorona</community>
+</city>
+<city>
+	<name>Laski</name>
+	<community>Izabelin</community>
+</city>
+<city>
+	<name>Latchorzew</name>
+	<community>Stare Babice</community>
+</city>
+<city>
+	<name>Legionowo</name>
+	<community>Legionowo</community>
+</city>
+<city>
+	<name>Legnica</name>
+	<community>Krotoszyce</community>
+</city>
+<city>
+	<name>Legnica</name>
+	<community>Legnica</community>
+</city>
+<city>
+	<name>Lesko</name>
+	<community>Lesko</community>
+</city>
+<city>
+	<name>Leszno</name>
+	<community>Leszno</community>
+</city>
+<city>
+	<name>Leszno</name>
+	<community>Leszno</community>
+</city>
+<city>
+	<name>Leszno</name>
+	<community>Lipno</community>
+</city>
+<city>
+	<name>Lewice</name>
+	<community>Trzebiatów</community>
+</city>
+<city>
+	<name>Lewin Brzeski</name>
+	<community>Lewin Brzeski</community>
+</city>
+<city>
+	<name>Lewin Kłodzki</name>
+	<community>Lewin Kłodzki</community>
+</city>
+<city>
+	<name>Leśna</name>
+	<community>Leśna</community>
+</city>
+<city>
+	<name>Leśnica</name>
+	<community>Leśnica</community>
+</city>
+<city>
+	<name>Leżajsk</name>
+	<community>Leżajsk</community>
+</city>
+<city>
+	<name>Libiąż</name>
+	<community>Babice</community>
+</city>
+<city>
+	<name>Licheń Stary</name>
+	<community>Ślesin</community>
+</city>
+<city>
+	<name>Lidzbark</name>
+	<community>Lidzbark</community>
+</city>
+<city>
+	<name>Lidzbark Warmiński</name>
+	<community>Lidzbark Warmiński</community>
+</city>
+<city>
+	<name>Ligota</name>
+	<community>Czechowice-Dziedzice</community>
+</city>
+<city>
+	<name>Ligota Dolna</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Ligota Mała</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Ligota Polska</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Ligota Wielka</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Limanowa</name>
+	<community>Limanowa</community>
+</city>
+<city>
+	<name>Lipiany</name>
+	<community>Lipiany</community>
+</city>
+<city>
+	<name>Lipno</name>
+	<community>Lipno</community>
+</city>
+<city>
+	<name>Lipsk</name>
+	<community>Lipsk</community>
+</city>
+<city>
+	<name>Lipsko</name>
+	<community>Lipsko</community>
+</city>
+<city>
+	<name>Lubaczów</name>
+	<community>Lubaczów</community>
+</city>
+<city>
+	<name>Lubartów</name>
+	<community>Lubartów</community>
+</city>
+<city>
+	<name>Lubawa</name>
+	<community>Lubawa</community>
+</city>
+<city>
+	<name>Lubawka</name>
+	<community>Lubawka</community>
+</city>
+<city>
+	<name>Lubań</name>
+	<community>Lubań</community>
+</city>
+<city>
+	<name>Lubiatów</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Lubień Kujawski</name>
+	<community>Lubień Kujawski</community>
+</city>
+<city>
+	<name>Lubin</name>
+	<community>Lubin</community>
+</city>
+<city>
+	<name>Lublin</name>
+	<community>Lublin</community>
+</city>
+<city>
+	<name>Lubliniec</name>
+	<community>Lubliniec</community>
+</city>
+<city>
+	<name>Lubniewice</name>
+	<community>Lubniewice</community>
+</city>
+<city>
+	<name>Lubomierz</name>
+	<community>Lubomierz</community>
+</city>
+<city>
+	<name>Lubraniec</name>
+	<community>Lubraniec</community>
+</city>
+<city>
+	<name>Lubsko</name>
+	<community>Lubsko</community>
+</city>
+<city>
+	<name>Lubycza Królewska</name>
+	<community>Lubycza Królewska</community>
+</city>
+<city>
+	<name>Ludwikowice Kłodzkie</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Lutogniew</name>
+	<community>Krotoszyn</community>
+</city>
+<city>
+	<name>Lutynia</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Lwówek</name>
+	<community>Lwówek</community>
+</city>
+<city>
+	<name>Lwówek Śląski</name>
+	<community>Lwówek Śląski</community>
+</city>
+<city>
+	<name>Lądek-Zdrój</name>
+	<community>Lądek-Zdrój</community>
+</city>
+<city>
+	<name>Lębork</name>
+	<community>Lębork</community>
+</city>
+<city>
+	<name>Lędziny</name>
+	<community>Lędziny</community>
+</city>
+<city>
+	<name>Magdalenka</name>
+	<community>Lesznowola</community>
+</city>
+<city>
+	<name>Magnice</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Maków Mazowiecki</name>
+	<community>Maków Mazowiecki</community>
+</city>
+<city>
+	<name>Maków Podhalański</name>
+	<community>Maków Podhalański</community>
+</city>
+<city>
+	<name>Malbork</name>
+	<community>Malbork</community>
+</city>
+<city>
+	<name>Malerzów</name>
+	<community>Dobroszyce</community>
+</city>
+<city>
+	<name>Marcinkowice</name>
+	<community>Oława</community>
+</city>
+<city>
+	<name>Margonin</name>
+	<community>Margonin</community>
+</city>
+<city>
+	<name>Marianowo</name>
+	<community>Marianowo</community>
+</city>
+<city>
+	<name>Marki</name>
+	<community>Marki</community>
+</city>
+<city>
+	<name>Marklowice</name>
+	<community>Radlin</community>
+</city>
+<city>
+	<name>Marysin</name>
+	<community>Jastków</community>
+</city>
+<city>
+	<name>Maszewo</name>
+	<community>Maszewo</community>
+</city>
+<city>
+	<name>Masłowo</name>
+	<community>Rawicz</community>
+</city>
+<city>
+	<name>Mazańcowice</name>
+	<community>Czechowice-Dziedzice</community>
+</city>
+<city>
+	<name>Małkinia Górna</name>
+	<community>Małkinia Górna</community>
+</city>
+<city>
+	<name>Małkowice</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Małogoszcz</name>
+	<community>Małogoszcz</community>
+</city>
+<city>
+	<name>Małomice</name>
+	<community>Małomice</community>
+</city>
+<city>
+	<name>Małuszów</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Miasteczko Śląskie</name>
+	<community>Miasteczko Śląskie</community>
+</city>
+<city>
+	<name>Miastko</name>
+	<community>Miastko</community>
+</city>
+<city>
+	<name>Michałowice Osiedle</name>
+	<community>Michałowice</community>
+</city>
+<city>
+	<name>Miechów</name>
+	<community>Miechów</community>
+</city>
+<city>
+	<name>Miedźno</name>
+	<community>Miedźno</community>
+</city>
+<city>
+	<name>Miejska Górka</name>
+	<community>Miejska Górka</community>
+</city>
+<city>
+	<name>Mielec</name>
+	<community>Mielec</community>
+</city>
+<city>
+	<name>Mielnik</name>
+	<community>Mielnik</community>
+</city>
+<city>
+	<name>Mielno</name>
+	<community>Mielno</community>
+</city>
+<city>
+	<name>Mieroszów</name>
+	<community>Mieroszów</community>
+</city>
+<city>
+	<name>Mierzyn</name>
+	<community>Dobra (Szczecińska)</community>
+</city>
+<city>
+	<name>Mieszkowice</name>
+	<community>Mieszkowice</community>
+</city>
+<city>
+	<name>Mikołajki</name>
+	<community>Mikołajki</community>
+</city>
+<city>
+	<name>Mikołów</name>
+	<community>Katowice</community>
+</city>
+<city>
+	<name>Mikołów</name>
+	<community>Ruda Śląska</community>
+</city>
+<city>
+	<name>Mikołów</name>
+	<community>Łaziska Górne</community>
+</city>
+<city>
+	<name>Mikstat</name>
+	<community>Mikstat</community>
+</city>
+<city>
+	<name>Milanówek</name>
+	<community>Milanówek</community>
+</city>
+<city>
+	<name>Milicz</name>
+	<community>Milicz</community>
+</city>
+<city>
+	<name>Milików</name>
+	<community>Nowogrodziec</community>
+</city>
+<city>
+	<name>Minkowice</name>
+	<community>Krokowa</community>
+</city>
+<city>
+	<name>Miodary</name>
+	<community>Dobroszyce</community>
+</city>
+<city>
+	<name>Mirków</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Mirosławiec</name>
+	<community>Mirosławiec</community>
+</city>
+<city>
+	<name>Mirsk</name>
+	<community>Mirsk</community>
+</city>
+<city>
+	<name>Miłakowo</name>
+	<community>Miłakowo</community>
+</city>
+<city>
+	<name>Miłomłyn</name>
+	<community>Miłomłyn</community>
+</city>
+<city>
+	<name>Miłosław</name>
+	<community>Miłosław</community>
+</city>
+<city>
+	<name>Międzybórz</name>
+	<community>Międzybórz</community>
+</city>
+<city>
+	<name>Międzychód</name>
+	<community>Międzychód</community>
+</city>
+<city>
+	<name>Międzygórze</name>
+	<community>Bystrzyca Kłodzka</community>
+</city>
+<city>
+	<name>Międzylesie</name>
+	<community>Międzylesie</community>
+</city>
+<city>
+	<name>Międzyrzec Podlaski</name>
+	<community>Międzyrzec Podlaski</community>
+</city>
+<city>
+	<name>Międzyrzecz</name>
+	<community>Międzyrzecz</community>
+</city>
+<city>
+	<name>Międzywodzie</name>
+	<community>Dziwnów</community>
+</city>
+<city>
+	<name>Międzyzdroje</name>
+	<community>Międzyzdroje</community>
+</city>
+<city>
+	<name>Miękinia</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Miękowo</name>
+	<community>Czerwonak</community>
+</city>
+<city>
+	<name>Mińsk Mazowiecki</name>
+	<community>Mińsk Mazowiecki</community>
+</city>
+<city>
+	<name>Mogielnica</name>
+	<community>Mogielnica</community>
+</city>
+<city>
+	<name>Mogilno</name>
+	<community>Mogilno</community>
+</city>
+<city>
+	<name>Mogowo</name>
+	<community>Nasielsk</community>
+</city>
+<city>
+	<name>Mokronos Dolny</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Mokronos Górny</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Mokry Dwór</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Mordy</name>
+	<community>Mordy</community>
+</city>
+<city>
+	<name>Moryń</name>
+	<community>Moryń</community>
+</city>
+<city>
+	<name>Morzyczyn</name>
+	<community>Kobylanka</community>
+</city>
+<city>
+	<name>Morąg</name>
+	<community>Morąg</community>
+</city>
+<city>
+	<name>Mosina</name>
+	<community>Mosina</community>
+</city>
+<city>
+	<name>Moskwa</name>
+	<community>Nowosolna</community>
+</city>
+<city>
+	<name>Mosty</name>
+	<community>Kosakowo</community>
+</city>
+<city>
+	<name>Moszyce</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Mościska</name>
+	<community>Izabelin</community>
+</city>
+<city>
+	<name>Mońki</name>
+	<community>Mońki</community>
+</city>
+<city>
+	<name>Mrocza</name>
+	<community>Mrocza</community>
+</city>
+<city>
+	<name>Mrozów</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Mrzeżyno</name>
+	<community>Trzebiatów</community>
+</city>
+<city>
+	<name>Mrągowo</name>
+	<community>Mrągowo</community>
+</city>
+<city>
+	<name>Mszana</name>
+	<community>Godów</community>
+</city>
+<city>
+	<name>Mszana Dolna</name>
+	<community>Mszana Dolna</community>
+</city>
+<city>
+	<name>Mszczonów</name>
+	<community>Mszczonów</community>
+</city>
+<city>
+	<name>Murowana Goślina</name>
+	<community>Murowana Goślina</community>
+</city>
+<city>
+	<name>Murzasichle</name>
+	<community>Poronin</community>
+</city>
+<city>
+	<name>Murów'</name>
+	<community>Murów</community>
+</city>
+<city>
+	<name>Muszyna</name>
+	<community>Muszyna</community>
+</city>
+<city>
+	<name>Mysiadło</name>
+	<community>Lesznowola</community>
+</city>
+<city>
+	<name>Myszków</name>
+	<community>Myszków</community>
+</city>
+<city>
+	<name>Myszyniec</name>
+	<community>Myszyniec</community>
+</city>
+<city>
+	<name>Mysłakowice</name>
+	<community>Mysłakowice</community>
+</city>
+<city>
+	<name>Mysłowice</name>
+	<community>Mysłowice</community>
+</city>
+<city>
+	<name>Myślenice</name>
+	<community>Myślenice</community>
+</city>
+<city>
+	<name>Myślibórz</name>
+	<community>Myślibórz</community>
+</city>
+<city>
+	<name>Mława</name>
+	<community>Mława</community>
+</city>
+<city>
+	<name>Młynary</name>
+	<community>Młynary</community>
+</city>
+<city>
+	<name>Mąkoszyn</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Mąkowarsko</name>
+	<community>Koronowo</community>
+</city>
+<city>
+	<name>Mękarzowice</name>
+	<community>Dobroszyce</community>
+</city>
+<city>
+	<name>Nadarzyn</name>
+	<community>Nadarzyn</community>
+</city>
+<city>
+	<name>Nadolice Małe</name>
+	<community>Czernica</community>
+</city>
+<city>
+	<name>Nadolice Wielkie</name>
+	<community>Czernica</community>
+</city>
+<city>
+	<name>Nakło</name>
+	<community>Świerklaniec</community>
+</city>
+<city>
+	<name>Nakło nad Notecią</name>
+	<community>Nakło nad Notecią</community>
+</city>
+<city>
+	<name>Namysłów</name>
+	<community>Namysłów</community>
+</city>
+<city>
+	<name>Narol</name>
+	<community>Narol</community>
+</city>
+<city>
+	<name>Nasielsk</name>
+	<community>Nasielsk</community>
+</city>
+<city>
+	<name>Nałęczów</name>
+	<community>Nałęczów</community>
+</city>
+<city>
+	<name>Nekla</name>
+	<community>Nekla</community>
+</city>
+<city>
+	<name>Nidzica</name>
+	<community>Nidzica</community>
+</city>
+<city>
+	<name>Nieboczowy</name>
+	<community>Lubomia</community>
+</city>
+<city>
+	<name>Nieborowice</name>
+	<community>Pilchowice</community>
+</city>
+<city>
+	<name>Niechorze</name>
+	<community>Rewal</community>
+</city>
+<city>
+	<name>Nieciszów</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Niedrzwica Duża</name>
+	<community>Niedrzwica Duża</community>
+</city>
+<city>
+	<name>Niemcza</name>
+	<community>Niemcza</community>
+</city>
+<city>
+	<name>Niemirów</name>
+	<community>Mielnik</community>
+</city>
+<city>
+	<name>Niemodlin</name>
+	<community>Niemodlin</community>
+</city>
+<city>
+	<name>Niepołomice</name>
+	<community>Niepołomice</community>
+</city>
+<city>
+	<name>Nieszawa</name>
+	<community>Nieszawa</community>
+</city>
+<city>
+	<name>Niezdrowice</name>
+	<community>Ujazd</community>
+</city>
+<city>
+	<name>Nisko</name>
+	<community>Nisko</community>
+</city>
+<city>
+	<name>Niwa</name>
+	<community>Szczytna</community>
+</city>
+<city>
+	<name>Nowa Dęba</name>
+	<community>Majdan Królewski</community>
+</city>
+<city>
+	<name>Nowa Dęba</name>
+	<community>Nowa Dęba</community>
+</city>
+<city>
+	<name>Nowa Iwiczna</name>
+	<community>Lesznowola</community>
+</city>
+<city>
+	<name>Nowa Ligota</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Nowa Morawa</name>
+	<community>Stronie Śląskie</community>
+</city>
+<city>
+	<name>Nowa Ruda</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Nowa Sarzyna</name>
+	<community>Nowa Sarzyna</community>
+</city>
+<city>
+	<name>Nowa Sól</name>
+	<community>Nowa Sól</community>
+</city>
+<city>
+	<name>Nowa Wieś</name>
+	<community>Kęty</community>
+</city>
+<city>
+	<name>Nowa Wieś</name>
+	<community>Międzylesie</community>
+</city>
+<city>
+	<name>Nowa Wieś Goszczańska</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Nowa Wieś Kącka</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Nowa Wieś Wrocławska</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Nowe</name>
+	<community>Nowe</community>
+</city>
+<city>
+	<name>Nowe Chechło</name>
+	<community>Świerklaniec</community>
+</city>
+<city>
+	<name>Nowe Grocholice</name>
+	<community>Raszyn</community>
+</city>
+<city>
+	<name>Nowe Miasteczko</name>
+	<community>Nowe Miasteczko</community>
+</city>
+<city>
+	<name>Nowe Miasto Lubawskie</name>
+	<community>Nowe Miasto Lubawskie</community>
+</city>
+<city>
+	<name>Nowe Miasto nad Pilicą</name>
+	<community>Nowe Miasto nad Pilicą</community>
+</city>
+<city>
+	<name>Nowe Pieścirogi</name>
+	<community>Nasielsk</community>
+</city>
+<city>
+	<name>Nowe Rybienko</name>
+	<community>Wyszków</community>
+</city>
+<city>
+	<name>Nowe Skalmierzyce</name>
+	<community>Nowe Skalmierzyce</community>
+</city>
+<city>
+	<name>Nowe Warpno</name>
+	<community>Nowe Warpno</community>
+</city>
+<city>
+	<name>Nowica</name>
+	<community>Dobroszyce</community>
+</city>
+<city>
+	<name>Nowielice</name>
+	<community>Trzebiatów</community>
+</city>
+<city>
+	<name>Nowogard</name>
+	<community>Nowogard</community>
+</city>
+<city>
+	<name>Nowogrodziec</name>
+	<community>Nowogrodziec</community>
+</city>
+<city>
+	<name>Nowogród</name>
+	<community>Nowogród</community>
+</city>
+<city>
+	<name>Nowogród Bobrzański</name>
+	<community>Nowogród Bobrzański</community>
+</city>
+<city>
+	<name>Nowosiedlice</name>
+	<community>Dobroszyce</community>
+</city>
+<city>
+	<name>Nowoszyce</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Nowy Bedoń</name>
+	<community>Andrespol</community>
+</city>
+<city>
+	<name>Nowy Dwór Gdański</name>
+	<community>Nowy Dwór Gdański</community>
+</city>
+<city>
+	<name>Nowy Dwór Mazowiecki</name>
+	<community>Nowy Dwór Mazowiecki</community>
+</city>
+<city>
+	<name>Nowy Gierałtów</name>
+	<community>Stronie Śląskie</community>
+</city>
+<city>
+	<name>Nowy Korczyn</name>
+	<community>Nowy Korczyn</community>
+</city>
+<city>
+	<name>Nowy Miłków</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Nowy Staw</name>
+	<community>Nowy Staw</community>
+</city>
+<city>
+	<name>Nowy Sącz</name>
+	<community>Chełmiec</community>
+</city>
+<city>
+	<name>Nowy Sącz</name>
+	<community>Nowy Sącz</community>
+</city>
+<city>
+	<name>Nowy Targ</name>
+	<community>Nowy Targ</community>
+</city>
+<city>
+	<name>Nowy Tomyśl</name>
+	<community>Nowy Tomyśl</community>
+</city>
+<city>
+	<name>Nowy Wiśnicz</name>
+	<community>Nowy Wiśnicz</community>
+</city>
+<city>
+	<name>Nysa</name>
+	<community>Nysa</community>
+</city>
+<city>
+	<name>Nądnia</name>
+	<community>Zbąszyń</community>
+</city>
+<city>
+	<name>Oborniki</name>
+	<community>Oborniki</community>
+</city>
+<city>
+	<name>Oborniki Śląskie</name>
+	<community>Oborniki Śląskie</community>
+</city>
+<city>
+	<name>Obra</name>
+	<community>Wolsztyn</community>
+</city>
+<city>
+	<name>Obrzycko</name>
+	<community>Obrzycko</community>
+</city>
+<city>
+	<name>Ochla</name>
+	<community>Zielona Góra</community>
+</city>
+<city>
+	<name>Ochodze</name>
+	<community>Komprachcice</community>
+</city>
+<city>
+	<name>Odolanów</name>
+	<community>Odolanów</community>
+</city>
+<city>
+	<name>Okonek</name>
+	<community>Okonek</community>
+</city>
+<city>
+	<name>Okuniew</name>
+	<community>Halinów</community>
+</city>
+<city>
+	<name>Olecko</name>
+	<community>Olecko</community>
+</city>
+<city>
+	<name>Olesno</name>
+	<community>Olesno</community>
+</city>
+<city>
+	<name>Oleszyce</name>
+	<community>Oleszyce</community>
+</city>
+<city>
+	<name>Oleśnica</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Oleśnica Śląska</name>
+	<community>Turawa</community>
+</city>
+<city>
+	<name>Olkusz</name>
+	<community>Olkusz</community>
+</city>
+<city>
+	<name>Olsztyn</name>
+	<community>Olsztyn</community>
+</city>
+<city>
+	<name>Olsztynek</name>
+	<community>Olsztynek</community>
+</city>
+<city>
+	<name>Olszyna</name>
+	<community>Olszyna</community>
+</city>
+<city>
+	<name>Olszówka</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Olza</name>
+	<community>Gorzyce</community>
+</city>
+<city>
+	<name>Opalenica</name>
+	<community>Opalenica</community>
+</city>
+<city>
+	<name>Opatów</name>
+	<community>Opatów</community>
+</city>
+<city>
+	<name>Opoczno</name>
+	<community>Opoczno</community>
+</city>
+<city>
+	<name>Opole</name>
+	<community>Opole</community>
+</city>
+<city>
+	<name>Opole Lubelskie</name>
+	<community>Opole Lubelskie</community>
+</city>
+<city>
+	<name>Orneta</name>
+	<community>Orneta</community>
+</city>
+<city>
+	<name>Ornontowice</name>
+	<community>Ornontowice</community>
+</city>
+<city>
+	<name>Orpiszew</name>
+	<community>Krotoszyn</community>
+</city>
+<city>
+	<name>Orzech</name>
+	<community>Świerklaniec</community>
+</city>
+<city>
+	<name>Orzesze</name>
+	<community>Orzesze</community>
+</city>
+<city>
+	<name>Orzysz</name>
+	<community>Orzysz</community>
+</city>
+<city>
+	<name>Osada Leśna</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Osie</name>
+	<community>Osie</community>
+</city>
+<city>
+	<name>Osieczna</name>
+	<community>Osieczna</community>
+</city>
+<city>
+	<name>Osiecznica</name>
+	<community>Krosno Odrzańskie</community>
+</city>
+<city>
+	<name>Osiek</name>
+	<community>Osiek</community>
+</city>
+<city>
+	<name>Osiek nad Notecią</name>
+	<community>Wyrzysk</community>
+</city>
+<city>
+	<name>Osiny</name>
+	<community>Komprachcice</community>
+</city>
+<city>
+	<name>Ostroróg</name>
+	<community>Ostroróg</community>
+</city>
+<city>
+	<name>Ostrowiec Świętokrzyski</name>
+	<community>Ostrowiec Świętokrzyski</community>
+</city>
+<city>
+	<name>Ostrowina</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Ostrowo</name>
+	<community>Władysławowo</community>
+</city>
+<city>
+	<name>Ostrołęka</name>
+	<community>Ostrołęka</community>
+</city>
+<city>
+	<name>Ostrzeszów</name>
+	<community>Ostrzeszów</community>
+</city>
+<city>
+	<name>Ostróda</name>
+	<community>Ostróda</community>
+</city>
+<city>
+	<name>Ostrów Lubelski</name>
+	<community>Ostrów Lubelski</community>
+</city>
+<city>
+	<name>Ostrów Mazowiecka</name>
+	<community>Ostrów Mazowiecka</community>
+</city>
+<city>
+	<name>Ostrów Wielkopolski</name>
+	<community>Ostrów Wielkopolski</community>
+</city>
+<city>
+	<name>Otmuchów</name>
+	<community>Otmuchów</community>
+</city>
+<city>
+	<name>Otrębusy</name>
+	<community>Brwinów</community>
+</city>
+<city>
+	<name>Otwock</name>
+	<community>Otwock</community>
+</city>
+<city>
+	<name>Otyń</name>
+	<community>Otyń</community>
+</city>
+<city>
+	<name>Owińska</name>
+	<community>Czerwonak</community>
+</city>
+<city>
+	<name>Owsiszcze</name>
+	<community>Krzyżanowice</community>
+</city>
+<city>
+	<name>Ozorków</name>
+	<community>Ozorków</community>
+</city>
+<city>
+	<name>Ozorzyce</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Ościęcin</name>
+	<community>Gryfice</community>
+</city>
+<city>
+	<name>Ośno Lubuskie</name>
+	<community>Ośno Lubuskie</community>
+</city>
+<city>
+	<name>Oświęcim</name>
+	<community>Oświęcim</community>
+</city>
+<city>
+	<name>Oława</name>
+	<community>Oława</community>
+</city>
+<city>
+	<name>Ołdrzychowice Kłodzkie</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Ożarów</name>
+	<community>Ożarów</community>
+</city>
+<city>
+	<name>Ożarów Mazowiecki</name>
+	<community>Ożarów Mazowiecki</community>
+</city>
+<city>
+	<name>Pabianice</name>
+	<community>Pabianice</community>
+</city>
+<city>
+	<name>Paczków</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Paczków</name>
+	<community>Paczków</community>
+</city>
+<city>
+	<name>Pajęczno</name>
+	<community>Pajęczno</community>
+</city>
+<city>
+	<name>Pakość</name>
+	<community>Pakość</community>
+</city>
+<city>
+	<name>Palaty</name>
+	<community>Grabów nad Prosną</community>
+</city>
+<city>
+	<name>Palowice</name>
+	<community>Czerwionka-Leszczyny</community>
+</city>
+<city>
+	<name>Paniówki</name>
+	<community>Gierałtowice</community>
+</city>
+<city>
+	<name>Paprotno</name>
+	<community>Karnice</community>
+</city>
+<city>
+	<name>Parczew</name>
+	<community>Parczew</community>
+</city>
+<city>
+	<name>Pasikurowice</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Pasym</name>
+	<community>Pasym</community>
+</city>
+<city>
+	<name>Pasłęk</name>
+	<community>Pasłęk</community>
+</city>
+<city>
+	<name>Pelplin</name>
+	<community>Pelplin</community>
+</city>
+<city>
+	<name>Pełcznica</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Pełczyce</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Pełczyce</name>
+	<community>Pełczyce</community>
+</city>
+<city>
+	<name>Piaseczno</name>
+	<community>Lesznowola</community>
+</city>
+<city>
+	<name>Piasek</name>
+	<community>Pszczyna</community>
+</city>
+<city>
+	<name>Piaski</name>
+	<community>Piaski</community>
+</city>
+<city>
+	<name>Piaski</name>
+	<community>Piaski</community>
+</city>
+<city>
+	<name>Piastów</name>
+	<community>Piastów</community>
+</city>
+<city>
+	<name>Piechowice</name>
+	<community>Piechowice</community>
+</city>
+<city>
+	<name>Pielgrzymowice</name>
+	<community>Pawłowice</community>
+</city>
+<city>
+	<name>Pieniężno</name>
+	<community>Pieniężno</community>
+</city>
+<city>
+	<name>Pierwoszyno</name>
+	<community>Kosakowo</community>
+</city>
+<city>
+	<name>Pieszyce</name>
+	<community>Pieszyce</community>
+</city>
+<city>
+	<name>Pieńsk</name>
+	<community>Pieńsk</community>
+</city>
+<city>
+	<name>Pilawa</name>
+	<community>Pilawa</community>
+</city>
+<city>
+	<name>Pilchowo</name>
+	<community>Police</community>
+</city>
+<city>
+	<name>Pilica</name>
+	<community>Pilica</community>
+</city>
+<city>
+	<name>Pilzno</name>
+	<community>Pilzno</community>
+</city>
+<city>
+	<name>Pionki</name>
+	<community>Pionki</community>
+</city>
+<city>
+	<name>Piotrków Kujawski</name>
+	<community>Piotrków Kujawski</community>
+</city>
+<city>
+	<name>Piotrków Trybunalski</name>
+	<community>Grabica</community>
+</city>
+<city>
+	<name>Piotrków Trybunalski</name>
+	<community>Piotrków Trybunalski</community>
+</city>
+<city>
+	<name>Pisarzowice</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Pisz</name>
+	<community>Pisz</community>
+</city>
+<city>
+	<name>Piszkawa</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Piszkowice</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Piwniczna-Zdrój</name>
+	<community>Piwniczna-Zdrój</community>
+</city>
+<city>
+	<name>Piła</name>
+	<community>Piła</community>
+</city>
+<city>
+	<name>Piława Dolna</name>
+	<community>Dzierżoniów</community>
+</city>
+<city>
+	<name>Piława Górna</name>
+	<community>Piława Górna</community>
+</city>
+<city>
+	<name>Piłka</name>
+	<community>Koszęcin</community>
+</city>
+<city>
+	<name>Pińczów</name>
+	<community>Pińczów</community>
+</city>
+<city>
+	<name>Pleszew</name>
+	<community>Pleszew</community>
+</city>
+<city>
+	<name>Plewiska</name>
+	<community>Komorniki</community>
+</city>
+<city>
+	<name>Pniewy</name>
+	<community>Pniewy</community>
+</city>
+<city>
+	<name>Pniówek</name>
+	<community>Pawłowice</community>
+</city>
+<city>
+	<name>Pobiedziska</name>
+	<community>Pobiedziska</community>
+</city>
+<city>
+	<name>Pobierowo</name>
+	<community>Rewal</community>
+</city>
+<city>
+	<name>Poborszów</name>
+	<community>Reńska Wieś</community>
+</city>
+<city>
+	<name>Poddębice</name>
+	<community>Poddębice</community>
+</city>
+<city>
+	<name>Podkowa Leśna</name>
+	<community>Podkowa Leśna</community>
+</city>
+<city>
+	<name>Podłęże</name>
+	<community>Niepołomice</community>
+</city>
+<city>
+	<name>Pogorzela</name>
+	<community>Pogorzela</community>
+</city>
+<city>
+	<name>Pogorzelica</name>
+	<community>Rewal</community>
+</city>
+<city>
+	<name>Pogrzebień</name>
+	<community>Kornowac</community>
+</city>
+<city>
+	<name>Pogórze</name>
+	<community>Kosakowo</community>
+</city>
+<city>
+	<name>Pokój</name>
+	<community>Pokój</community>
+</city>
+<city>
+	<name>Polanica-Zdrój</name>
+	<community>Polanica-Zdrój</community>
+</city>
+<city>
+	<name>Polanów</name>
+	<community>Polanów</community>
+</city>
+<city>
+	<name>Police</name>
+	<community>Police</community>
+</city>
+<city>
+	<name>Polkowice</name>
+	<community>Polkowice</community>
+</city>
+<city>
+	<name>Polska Nowa Wieś</name>
+	<community>Komprachcice</community>
+</city>
+<city>
+	<name>Pomiechowo</name>
+	<community>Pomiechówek</community>
+</city>
+<city>
+	<name>Poniatowa</name>
+	<community>Poniatowa</community>
+</city>
+<city>
+	<name>Poniatowice</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Poniec</name>
+	<community>Poniec</community>
+</city>
+<city>
+	<name>Poręba</name>
+	<community>Poręba</community>
+</city>
+<city>
+	<name>Poręba</name>
+	<community>Pszczyna</community>
+</city>
+<city>
+	<name>Posadowice</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Poznań</name>
+	<community>Luboń</community>
+</city>
+<city>
+	<name>Poznań</name>
+	<community>Poznań</community>
+</city>
+<city>
+	<name>Połaniec</name>
+	<community>Połaniec</community>
+</city>
+<city>
+	<name>Połczyn-Zdrój</name>
+	<community>Połczyn-Zdrój</community>
+</city>
+<city>
+	<name>Połomia</name>
+	<community>Mszana</community>
+</city>
+<city>
+	<name>Prabuty</name>
+	<community>Prabuty</community>
+</city>
+<city>
+	<name>Praszka</name>
+	<community>Praszka</community>
+</city>
+<city>
+	<name>PRAWDA</name>
+	<community>Rzgów</community>
+</city>
+<city>
+	<name>Proboszczewice</name>
+	<community>Stara Biała</community>
+</city>
+<city>
+	<name>Prochowice</name>
+	<community>Prochowice</community>
+</city>
+<city>
+	<name>Proszowice</name>
+	<community>Proszowice</community>
+</city>
+<city>
+	<name>Prudnik</name>
+	<community>Prudnik</community>
+</city>
+<city>
+	<name>Prusice</name>
+	<community>Prusice</community>
+</city>
+<city>
+	<name>Pruszcz</name>
+	<community>Brojce</community>
+</city>
+<city>
+	<name>Pruszcz Gdański</name>
+	<community>Pruszcz Gdański</community>
+</city>
+<city>
+	<name>Pruszków</name>
+	<community>Pruszków</community>
+</city>
+<city>
+	<name>Pruszowice</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Przasnysz</name>
+	<community>Przasnysz</community>
+</city>
+<city>
+	<name>Przecieszyn</name>
+	<community>Brzeszcze</community>
+</city>
+<city>
+	<name>Przecław</name>
+	<community>Kołbaskowo</community>
+</city>
+<city>
+	<name>Przedecz</name>
+	<community>Przedecz</community>
+</city>
+<city>
+	<name>Przegędza</name>
+	<community>Czerwionka-Leszczyny</community>
+</city>
+<city>
+	<name>Przelewice</name>
+	<community>Przelewice</community>
+</city>
+<city>
+	<name>Przemków</name>
+	<community>Przemków</community>
+</city>
+<city>
+	<name>Przemyśl</name>
+	<community>Krasiczyn</community>
+</city>
+<city>
+	<name>Przemyśl</name>
+	<community>Przemyśl</community>
+</city>
+<city>
+	<name>Przemęt</name>
+	<community>Przemęt</community>
+</city>
+<city>
+	<name>Przeworsk</name>
+	<community>Przeworsk</community>
+</city>
+<city>
+	<name>Przeźmierowo</name>
+	<community>Tarnowo Podgórne</community>
+</city>
+<city>
+	<name>Przybiernowo</name>
+	<community>Brojce</community>
+</city>
+<city>
+	<name>Przybkowice</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Przyborów</name>
+	<community>Nowa Sól</community>
+</city>
+<city>
+	<name>Przygórze</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Przylep</name>
+	<community>Zielona Góra</community>
+</city>
+<city>
+	<name>Przyprostynia</name>
+	<community>Zbąszyń</community>
+</city>
+<city>
+	<name>Przysucha</name>
+	<community>Przysucha</community>
+</city>
+<city>
+	<name>Przyszowice</name>
+	<community>Gierałtowice</community>
+</city>
+<city>
+	<name>Prężyce</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Prószków</name>
+	<community>Prószków</community>
+</city>
+<city>
+	<name>Psarskie</name>
+	<community>Śrem</community>
+</city>
+<city>
+	<name>Psary</name>
+	<community>Psary</community>
+</city>
+<city>
+	<name>Psary</name>
+	<community>Wisznia Mała</community>
+</city>
+<city>
+	<name>Psary</name>
+	<community>Woźniki</community>
+</city>
+<city>
+	<name>Pszczyna</name>
+	<community>Pszczyna</community>
+</city>
+<city>
+	<name>Pszów</name>
+	<community>Pszów</community>
+</city>
+<city>
+	<name>Ptakowice</name>
+	<community>Zbrosławice</community>
+</city>
+<city>
+	<name>Puchały</name>
+	<community>Raszyn</community>
+</city>
+<city>
+	<name>Puck</name>
+	<community>Puck</community>
+</city>
+<city>
+	<name>Pustkowo</name>
+	<community>Rewal</community>
+</city>
+<city>
+	<name>Pustków Wilczkowski</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Pustków Żurawski</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Puszczykowo</name>
+	<community>Puszczykowo</community>
+</city>
+<city>
+	<name>Puławy</name>
+	<community>Puławy</community>
+</city>
+<city>
+	<name>Pułtusk</name>
+	<community>Pułtusk</community>
+</city>
+<city>
+	<name>Puńsk</name>
+	<community>Puńsk</community>
+</city>
+<city>
+	<name>Pyrzyce</name>
+	<community>Pyrzyce</community>
+</city>
+<city>
+	<name>Pyskowice</name>
+	<community>Gliwice</community>
+</city>
+<city>
+	<name>Pyskowice</name>
+	<community>Pyskowice</community>
+</city>
+<city>
+	<name>Pyzdry</name>
+	<community>Pyzdry</community>
+</city>
+<city>
+	<name>Płock</name>
+	<community>Płock</community>
+</city>
+<city>
+	<name>Płoty</name>
+	<community>Płoty</community>
+</city>
+<city>
+	<name>Płońsk</name>
+	<community>Płońsk</community>
+</city>
+<city>
+	<name>Pęcice</name>
+	<community>Michałowice</community>
+</city>
+<city>
+	<name>Pęcice Małe</name>
+	<community>Michałowice</community>
+</city>
+<city>
+	<name>Racibórz</name>
+	<community>Racibórz</community>
+</city>
+<city>
+	<name>Raciąż</name>
+	<community>Raciąż</community>
+</city>
+<city>
+	<name>Racula</name>
+	<community>Zielona Góra</community>
+</city>
+<city>
+	<name>Radków</name>
+	<community>Radków</community>
+</city>
+<city>
+	<name>Radochów</name>
+	<community>Lądek-Zdrój</community>
+</city>
+<city>
+	<name>Radom</name>
+	<community>Radom</community>
+</city>
+<city>
+	<name>Radomierzyce</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Radomsko</name>
+	<community>Radomsko</community>
+</city>
+<city>
+	<name>Radomyśl Wielki</name>
+	<community>Radomyśl Wielki</community>
+</city>
+<city>
+	<name>Radwanice</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Radymno</name>
+	<community>Radymno</community>
+</city>
+<city>
+	<name>Radziejów</name>
+	<community>Radziejów</community>
+</city>
+<city>
+	<name>Radzieszyn</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Radzionków</name>
+	<community>Piekary Śląskie</community>
+</city>
+<city>
+	<name>Radzionków</name>
+	<community>Radzionków</community>
+</city>
+<city>
+	<name>Radzymin</name>
+	<community>Radzymin</community>
+</city>
+<city>
+	<name>Radzyń Chełmiński</name>
+	<community>Radzyń Chełmiński</community>
+</city>
+<city>
+	<name>Radzyń Podlaski</name>
+	<community>Radzyń Podlaski</community>
+</city>
+<city>
+	<name>Rajgród</name>
+	<community>Rajgród</community>
+</city>
+<city>
+	<name>Rakoniewice</name>
+	<community>Rakoniewice</community>
+</city>
+<city>
+	<name>Raków</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Ramiszów</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Raszczyce</name>
+	<community>Lyski</community>
+</city>
+<city>
+	<name>Raszków</name>
+	<community>Radków</community>
+</city>
+<city>
+	<name>Raszków</name>
+	<community>Raszków</community>
+</city>
+<city>
+	<name>Raszowa</name>
+	<community>Leśnica</community>
+</city>
+<city>
+	<name>Raszyn</name>
+	<community>Raszyn</community>
+</city>
+<city>
+	<name>Ratno Dolne</name>
+	<community>Radków</community>
+</city>
+<city>
+	<name>Ratowice</name>
+	<community>Czernica</community>
+</city>
+<city>
+	<name>Rawa Mazowiecka</name>
+	<community>Rawa Mazowiecka</community>
+</city>
+<city>
+	<name>Rawicz</name>
+	<community>Rawicz</community>
+</city>
+<city>
+	<name>Recz</name>
+	<community>Recz</community>
+</city>
+<city>
+	<name>Reda</name>
+	<community>Reda</community>
+</city>
+<city>
+	<name>Reguły</name>
+	<community>Michałowice</community>
+</city>
+<city>
+	<name>Rejowiec Fabryczny</name>
+	<community>Rejowiec Fabryczny</community>
+</city>
+<city>
+	<name>Resko</name>
+	<community>Resko</community>
+</city>
+<city>
+	<name>Reszel</name>
+	<community>Reszel</community>
+</city>
+<city>
+	<name>Rewa</name>
+	<community>Kosakowo</community>
+</city>
+<city>
+	<name>Rewal</name>
+	<community>Rewal</community>
+</city>
+<city>
+	<name>Rodaki</name>
+	<community>Klucze</community>
+</city>
+<city>
+	<name>Rogozina</name>
+	<community>Trzebiatów</community>
+</city>
+<city>
+	<name>Rogoźno</name>
+	<community>Rogoźno</community>
+</city>
+<city>
+	<name>Rogówek</name>
+	<community>Lądek-Zdrój</community>
+</city>
+<city>
+	<name>Romnów</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Roszków</name>
+	<community>Krzyżanowice</community>
+</city>
+<city>
+	<name>Rotmanka</name>
+	<community>Pruszcz Gdański</community>
+</city>
+<city>
+	<name>Rowy</name>
+	<community>Ustka</community>
+</city>
+<city>
+	<name>Roztoki</name>
+	<community>Międzylesie</community>
+</city>
+<city>
+	<name>Rozwadza</name>
+	<community>Zdzieszowice</community>
+</city>
+<city>
+	<name>Ruciane-Nida</name>
+	<community>Ruciane-Nida</community>
+</city>
+<city>
+	<name>Rudnik</name>
+	<community>Rudnik</community>
+</city>
+<city>
+	<name>Rudnik nad Sanem</name>
+	<community>Rudnik nad Sanem</community>
+</city>
+<city>
+	<name>Rudołtowice</name>
+	<community>Pszczyna</community>
+</city>
+<city>
+	<name>Rudyszwałd</name>
+	<community>Krzyżanowice</community>
+</city>
+<city>
+	<name>Rumia</name>
+	<community>Rumia</community>
+</city>
+<city>
+	<name>Rusinowice</name>
+	<community>Koszęcin</community>
+</city>
+<city>
+	<name>Rybie</name>
+	<community>Raszyn</community>
+</city>
+<city>
+	<name>Rybnik</name>
+	<community>Rybnik</community>
+</city>
+<city>
+	<name>Rychwał</name>
+	<community>Rychwał</community>
+</city>
+<city>
+	<name>Ryczówek</name>
+	<community>Klucze</community>
+</city>
+<city>
+	<name>Rydułtowy</name>
+	<community>Gaszowice</community>
+</city>
+<city>
+	<name>Rydułtowy</name>
+	<community>Rydułtowy</community>
+</city>
+<city>
+	<name>Rydzyna</name>
+	<community>Rydzyna</community>
+</city>
+<city>
+	<name>Rydzynki</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Ryglice</name>
+	<community>Ryglice</community>
+</city>
+<city>
+	<name>Ryki</name>
+	<community>Ryki</community>
+</city>
+<city>
+	<name>Rymanów</name>
+	<community>Rymanów</community>
+</city>
+<city>
+	<name>Ryn</name>
+	<community>Ryn</community>
+</city>
+<city>
+	<name>Rypin</name>
+	<community>Rypin</community>
+</city>
+<city>
+	<name>Rzepin</name>
+	<community>Rzepin</community>
+</city>
+<city>
+	<name>Rzeszów</name>
+	<community>Krasne</community>
+</city>
+<city>
+	<name>Rzeszów</name>
+	<community>Rzeszów</community>
+</city>
+<city>
+	<name>Rzgów</name>
+	<community>Rzgów</community>
+</city>
+<city>
+	<name>Rzuchów</name>
+	<community>Kornowac</community>
+</city>
+<city>
+	<name>Rzęskowo</name>
+	<community>Gryfice</community>
+</city>
+<city>
+	<name>Rąbień</name>
+	<community>Aleksandrów Łódzki</community>
+</city>
+<city>
+	<name>Rąbień AB</name>
+	<community>Aleksandrów Łódzki</community>
+</city>
+<city>
+	<name>Rębielice Królewskie</name>
+	<community>Popów</community>
+</city>
+<city>
+	<name>Rędziny</name>
+	<community>Rędziny</community>
+</city>
+<city>
+	<name>Różan</name>
+	<community>Różan</community>
+</city>
+<city>
+	<name>Różanka</name>
+	<community>Międzylesie</community>
+</city>
+<city>
+	<name>Sadków</name>
+	<community>Dobroszyce</community>
+</city>
+<city>
+	<name>Sadków</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Sadlno</name>
+	<community>Trzebiatów</community>
+</city>
+<city>
+	<name>Sadowa</name>
+	<community>Łomianki</community>
+</city>
+<city>
+	<name>Sadowice</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Sadów</name>
+	<community>Koszęcin</community>
+</city>
+<city>
+	<name>Samotwór</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Sandomierz</name>
+	<community>Sandomierz</community>
+</city>
+<city>
+	<name>Sanok</name>
+	<community>Sanok</community>
+</city>
+<city>
+	<name>Sejny</name>
+	<community>Sejny</community>
+</city>
+<city>
+	<name>Serock</name>
+	<community>Serock</community>
+</city>
+<city>
+	<name>Sianożęty</name>
+	<community>Ustronie Morskie</community>
+</city>
+<city>
+	<name>Sianów</name>
+	<community>Sianów</community>
+</city>
+<city>
+	<name>Siechnice</name>
+	<community>Siechnice</community>
+</city>
+<city>
+	<name>Siedlce</name>
+	<community>Siedlce</community>
+</city>
+<city>
+	<name>Siedlec</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Siedlec</name>
+	<community>Siedlec</community>
+</city>
+<city>
+	<name>Siedliska</name>
+	<community>Piaseczno</community>
+</city>
+<city>
+	<name>Siekierowice</name>
+	<community>Dobroszyce</community>
+</city>
+<city>
+	<name>Siemianowice Śląskie</name>
+	<community>Siemianowice Śląskie</community>
+</city>
+<city>
+	<name>Siemiatycze</name>
+	<community>Siemiatycze</community>
+</city>
+<city>
+	<name>Siemidarżno</name>
+	<community>Trzebiatów</community>
+</city>
+<city>
+	<name>Sieniawa</name>
+	<community>Sieniawa</community>
+</city>
+<city>
+	<name>Sienno</name>
+	<community>Sienno</community>
+</city>
+<city>
+	<name>Sieradz</name>
+	<community>Sieradz</community>
+</city>
+<city>
+	<name>Sieraków</name>
+	<community>Sieraków</community>
+</city>
+<city>
+	<name>Sierpc</name>
+	<community>Sierpc</community>
+</city>
+<city>
+	<name>Siewierz</name>
+	<community>Siewierz</community>
+</city>
+<city>
+	<name>Skalbmierz</name>
+	<community>Skalbmierz</community>
+</city>
+<city>
+	<name>Skalmierzyce</name>
+	<community>Nowe Skalmierzyce</community>
+</city>
+<city>
+	<name>Skarszewy</name>
+	<community>Skarszewy</community>
+</city>
+<city>
+	<name>Skaryszew</name>
+	<community>Skaryszew</community>
+</city>
+<city>
+	<name>Skarżysko-Kamienna</name>
+	<community>Szydłowiec</community>
+</city>
+<city>
+	<name>Skawina</name>
+	<community>Kraków</community>
+</city>
+<city>
+	<name>Skawina</name>
+	<community>Skawina</community>
+</city>
+<city>
+	<name>Skała</name>
+	<community>Skała</community>
+</city>
+<city>
+	<name>Skidzin</name>
+	<community>Brzeszcze</community>
+</city>
+<city>
+	<name>Skierniewice</name>
+	<community>Skierniewice</community>
+</city>
+<city>
+	<name>Skoczów</name>
+	<community>Skoczów</community>
+</city>
+<city>
+	<name>Skoki</name>
+	<community>Skoki</community>
+</city>
+<city>
+	<name>Skrzynka</name>
+	<community>Lądek-Zdrój</community>
+</city>
+<city>
+	<name>Skępe</name>
+	<community>Skępe</community>
+</city>
+<city>
+	<name>Skórcz</name>
+	<community>Skórcz</community>
+</city>
+<city>
+	<name>Skórzewo</name>
+	<community>Dopiewo</community>
+</city>
+<city>
+	<name>Smardy Dolne</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Smardy Górne</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Smardzów</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Smardzów</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Smolec</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Smolna</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Smolnica</name>
+	<community>Sośnicowice</community>
+</city>
+<city>
+	<name>Smolęcin</name>
+	<community>Gryfice</community>
+</city>
+<city>
+	<name>Smoszew</name>
+	<community>Krotoszyn</community>
+</city>
+<city>
+	<name>Smreczyna</name>
+	<community>Międzylesie</community>
+</city>
+<city>
+	<name>Sobótka</name>
+	<community>Sobótka</community>
+</city>
+<city>
+	<name>Sochaczew</name>
+	<community>Sochaczew</community>
+</city>
+<city>
+	<name>Sokolec</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Sokolica</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Sokolniki</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Sokolniki Las</name>
+	<community>Ozorków</community>
+</city>
+<city>
+	<name>Sokołowice</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Sokołów Małopolski</name>
+	<community>Sokołów Małopolski</community>
+</city>
+<city>
+	<name>Sokołów Podlaski</name>
+	<community>Sokołów Podlaski</community>
+</city>
+<city>
+	<name>Sokółka</name>
+	<community>Sokółka</community>
+</city>
+<city>
+	<name>Solec Kujawski</name>
+	<community>Solec Kujawski</community>
+</city>
+<city>
+	<name>Solec-Zdrój</name>
+	<community>Solec-Zdrój</community>
+</city>
+<city>
+	<name>Solna</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Solniki Małe</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Solniki Wielkie</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Sompolno</name>
+	<community>Sompolno</community>
+</city>
+<city>
+	<name>Sopot</name>
+	<community>Sopot</community>
+</city>
+<city>
+	<name>Sosnowiec</name>
+	<community>Sosnowiec</community>
+</city>
+<city>
+	<name>Sosnówka</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Spalice</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Srebrna Góra</name>
+	<community>Stoszowice</community>
+</city>
+<city>
+	<name>Stalowa Wola</name>
+	<community>Stalowa Wola</community>
+</city>
+<city>
+	<name>Stanisławów</name>
+	<community>Stanisławów</community>
+</city>
+<city>
+	<name>Stanowice</name>
+	<community>Czerwionka-Leszczyny</community>
+</city>
+<city>
+	<name>Stanowice</name>
+	<community>Oława</community>
+</city>
+<city>
+	<name>Stara Gadka</name>
+	<community>Rzgów</community>
+</city>
+<city>
+	<name>Stara Morawa</name>
+	<community>Stronie Śląskie</community>
+</city>
+<city>
+	<name>Stara Łomnica</name>
+	<community>Bystrzyca Kłodzka</community>
+</city>
+<city>
+	<name>Starachowice</name>
+	<community>Starachowice</community>
+</city>
+<city>
+	<name>Stare Babice</name>
+	<community>Stare Babice</community>
+</city>
+<city>
+	<name>Stare Czarnowo</name>
+	<community>Stare Czarnowo</community>
+</city>
+<city>
+	<name>Stare Juchy</name>
+	<community>Stare Juchy</community>
+</city>
+<city>
+	<name>Stare Koźle</name>
+	<community>Bierawa</community>
+</city>
+<city>
+	<name>Stargard Szczeciński</name>
+	<community>Stargard Szczeciński</community>
+</city>
+<city>
+	<name>Starogard Gdański</name>
+	<community>Starogard Gdański</community>
+</city>
+<city>
+	<name>Starowa Góra</name>
+	<community>Rzgów</community>
+</city>
+<city>
+	<name>Stary Gierałtów</name>
+	<community>Stronie Śląskie</community>
+</city>
+<city>
+	<name>Stary Kisielin</name>
+	<community>Zielona Góra</community>
+</city>
+<city>
+	<name>Stary Sącz</name>
+	<community>Stary Sącz</community>
+</city>
+<city>
+	<name>Staszów</name>
+	<community>Staszów</community>
+</city>
+<city>
+	<name>Stawiski</name>
+	<community>Stawiski</community>
+</city>
+<city>
+	<name>Stawiszyn</name>
+	<community>Stawiszyn</community>
+</city>
+<city>
+	<name>Steblów</name>
+	<community>Krapkowice</community>
+</city>
+<city>
+	<name>Stegna</name>
+	<community>Stegna</community>
+</city>
+<city>
+	<name>Stoczek Łukowski</name>
+	<community>Stoczek Łukowski</community>
+</city>
+<city>
+	<name>Stopnica</name>
+	<community>Stopnica</community>
+</city>
+<city>
+	<name>Stołąż</name>
+	<community>Brojce</community>
+</city>
+<city>
+	<name>Stronie Śląskie</name>
+	<community>Stronie Śląskie</community>
+</city>
+<city>
+	<name>Stronie Śląskie-Wieś</name>
+	<community>Stronie Śląskie</community>
+</city>
+<city>
+	<name>Strumień</name>
+	<community>Strumień</community>
+</city>
+<city>
+	<name>Stryków</name>
+	<community>Stryków</community>
+</city>
+<city>
+	<name>Strzałkowo</name>
+	<community>Strzałkowo</community>
+</city>
+<city>
+	<name>Strzebiń</name>
+	<community>Koszęcin</community>
+</city>
+<city>
+	<name>Strzegom</name>
+	<community>Strzegom</community>
+</city>
+<city>
+	<name>Strzelce</name>
+	<community>Dobroszyce</community>
+</city>
+<city>
+	<name>Strzelce Krajeńskie</name>
+	<community>Strzelce Krajeńskie</community>
+</city>
+<city>
+	<name>Strzelce Opolskie</name>
+	<community>Strzelce Opolskie</community>
+</city>
+<city>
+	<name>Strzelce Wielkie</name>
+	<community>Strzelce Wielkie</community>
+</city>
+<city>
+	<name>Strzeleczki</name>
+	<community>Strzeleczki</community>
+</city>
+<city>
+	<name>Strzelin</name>
+	<community>Strzelin</community>
+</city>
+<city>
+	<name>Strzelno</name>
+	<community>Strzelno</community>
+</city>
+<city>
+	<name>Strzyżów</name>
+	<community>Strzyżów</community>
+</city>
+<city>
+	<name>Stróża</name>
+	<community>Andrespol</community>
+</city>
+<city>
+	<name>Studzienice</name>
+	<community>Pszczyna</community>
+</city>
+<city>
+	<name>Stąporków</name>
+	<community>Stąporków</community>
+</city>
+<city>
+	<name>Stępin</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Stęszew</name>
+	<community>Stęszew</community>
+</city>
+<city>
+	<name>Sucha Beskidzka</name>
+	<community>Sucha Beskidzka</community>
+</city>
+<city>
+	<name>Suchań</name>
+	<community>Suchań</community>
+</city>
+<city>
+	<name>Suchedniów</name>
+	<community>Suchedniów</community>
+</city>
+<city>
+	<name>Suchowola</name>
+	<community>Suchowola</community>
+</city>
+<city>
+	<name>Suchy Dwór</name>
+	<community>Kosakowo</community>
+</city>
+<city>
+	<name>Sulechów</name>
+	<community>Sulechów</community>
+</city>
+<city>
+	<name>Sulejów</name>
+	<community>Sulejów</community>
+</city>
+<city>
+	<name>Sulejówek</name>
+	<community>Sulejówek</community>
+</city>
+<city>
+	<name>Sulejówek</name>
+	<community>Wiązowna</community>
+</city>
+<city>
+	<name>Sulików</name>
+	<community>Sulików</community>
+</city>
+<city>
+	<name>Sulmierzyce</name>
+	<community>Sulmierzyce</community>
+</city>
+<city>
+	<name>Sulęcin</name>
+	<community>Sulęcin</community>
+</city>
+<city>
+	<name>Supraśl</name>
+	<community>Supraśl</community>
+</city>
+<city>
+	<name>Suraż</name>
+	<community>Suraż</community>
+</city>
+<city>
+	<name>Susiec</name>
+	<community>Susiec</community>
+</city>
+<city>
+	<name>Susz</name>
+	<community>Susz</community>
+</city>
+<city>
+	<name>Suszyna</name>
+	<community>Radków</community>
+</city>
+<city>
+	<name>Suwałki</name>
+	<community>Suwałki</community>
+</city>
+<city>
+	<name>Sułkowice</name>
+	<community>Sułkowice</community>
+</city>
+<city>
+	<name>Syców</name>
+	<community>Syców</community>
+</city>
+<city>
+	<name>Syski</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Szadek</name>
+	<community>Szadek</community>
+</city>
+<city>
+	<name>Szaflary</name>
+	<community>Szaflary</community>
+</city>
+<city>
+	<name>Szalejów Dolny</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Szalejów Górny</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Szamocin</name>
+	<community>Szamocin</community>
+</city>
+<city>
+	<name>Szamotuły</name>
+	<community>Szamotuły</community>
+</city>
+<city>
+	<name>Szczawina</name>
+	<community>Bystrzyca Kłodzka</community>
+</city>
+<city>
+	<name>Szczawno-Zdrój</name>
+	<community>Szczawno-Zdrój</community>
+</city>
+<city>
+	<name>Szczecin</name>
+	<community>Kobylanka</community>
+</city>
+<city>
+	<name>Szczecin</name>
+	<community>Szczecin</community>
+</city>
+<city>
+	<name>Szczecinek</name>
+	<community>Szczecinek</community>
+</city>
+<city>
+	<name>Szczejkowice</name>
+	<community>Czerwionka-Leszczyny</community>
+</city>
+<city>
+	<name>Szczekociny</name>
+	<community>Szczekociny</community>
+</city>
+<city>
+	<name>Szczepankowice</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Szczerców</name>
+	<community>Szczerców</community>
+</city>
+<city>
+	<name>Szczodre</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Szczuczyn</name>
+	<community>Szczuczyn</community>
+</city>
+<city>
+	<name>Szczukwin</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Szczyrk</name>
+	<community>Szczyrk</community>
+</city>
+<city>
+	<name>Szczytna</name>
+	<community>Szczytna</community>
+</city>
+<city>
+	<name>Szczytno</name>
+	<community>Szczytno</community>
+</city>
+<city>
+	<name>Szewce</name>
+	<community>Wisznia Mała</community>
+</city>
+<city>
+	<name>Szklarnia</name>
+	<community>Międzylesie</community>
+</city>
+<city>
+	<name>Szklarska Poręba</name>
+	<community>Szklarska Poręba</community>
+</city>
+<city>
+	<name>Szlichtyngowa</name>
+	<community>Szlichtyngowa</community>
+</city>
+<city>
+	<name>Szprotawa</name>
+	<community>Szprotawa</community>
+</city>
+<city>
+	<name>Sztum</name>
+	<community>Sztum</community>
+</city>
+<city>
+	<name>Sztutowo</name>
+	<community>Sztutowo</community>
+</city>
+<city>
+	<name>Szubin</name>
+	<community>Szubin</community>
+</city>
+<city>
+	<name>Sława</name>
+	<community>Sława</community>
+</city>
+<city>
+	<name>Sławice</name>
+	<community>Dąbrowa</community>
+</city>
+<city>
+	<name>Sławków</name>
+	<community>Sławków</community>
+</city>
+<city>
+	<name>Sławno</name>
+	<community>Sławno</community>
+</city>
+<city>
+	<name>Słomczyn</name>
+	<community>Konstancin-Jeziorna</community>
+</city>
+<city>
+	<name>Słomniki</name>
+	<community>Słomniki</community>
+</city>
+<city>
+	<name>Słubice</name>
+	<community>Słubice</community>
+</city>
+<city>
+	<name>Słupca</name>
+	<community>Słupca</community>
+</city>
+<city>
+	<name>Słupsk</name>
+	<community>Kobylnica</community>
+</city>
+<city>
+	<name>Słupsk</name>
+	<community>Słupsk</community>
+</city>
+<city>
+	<name>Sądrożyce</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Sątok</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Sędziszów</name>
+	<community>Sędziszów</community>
+</city>
+<city>
+	<name>Sędziszów Małopolski</name>
+	<community>Ropczyce</community>
+</city>
+<city>
+	<name>Sępopol</name>
+	<community>Sępopol</community>
+</city>
+<city>
+	<name>Sępólno Krajeńskie</name>
+	<community>Sępólno Krajeńskie</community>
+</city>
+<city>
+	<name>Tarczyn</name>
+	<community>Tarczyn</community>
+</city>
+<city>
+	<name>Tarnobrzeg</name>
+	<community>Tarnobrzeg</community>
+</city>
+<city>
+	<name>Tarnogród</name>
+	<community>Tarnogród</community>
+</city>
+<city>
+	<name>Tarnowskie Góry</name>
+	<community>Tarnowskie Góry</community>
+</city>
+<city>
+	<name>Tarnów</name>
+	<community>Lisia Góra</community>
+</city>
+<city>
+	<name>Tarnów</name>
+	<community>Tarnów</community>
+</city>
+<city>
+	<name>Tczew</name>
+	<community>Tczew</community>
+</city>
+<city>
+	<name>Terespol</name>
+	<community>Terespol</community>
+</city>
+<city>
+	<name>Tleń</name>
+	<community>Osie</community>
+</city>
+<city>
+	<name>Tolkmicko</name>
+	<community>Tolkmicko</community>
+</city>
+<city>
+	<name>Tomaszów Lubelski</name>
+	<community>Tomaszów Lubelski</community>
+</city>
+<city>
+	<name>Tomaszów Mazowiecki</name>
+	<community>Tomaszów Mazowiecki</community>
+</city>
+<city>
+	<name>Tomnice</name>
+	<community>Krotoszyn</community>
+</city>
+<city>
+	<name>Toruń</name>
+	<community>Toruń</community>
+</city>
+<city>
+	<name>Torzym</name>
+	<community>Torzym</community>
+</city>
+<city>
+	<name>Toszek</name>
+	<community>Toszek</community>
+</city>
+<city>
+	<name>Trzcianka</name>
+	<community>Trzcianka</community>
+</city>
+<city>
+	<name>Trzciel</name>
+	<community>Trzciel</community>
+</city>
+<city>
+	<name>Trzcińsko-Zdrój</name>
+	<community>Trzcińsko-Zdrój</community>
+</city>
+<city>
+	<name>Trzebiatów</name>
+	<community>Trzebiatów</community>
+</city>
+<city>
+	<name>Trzebieszowice</name>
+	<community>Lądek-Zdrój</community>
+</city>
+<city>
+	<name>Trzebież</name>
+	<community>Police</community>
+</city>
+<city>
+	<name>Trzebinia</name>
+	<community>Trzebinia</community>
+</city>
+<city>
+	<name>Trzebnica</name>
+	<community>Trzebnica</community>
+</city>
+<city>
+	<name>Trzebusz</name>
+	<community>Trzebiatów</community>
+</city>
+<city>
+	<name>Trzemeszno</name>
+	<community>Trzemeszno</community>
+</city>
+<city>
+	<name>Trzygłów</name>
+	<community>Gryfice</community>
+</city>
+<city>
+	<name>Trzęsacz</name>
+	<community>Rewal</community>
+</city>
+<city>
+	<name>Trębaczew</name>
+	<community>Działoszyn</community>
+</city>
+<city>
+	<name>Tuchów</name>
+	<community>Tuchów</community>
+</city>
+<city>
+	<name>Tuczno</name>
+	<community>Tuczno</community>
+</city>
+<city>
+	<name>Tulce</name>
+	<community>Kleszczewo</community>
+</city>
+<city>
+	<name>Tuliszków</name>
+	<community>Tuliszków</community>
+</city>
+<city>
+	<name>Turek</name>
+	<community>Turek</community>
+</city>
+<city>
+	<name>Turza Śląska</name>
+	<community>Gorzyce</community>
+</city>
+<city>
+	<name>Tuszyn</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Tuszynek Majoracki</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Tworków</name>
+	<community>Krzyżanowice</community>
+</city>
+<city>
+	<name>Tyczyn</name>
+	<community>Tyczyn</community>
+</city>
+<city>
+	<name>Tykocin</name>
+	<community>Tykocin</community>
+</city>
+<city>
+	<name>Tylicz</name>
+	<community>Krynica-Zdrój</community>
+</city>
+<city>
+	<name>Tyniec Mały</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Tyniec Nad Ślężą</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Tyszowce</name>
+	<community>Tyszowce</community>
+</city>
+<city>
+	<name>Tłumaczów</name>
+	<community>Radków</community>
+</city>
+<city>
+	<name>Tłuszcz</name>
+	<community>Tłuszcz</community>
+</city>
+<city>
+	<name>Tąpadły</name>
+	<community>Brojce</community>
+</city>
+<city>
+	<name>Uhowo</name>
+	<community>Łapy</community>
+</city>
+<city>
+	<name>Ujazd</name>
+	<community>Ujazd</community>
+</city>
+<city>
+	<name>Ujście</name>
+	<community>Ujście</community>
+</city>
+<city>
+	<name>Ulanów</name>
+	<community>Ulanów</community>
+</city>
+<city>
+	<name>Uniejów</name>
+	<community>Uniejów</community>
+</city>
+<city>
+	<name>Unieszów</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Unieście</name>
+	<community>Mielno</community>
+</city>
+<city>
+	<name>Ustanów</name>
+	<community>Prażmów</community>
+</city>
+<city>
+	<name>Ustka</name>
+	<community>Ustka</community>
+</city>
+<city>
+	<name>Ustronie Morskie</name>
+	<community>Ustronie Morskie</community>
+</city>
+<city>
+	<name>Ustroń</name>
+	<community>Ustroń</community>
+</city>
+<city>
+	<name>Ustrzyki Dolne</name>
+	<community>Ustrzyki Dolne</community>
+</city>
+<city>
+	<name>Wabienice</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Wadowice</name>
+	<community>Wadowice</community>
+</city>
+<city>
+	<name>Wambierzyce</name>
+	<community>Radków</community>
+</city>
+<city>
+	<name>Wardzyn</name>
+	<community>Brójce</community>
+</city>
+<city>
+	<name>Warka</name>
+	<community>Warka</community>
+</city>
+<city>
+	<name>Warszawa</name>
+	<community>Michałowice</community>
+</city>
+<city>
+	<name>Warszawa</name>
+	<community>Nieporęt</community>
+</city>
+<city>
+	<name>Warszawa</name>
+	<community>Warszawa</community>
+</city>
+<city>
+	<name>Warszowice</name>
+	<community>Pawłowice</community>
+</city>
+<city>
+	<name>Warta</name>
+	<community>Warta</community>
+</city>
+<city>
+	<name>Wartkowice</name>
+	<community>Wartkowice</community>
+</city>
+<city>
+	<name>Wasilków</name>
+	<community>Wasilków</community>
+</city>
+<city>
+	<name>Wawelno</name>
+	<community>Komprachcice</community>
+</city>
+<city>
+	<name>Wałcz</name>
+	<community>Wałcz</community>
+</city>
+<city>
+	<name>Wejherowo</name>
+	<community>Wejherowo</community>
+</city>
+<city>
+	<name>Wicimice</name>
+	<community>Płoty</community>
+</city>
+<city>
+	<name>Widuchowa</name>
+	<community>Widuchowa</community>
+</city>
+<city>
+	<name>Wiechlice</name>
+	<community>Szprotawa</community>
+</city>
+<city>
+	<name>Wieleń</name>
+	<community>Wieleń</community>
+</city>
+<city>
+	<name>Wielichowo</name>
+	<community>Wielichowo</community>
+</city>
+<city>
+	<name>Wieliczka</name>
+	<community>Wieliczka</community>
+</city>
+<city>
+	<name>Wielowieś</name>
+	<community>Krotoszyn</community>
+</city>
+<city>
+	<name>Wieluń</name>
+	<community>Wieluń</community>
+</city>
+<city>
+	<name>Wieruszów</name>
+	<community>Wieruszów</community>
+</city>
+<city>
+	<name>Wierzbice</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Wierzbie</name>
+	<community>Koszęcin</community>
+</city>
+<city>
+	<name>Wieszowa</name>
+	<community>Zbrosławice</community>
+</city>
+<city>
+	<name>Wiewiórczyn</name>
+	<community>Łask</community>
+</city>
+<city>
+	<name>Wilamowice</name>
+	<community>Wilamowice</community>
+</city>
+<city>
+	<name>Wilczkowice</name>
+	<community>Brzeszcze</community>
+</city>
+<city>
+	<name>Wilczyce</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Wilkanowo</name>
+	<community>Świdnica</community>
+</city>
+<city>
+	<name>Wilkszyn</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Wilków</name>
+	<community>Wilków</community>
+</city>
+<city>
+	<name>Winów</name>
+	<community>Prószków</community>
+</city>
+<city>
+	<name>Wiry</name>
+	<community>Komorniki</community>
+</city>
+<city>
+	<name>Wisła</name>
+	<community>Wisła</community>
+</city>
+<city>
+	<name>Wisła Wielka</name>
+	<community>Pszczyna</community>
+</city>
+<city>
+	<name>Witkowo</name>
+	<community>Witkowo</community>
+</city>
+<city>
+	<name>Witków</name>
+	<community>Czarny Bór</community>
+</city>
+<city>
+	<name>Witnica</name>
+	<community>Witnica</community>
+</city>
+<city>
+	<name>Witobel</name>
+	<community>Stęszew</community>
+</city>
+<city>
+	<name>Wiśniowa Góra</name>
+	<community>Andrespol</community>
+</city>
+<city>
+	<name>Wiązów</name>
+	<community>Wiązów</community>
+</city>
+<city>
+	<name>Więcbork</name>
+	<community>Więcbork</community>
+</city>
+<city>
+	<name>Więcki</name>
+	<community>Popów</community>
+</city>
+<city>
+	<name>Większyce</name>
+	<community>Reńska Wieś</community>
+</city>
+<city>
+	<name>Wleń</name>
+	<community>Wleń</community>
+</city>
+<city>
+	<name>Wodzin Majoracki</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Wodzin Prywatny</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Wodzinek</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Wodzisław Śląski</name>
+	<community>Wodzisław Śląski</community>
+</city>
+<city>
+	<name>Wojbórz</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Wojciechowice</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Wojcieszów</name>
+	<community>Wojcieszów</community>
+</city>
+<city>
+	<name>Wojkowice</name>
+	<community>Wojkowice</community>
+</city>
+<city>
+	<name>Wojnicz</name>
+	<community></community>
+</city>
+<city>
+	<name>Wojnowice</name>
+	<community>Czernica</community>
+</city>
+<city>
+	<name>Wola Kazubowa</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Wola Rakowa</name>
+	<community>Brójce</community>
+</city>
+<city>
+	<name>Wolany</name>
+	<community>Szczytna</community>
+</city>
+<city>
+	<name>Wolbrom</name>
+	<community>Wolbrom</community>
+</city>
+<city>
+	<name>Wolin</name>
+	<community>Wolin</community>
+</city>
+<city>
+	<name>Wolsztyn</name>
+	<community>Wolsztyn</community>
+</city>
+<city>
+	<name>Woźniki</name>
+	<community>Woźniki</community>
+</city>
+<city>
+	<name>Wołczyn</name>
+	<community>Wołczyn</community>
+</city>
+<city>
+	<name>Wołomin</name>
+	<community>Wołomin</community>
+</city>
+<city>
+	<name>Wołów</name>
+	<community>Wołów</community>
+</city>
+<city>
+	<name>Wrocław</name>
+	<community>Wisznia Mała</community>
+</city>
+<city>
+	<name>Wrocław</name>
+	<community>Wrocław</community>
+</city>
+<city>
+	<name>Wrocław</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Wroniawy</name>
+	<community>Wolsztyn</community>
+</city>
+<city>
+	<name>Wronki</name>
+	<community>Wronki</community>
+</city>
+<city>
+	<name>Września</name>
+	<community>Września</community>
+</city>
+<city>
+	<name>Wróblowice</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Wschowa</name>
+	<community>Wschowa</community>
+</city>
+<city>
+	<name>Wszechświęte</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Wyrzysk</name>
+	<community>Wyrzysk</community>
+</city>
+<city>
+	<name>Wyrębina</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Wysoka</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Wysoka</name>
+	<community>Wysoka</community>
+</city>
+<city>
+	<name>Wysokie Mazowieckie</name>
+	<community>Wysokie Mazowieckie</community>
+</city>
+<city>
+	<name>Wyszków</name>
+	<community>Wyszków</community>
+</city>
+<city>
+	<name>Wyszogród</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Wyszogród</name>
+	<community>Wyszogród</community>
+</city>
+<city>
+	<name>Wyśmierzyce</name>
+	<community>Wyśmierzyce</community>
+</city>
+<city>
+	<name>Władysławowo</name>
+	<community>Władysławowo</community>
+</city>
+<city>
+	<name>Władysławów</name>
+	<community>Miedźno</community>
+</city>
+<city>
+	<name>Władysławów</name>
+	<community>Władysławów</community>
+</city>
+<city>
+	<name>Włocławek</name>
+	<community>Włocławek</community>
+</city>
+<city>
+	<name>Włodawa</name>
+	<community>Włodawa</community>
+</city>
+<city>
+	<name>Włodowice</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Włoszczowa</name>
+	<community>Włoszczowa</community>
+</city>
+<city>
+	<name>Wąbrzeźno</name>
+	<community>Wąbrzeźno</community>
+</city>
+<city>
+	<name>Wąchock</name>
+	<community>Wąchock</community>
+</city>
+<city>
+	<name>Wągrowiec</name>
+	<community>Wągrowiec</community>
+</city>
+<city>
+	<name>Wąsosz</name>
+	<community>Wąsosz</community>
+</city>
+<city>
+	<name>Wąsosz Dolny</name>
+	<community>Popów</community>
+</city>
+<city>
+	<name>Węgliniec</name>
+	<community>Węgliniec</community>
+</city>
+<city>
+	<name>Węgorzewo</name>
+	<community>Węgorzewo</community>
+</city>
+<city>
+	<name>Węgorzyno</name>
+	<community>Węgorzyno</community>
+</city>
+<city>
+	<name>Węgry</name>
+	<community>Turawa</community>
+</city>
+<city>
+	<name>Węgrów</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Węgrów</name>
+	<community>Węgrów</community>
+</city>
+<city>
+	<name>Wójtowo</name>
+	<community>Barczewo</community>
+</city>
+<city>
+	<name>Wójtówka</name>
+	<community>Lądek-Zdrój</community>
+</city>
+<city>
+	<name>Zabełków</name>
+	<community>Krzyżanowice</community>
+</city>
+<city>
+	<name>Zabierzów</name>
+	<community>Zabierzów</community>
+</city>
+<city>
+	<name>Zaborów</name>
+	<community>Leszno</community>
+</city>
+<city>
+	<name>Zabrodzie</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Zabrzeg</name>
+	<community>Czechowice-Dziedzice</community>
+</city>
+<city>
+	<name>Zabłudów</name>
+	<community>Zabłudów</community>
+</city>
+<city>
+	<name>Zabór</name>
+	<community>Zabór</community>
+</city>
+<city>
+	<name>Zabór Wielki</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Zacharzyce</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Zachowice</name>
+	<community>Kąty Wrocławskie</community>
+</city>
+<city>
+	<name>Zagwiździe</name>
+	<community>Murów</community>
+</city>
+<city>
+	<name>Zagórz</name>
+	<community>Zagórz</community>
+</city>
+<city>
+	<name>Zagórów</name>
+	<community>Zagórów</community>
+</city>
+<city>
+	<name>Zakliczyn</name>
+	<community>Zakliczyn</community>
+</city>
+<city>
+	<name>Zakopane</name>
+	<community>Zakopane</community>
+</city>
+<city>
+	<name>Zakroczym</name>
+	<community>Zakroczym</community>
+</city>
+<city>
+	<name>Zakrzyce</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Zalesie Górne</name>
+	<community>Piaseczno</community>
+</city>
+<city>
+	<name>Zalewo</name>
+	<community>Zalewo</community>
+</city>
+<city>
+	<name>Zambrów</name>
+	<community>Zambrów</community>
+</city>
+<city>
+	<name>Zamość</name>
+	<community>Zamość</community>
+</city>
+<city>
+	<name>Zaprężyn</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Zarzecze</name>
+	<community>Łodygowice</community>
+</city>
+<city>
+	<name>Zarzysko</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Zawada</name>
+	<community>Turawa</community>
+</city>
+<city>
+	<name>Zawada</name>
+	<community>Zielona Góra</community>
+</city>
+<city>
+	<name>Zawady</name>
+	<community>Popów</community>
+</city>
+<city>
+	<name>Zawadzkie</name>
+	<community>Zawadzkie</community>
+</city>
+<city>
+	<name>Zawichost</name>
+	<community>Zawichost</community>
+</city>
+<city>
+	<name>Zawidowice</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Zawidów</name>
+	<community>Zawidów</community>
+</city>
+<city>
+	<name>Zawiercie</name>
+	<community>Zawiercie</community>
+</city>
+<city>
+	<name>Zawonia</name>
+	<community>Zawonia</community>
+</city>
+<city>
+	<name>Zaścianki</name>
+	<community>Supraśl</community>
+</city>
+<city>
+	<name>Zbrosławice</name>
+	<community>Zbrosławice</community>
+</city>
+<city>
+	<name>Zbytków</name>
+	<community>Strumień</community>
+</city>
+<city>
+	<name>Zbytowa</name>
+	<community>Bierutów</community>
+</city>
+<city>
+	<name>Zbąszynek</name>
+	<community>Zbąszynek</community>
+</city>
+<city>
+	<name>Zbąszyń</name>
+	<community>Zbąszyń</community>
+</city>
+<city>
+	<name>Zduny</name>
+	<community>Zduny</community>
+</city>
+<city>
+	<name>Zduńska Wola</name>
+	<community>Zduńska Wola</community>
+</city>
+<city>
+	<name>Zdzieszowice</name>
+	<community>Zdzieszowice</community>
+</city>
+<city>
+	<name>Zelów</name>
+	<community>Zelów</community>
+</city>
+<city>
+	<name>Zgierz</name>
+	<community>Zgierz</community>
+</city>
+<city>
+	<name>Zgorzelec</name>
+	<community>Zgorzelec</community>
+</city>
+<city>
+	<name>Zieleniewo</name>
+	<community>Kobylanka</community>
+</city>
+<city>
+	<name>Zielona Góra</name>
+	<community>Zielona Góra</community>
+</city>
+<city>
+	<name>Zielonka</name>
+	<community>Zielonka</community>
+</city>
+<city>
+	<name>Zielonki</name>
+	<community>Stare Babice</community>
+</city>
+<city>
+	<name>Zielonki</name>
+	<community>Zielonki</community>
+</city>
+<city>
+	<name>Zimnica</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Zimnica Mała</name>
+	<community>Prószków</community>
+</city>
+<city>
+	<name>Zimnice Wielkie</name>
+	<community>Prószków</community>
+</city>
+<city>
+	<name>Ziębice</name>
+	<community>Ziębice</community>
+</city>
+<city>
+	<name>Zofiówka</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Zwierzyniec</name>
+	<community>Zwierzyniec</community>
+</city>
+<city>
+	<name>Zwoleń</name>
+	<community>Zwoleń</community>
+</city>
+<city>
+	<name>Złocieniec</name>
+	<community>Złocieniec</community>
+</city>
+<city>
+	<name>Złoczew</name>
+	<community>Złoczew</community>
+</city>
+<city>
+	<name>Złotniki</name>
+	<community>Suchy Las</community>
+</city>
+<city>
+	<name>Złotoryja</name>
+	<community>Złotoryja</community>
+</city>
+<city>
+	<name>Złoty Stok</name>
+	<community>Złoty Stok</community>
+</city>
+<city>
+	<name>Złotów</name>
+	<community>Złotów</community>
+</city>
+<city>
+	<name>Ząbki</name>
+	<community>Ząbki</community>
+</city>
+<city>
+	<name>Ząbkowice Śląskie</name>
+	<community>Ząbkowice Śląskie</community>
+</city>
+<city>
+	<name>Zębice</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Ścigów</name>
+	<community>Strzeleczki</community>
+</city>
+<city>
+	<name>Ścinawa</name>
+	<community>Ścinawa</community>
+</city>
+<city>
+	<name>Ścinawica</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Ścinawka Dolna</name>
+	<community>Radków</community>
+</city>
+<city>
+	<name>Ścinawka Górna</name>
+	<community>Radków</community>
+</city>
+<city>
+	<name>Ścinawka Średnia</name>
+	<community>Radków</community>
+</city>
+<city>
+	<name>Ślesin</name>
+	<community>Ślesin</community>
+</city>
+<city>
+	<name>Śliwice</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Śliwin</name>
+	<community>Rewal</community>
+</city>
+<city>
+	<name>Ślęza</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Śmigiel</name>
+	<community>Śmigiel</community>
+</city>
+<city>
+	<name>Śrem</name>
+	<community>Śrem</community>
+</city>
+<city>
+	<name>Środa Wielkopolska</name>
+	<community>Środa Wielkopolska</community>
+</city>
+<city>
+	<name>Środa Śląska</name>
+	<community>Środa Śląska</community>
+</city>
+<city>
+	<name>Śródlesie</name>
+	<community>Juchnowiec Kościelny</community>
+</city>
+<city>
+	<name>Świdnica</name>
+	<community>Świdnica</community>
+</city>
+<city>
+	<name>Świdnik</name>
+	<community>Świdnik</community>
+</city>
+<city>
+	<name>Świdwin</name>
+	<community>Świdwin</community>
+</city>
+<city>
+	<name>Świebodzice</name>
+	<community>Świebodzice</community>
+</city>
+<city>
+	<name>Świebodzin</name>
+	<community>Świebodzin</community>
+</city>
+<city>
+	<name>Świecie</name>
+	<community>Świecie</community>
+</city>
+<city>
+	<name>Świeradów-Zdrój</name>
+	<community>Świeradów-Zdrój</community>
+</city>
+<city>
+	<name>Świerki</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Świerki Dolne</name>
+	<community>Nowa Ruda</community>
+</city>
+<city>
+	<name>Świerklaniec</name>
+	<community>Świerklaniec</community>
+</city>
+<city>
+	<name>Świerklany Dolne</name>
+	<community>Świerklany</community>
+</city>
+<city>
+	<name>Świerkle</name>
+	<community>Dobrzeń Wielki</community>
+</city>
+<city>
+	<name>Świerzawa</name>
+	<community>Świerzawa</community>
+</city>
+<city>
+	<name>Świerzna</name>
+	<community>Oleśnica</community>
+</city>
+<city>
+	<name>Świeszewo</name>
+	<community>Gryfice</community>
+</city>
+<city>
+	<name>Świnoujście</name>
+	<community>Świnoujście</community>
+</city>
+<city>
+	<name>Świątniki Górne</name>
+	<community>Mogilany</community>
+</city>
+<city>
+	<name>Święcko</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Święta Katarzyna</name>
+	<community>Bodzentyn</community>
+</city>
+<city>
+	<name>Świętno</name>
+	<community>Wolsztyn</community>
+</city>
+<city>
+	<name>Źlinice</name>
+	<community>Prószków</community>
+</city>
+<city>
+	<name>Łabiszyn</name>
+	<community>Łabiszyn</community>
+</city>
+<city>
+	<name>Łany</name>
+	<community>Czernica</community>
+</city>
+<city>
+	<name>Łany Wielkie</name>
+	<community>Sośnicowice</community>
+</city>
+<city>
+	<name>Łapy</name>
+	<community>Łapy</community>
+</city>
+<city>
+	<name>Łasin</name>
+	<community>Łasin</community>
+</city>
+<city>
+	<name>Łask</name>
+	<community>Łask</community>
+</city>
+<city>
+	<name>Łaskarzew</name>
+	<community>Łaskarzew</community>
+</city>
+<city>
+	<name>Ławica</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Łazisko</name>
+	<community>Twardogóra</community>
+</city>
+<city>
+	<name>Łazy</name>
+	<community>Mielno</community>
+</city>
+<city>
+	<name>Łazy</name>
+	<community>Łazy</community>
+</city>
+<city>
+	<name>Łańcut</name>
+	<community>Łańcut</community>
+</city>
+<city>
+	<name>Łeba</name>
+	<community>Łeba</community>
+</city>
+<city>
+	<name>Łobez</name>
+	<community>Łobez</community>
+</city>
+<city>
+	<name>Łobżenica</name>
+	<community>Łobżenica</community>
+</city>
+<city>
+	<name>Łochów</name>
+	<community>Łochów</community>
+</city>
+<city>
+	<name>Łodygowice</name>
+	<community>Łodygowice</community>
+</city>
+<city>
+	<name>Łomianki</name>
+	<community>Łomianki</community>
+</city>
+<city>
+	<name>Łomianki Dolne</name>
+	<community>Łomianki</community>
+</city>
+<city>
+	<name>Łomnica</name>
+	<community>Mysłakowice</community>
+</city>
+<city>
+	<name>Łomża</name>
+	<community>Łomża</community>
+</city>
+<city>
+	<name>Łosice</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Łosice</name>
+	<community>Łosice</community>
+</city>
+<city>
+	<name>Łowicz</name>
+	<community>Łowicz</community>
+</city>
+<city>
+	<name>Łowęcice</name>
+	<community>Miękinia</community>
+</city>
+<city>
+	<name>Łozina</name>
+	<community>Długołęka</community>
+</city>
+<city>
+	<name>Łuczyna</name>
+	<community>Dobroszyce</community>
+</city>
+<city>
+	<name>Łukęcin</name>
+	<community>Dziwnów</community>
+</city>
+<city>
+	<name>Łuków</name>
+	<community>Łuków</community>
+</city>
+<city>
+	<name>Łączna</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Łąka</name>
+	<community>Pszczyna</community>
+</city>
+<city>
+	<name>Łęczna</name>
+	<community>Łęczna</community>
+</city>
+<city>
+	<name>Łęczyca</name>
+	<community>Łęczyca</community>
+</city>
+<city>
+	<name>Łęki-Zasole</name>
+	<community>Brzeszcze</community>
+</city>
+<city>
+	<name>Łęknica</name>
+	<community>Łęknica</community>
+</city>
+<city>
+	<name>Łężyce</name>
+	<community>Szczytna</community>
+</city>
+<city>
+	<name>Łódź</name>
+	<community>Łódź</community>
+</city>
+<city>
+	<name>Żabieniec</name>
+	<community>Piaseczno</community>
+</city>
+<city>
+	<name>Żabiniec</name>
+	<community>Kluczbork</community>
+</city>
+<city>
+	<name>Żagań</name>
+	<community>Żagań</community>
+</city>
+<city>
+	<name>Żarki</name>
+	<community>Libiąż</community>
+</city>
+<city>
+	<name>Żarnów</name>
+	<community>Żarnów</community>
+</city>
+<city>
+	<name>Żary</name>
+	<community>Żary</community>
+</city>
+<city>
+	<name>Żarów</name>
+	<community>Żarów</community>
+</city>
+<city>
+	<name>Żelazno</name>
+	<community>Kłodzko</community>
+</city>
+<city>
+	<name>Żelechów</name>
+	<community>Żelechów</community>
+</city>
+<city>
+	<name>Żerkowice</name>
+	<community>Komprachcice</community>
+</city>
+<city>
+	<name>Żerków</name>
+	<community>Żerków</community>
+</city>
+<city>
+	<name>Żernica</name>
+	<community>Pilchowice</community>
+</city>
+<city>
+	<name>Żerniki Małe</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Żerniki Wrocławskie</name>
+	<community>Święta Katarzyna</community>
+</city>
+<city>
+	<name>Żeromin</name>
+	<community>Tuszyn</community>
+</city>
+<city>
+	<name>Żmigród</name>
+	<community>Żmigród</community>
+</city>
+<city>
+	<name>Żnin</name>
+	<community>Żnin</community>
+</city>
+<city>
+	<name>Żory</name>
+	<community>Żory</community>
+</city>
+<city>
+	<name>Żukowo</name>
+	<community>Żukowo</community>
+</city>
+<city>
+	<name>Żurawice</name>
+	<community>Kobierzyce</community>
+</city>
+<city>
+	<name>Żuromin</name>
+	<community>Żuromin</community>
+</city>
+<city>
+	<name>Żychlin</name>
+	<community>Żychlin</community>
+</city>
+<city>
+	<name>Żyrardów</name>
+	<community>Jaktorów</community>
+</city>
+<city>
+	<name>Żyrardów</name>
+	<community>Żyrardów</community>
+</city>
+<city>
+	<name>Żyrowa</name>
+	<community>Zdzieszowice</community>
+</city>
+<city>
+	<name>Żywiec</name>
+	<community>Żywiec</community>
+</city>
+</cities>

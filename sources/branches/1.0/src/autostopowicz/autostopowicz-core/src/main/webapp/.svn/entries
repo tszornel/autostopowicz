@@ -1,0 +1,58 @@
+8
+
+dir
+251
+svn+ssh://kapitanat/var/svn/autostopowicz/sources/branches/1.0/src/autostopowicz/autostopowicz-core/src/main/webapp
+svn+ssh://kapitanat/var/svn/autostopowicz
+
+
+
+2008-06-24T14:37:07.063749Z
+251
+toms
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83a767f4-8540-0410-bd16-91f79f8b2fd9
+
+faces
+dir
+
+index.jsp
+file
+
+
+
+
+2008-03-05T15:14:09.548531Z
+eb5a83878049340d2307b5d2816b1e03
+2008-03-05T15:14:48.509518Z
+62
+toms
+
+images
+dir
+
+WEB-INF
+dir
+
+css
+dir
+
+jsp
+dir
+
+js
+dir
+

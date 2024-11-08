@@ -1,0 +1,37 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<<<<<<< .mine
+ <f:subview id="menu-home">
+<div id="menu" style="display:inline;text-align:center;">
+=======
+
+<div id="menu" >
+<h:form style="display:inline;text-align:center;">
+
+>>>>>>> .r166
+<<<<<<< .mine
+<img src="<%=request.getContextPath()%>/images/link.jpg" alt="" />
+ <t:commandLink	id="startPageController" action="#{startPageController.next}" value="Strona Domowa" />
+<img src="<%=request.getContextPath()%>/images/link.jpg" alt="" />
+<t:commandLink id="checkDrivesController" action="#{checkDrivesController.next}" value="Szukaj Tras" />  
+<img src="<%=request.getContextPath()%>/images/link.jpg" alt="" /> 
+<t:commandLink id="addDriveController" action="#{addDriveController.next}"	value="Dodaj Połączenie" /> 
+<img src="<%=request.getContextPath()%>/images/link.jpg" alt="" />
+<t:commandLink id="commentsArticlesController" action="#{commentsArticlesController.next}"	value="Opinie/Artykuły" /> 
+<!--  <img src="/images/link.jpg" alt="" />	 
+<t:commandLink id="groupController" action="#{groupController.next}" value="Grupy" /> -->
+<img src="<%=request.getContextPath()%>/images/link.jpg" alt="" />	 
+<t:commandLink id="helpController" action="#{helpController.next}" value="Pomoc" />
+=======
+<h:graphicImage value="/images/link.jpg"/>
+
+ <t:commandLink	styleClass="nounderline" id="startPageController" action="#{startPageController.next}" value="Strona Domowa" />
+<h:graphicImage value="/images/link.jpg"/>
+<t:commandLink styleClass="nounderline" id="checkDrivesController" action="#{checkDrivesController.next}" value="Szukaj Tras" />  
+<h:graphicImage value="/images/link.jpg"/> 
+<t:commandLink styleClass="nounderline" id="addDriveController" action="#{addDriveController.next}"	value="Dodaj Połączenie" /> 
+<h:graphicImage value="/images/link.jpg"/>
+<t:commandLink styleClass="nounderline" id="commentsArticlesController" action="#{commentsArticlesController.next}"	value="Opinie/Artykuły" /> 
+<h:graphicImage value="/images/link.jpg"/>	 
+<t:commandLink styleClass="nounderline" id="helpController" action="#{helpController.next}" value="Pomoc" />
+>>>>>>> .r166
+</div>

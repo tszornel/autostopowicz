@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2008-04-13 11:36:48 by Hibernate Tools 3.2.0.b11 -->
+<hibernate-mapping>
+    <class name="pl.com.autostopowicz.entities.Usercar" table="usercar" catalog="autostopowicz">
+        <comment></comment>
+        <composite-id name="id" class="UsercarId">
+            <key-property name="idUser" type="int">
+                <column name="idUser" />
+            </key-property>
+            <key-property name="idCar" type="int">
+                <column name="idCar" />
+            </key-property>
+        </composite-id>
+        <many-to-one name="user" class="User" update="false" insert="false" fetch="select">
+            <column name="idUser" not-null="true">
+                <comment></comment>
+            </column>
+        </many-to-one>
+        <many-to-one name="car" class="Car" update="false" insert="false" fetch="select">
+            <column name="idCar" not-null="true">
+                <comment></comment>
+            </column>
+        </many-to-one>
+        <property name="owner" type="boolean">
+            <column name="owner" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+    </class>
+</hibernate-mapping>

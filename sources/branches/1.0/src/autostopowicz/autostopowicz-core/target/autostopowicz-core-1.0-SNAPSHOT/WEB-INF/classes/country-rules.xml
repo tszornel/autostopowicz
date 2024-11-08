@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+<!DOCTYPE digester-rules SYSTEM "digester-rules.dtd">
+-->
+
+<digester-rules>
+	<pattern value="*/country">
+		<object-create-rule	classname="pl.com.autostopowicz.model.Country" />
+		<bean-property-setter-rule pattern="name" propertyname="name"/>	
+		<bean-property-setter-rule pattern="capital" propertyname="capital"/>	
+		<bean-property-setter-rule pattern="timeZone" propertyname="timeZone"/>	
+		<set-next-rule methodname="addCountry"/>
+	</pattern>
+</digester-rules>
+
+

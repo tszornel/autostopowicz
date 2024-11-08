@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+	<country>
+		<capital>Warszawa</capital>
+		<name>Polska</name>
+		<timeZone>GMT-6</timeZone>
+	</country>
+	<country>
+		<capital>Londyn</capital>
+		<name>Anglia</name>
+		<timeZone>GMT-9</timeZone>
+	</country>
+	<country>
+		<capital>Paryż</capital>
+		<name>Francja</name>
+		<timeZone>GMT-7</timeZone>
+	</country>
+	<country>
+		<capital>Mandryt</capital>
+		<name>Hiszpania</name>
+		<timeZone>GMT-6</timeZone>
+	</country>
+</countries>

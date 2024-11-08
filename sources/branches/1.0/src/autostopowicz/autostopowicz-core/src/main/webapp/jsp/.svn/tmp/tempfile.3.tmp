@@ -1,0 +1,100 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<div id="loginbox">
+<<<<<<< .mine
+	
+	<acegijsf:authorize ifAnyGranted="ROLE_USER">
+ 	 <h:form id="logout">
+ 		<t:commandLink	style="font-size: small;text-decoration:none;" id="logout" actionListener="#{authenticationController.logout}" value="Wyloguj" />
+ 		</h:form>
+	 
+	</acegijsf:authorize>
+	<acegijsf:authorize ifNotGranted="ROLE_USER">
+	    <h:messages style="color: blue"/><br/>
+	    <p>
+	    <h:form id="authenticate">
+	    Login<br />
+	    <h:inputText size="10" maxlength="15" value="#{authenticationController.username}"/>
+	    </p>
+	    <p>Hasło<br />
+	    <h:inputText size="10" maxlength="15" value="#{authenticationController.password}"/>
+	    </p>
+	 	
+	 	 <p>	 
+	  	 <t:commandLink	style="font-size: small;text-decoration:none;color: #336699;background-color: #FFCC33;text-decoration:none;	border: 1px solid #000033;text-align:center;margin:	auto;width:50%;" id="authentication" actionListener="#{authenticationController.authenticate}" value="Zaloguj" />
+	 	</h:form>
+	 	</p>
+		
+	<p>
+	<h:form id="Register">
+	 <t:commandLink	style="font-size: small;text-decoration:none;" 
+	 id="registerController" action="#{registerController.next}" value="Zarejestruj się" />
+	</h:form>
+	</acegijsf:authorize>
+	</p>
+=======
+	<div id="loginbox_top">
+		<div class="loginbox_fill_top" >
+			<img src="<%=request.getContextPath()%>/images/loginbox/top_left.png" style="float: left;">
+			<img src="<%=request.getContextPath()%>/images/loginbox/top_right.png" style="float: right;">
+		</div>
+	</div>
+	<div id="loginbox_content">
+		<table id="login_table">
+			<form id="form1" method="post" action="">
+			<tr><td>Login</td><td><input name="Login" type="text" size="10" maxlength="15" /></td></tr>
+			<tr><td><h:outputText value="#{locale.loginbox_password}" /></td><td><input name="Password" type="text" size="10" maxlength="15" /></td></tr>
+			<tr><td colspan="2"><p class="submit-button"><a href="#" class="nounderline"><h:outputText value="#{locale.loginbox_loginButton}" /></a></p></td></tr>
+			</form>
+		</table>
+		<p>
+	 		<h:form id="register">
+	 		<h:commandLink	style="font-size: small;text-decoration:none;" id="registerController" action="#{registerController.next}" value="#{locale.loginbox_register}" />
+	 		</h:form>
+		</p>
+>>>>>>> .r81
+	
+<<<<<<< .mine
+	<h:form id="selection" style="align:center;">
+	<h:selectOneMenu id="Lang"
+ 		value="#{startPageController.language}" onchange="pulldownChanged()" immediate="true">
+ 	<f:selectItem
+    	itemValue="Polski" itemLabel="Polski"/>
+  	<f:selectItem 
+   	 itemValue="Angielski" itemLabel="Angielski"/>
+	</h:selectOneMenu> <br />
+	<span style="align:center;"><strong>Język</strong></span><br/>
+	<t:commandButton style="visibility:hidden;"
+            id="changeLanguageButton"
+            value="Submit"
+            action="#{startPageController.next_en}"/>
+	
+	</h:form>	
+=======
+		<div id="language_change">
+			<p style="align:center; font-weight: bold; margin-bottom: 0px; padding-bottom: 5px;"><h:outputText value="#{locale.loginbox_language}" /></p>
+			
+			<h:form id="selection" >
+				<table id="selection_table">
+					<tr>
+						<td>
+ 							<h:selectOneMenu id="Lang" value="#{startPageController.language}" immediate="true">
+ 								<f:selectItems value="#{startPageController.availableLocales}" />
+							</h:selectOneMenu>
+						</td>	
+						<td>
+							<h:commandButton id="changeLanguageButton" value="OK" action="#{startPageController.next}"/>
+						</td>	
+					</tr>
+				</table>
+			</h:form>
+		</div>
+	</div>
+	<div id="loginbox_top">
+		<div class="loginbox_fill_bottom" >
+			<img src="<%=request.getContextPath()%>/images/loginbox/bottom_left.png" style="float: left;">
+			<img src="<%=request.getContextPath()%>/images/loginbox/bottom_right.png" style="float: right;">
+		</div>	
+	</div>
+	<div style="clear: both;" ></div>
+>>>>>>> .r81
+</div>

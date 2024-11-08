@@ -1,0 +1,41 @@
+8
+
+dir
+251
+svn+ssh://kapitanat/var/svn/autostopowicz/sources/branches/1.0/src/autostopowicz/hibernate-tools/src/main/java
+svn+ssh://kapitanat/var/svn/autostopowicz
+
+
+
+2008-04-07T11:58:15.505251Z
+96
+toms
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83a767f4-8540-0410-bd16-91f79f8b2fd9
+
+AutostopowiczUser.java
+file
+
+
+
+
+2008-04-07T11:24:46.843750Z
+71e4ff1cd4cd6d49b9bdfc7822d077bb
+2008-04-07T11:58:15.505251Z
+96
+toms
+has-props
+

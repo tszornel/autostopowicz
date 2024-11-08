@@ -1,0 +1,88 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+
+<%@ include file="/jsp/include.jsp"%>
+
+<f:view>
+	<f:loadBundle basename="pl.com.autostopowicz.komunikaty.Komunikaty"
+		var="komunikat" />
+	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl">
+	<head>
+	<script type="text/javascript">
+		function go()
+{
+   	box = document.forms.Language.select;
+	destination = box.options[box.selectedIndex].value;
+	if (destination) location.href = destination;
+}   
+</script>
+	<link href="<%=request.getContextPath()%>/css/style.css" rel="stylesheet" type="text/css"/>
+	<title><h:outputText value="#{komunikat.powitanie}" /></title>
+
+	</head>
+	<body>
+	</body>
+	<body>
+	<div id="header" class="centered"></div>
+	<%@ include file="/jsp/menu.jsp"%>
+
+<<<<<<< .mine
+	<div style="clear: right;"></div>
+=======
+<body>
+<div id="header" class="centered"></div>
+<div id="title"><img src="images/link.jpg" alt="" /> <a
+	href="home.htm?language=pl" title="HOME" target="_self" class="nounderline">Strona
+Domowa</a></img> <img src="images/link.jpg" alt="" /> <a
+	href="checkDrives.htm" class="nounderline" target="_self">Szukaj
+po��czen</a> </img> <img src="images/link.jpg" alt="" />
+<a href="addDrive.htm" class="nounderline" title="HOME" target="_self">Dodaj
+Pol�czenie</a><img src="images/link.jpg" alt="" />
+<a href="commentsArticles.htm" class="nounderline" target="_self">Opinie/Artyku�y</a>
+</img> <img src="images/link.jpg" alt="" /> <a
+	href="help.htm" class="nounderline" target="_self">Pomoc</a> </img>
+<p></p>
+</div>
+>>>>>>> .r49
+
+	<div id="content" class="centered">
+
+	<div id="loginbox">
+	<form id="form1" method="post" action="">
+	<p>Login<br />
+	<input name="Login" type="text" size="10" maxlength="15" /></p>
+
+	<p>Hasło<br />
+	<input name="Password" type="text" size="10" maxlength="15" /></p>
+
+	<p class="submit-button"><a href="#" target="_self"
+		class="nounderline"><strong>Zaloguj</strong></a></p>
+	</form>
+	<p><a href="#" target="_self" class="nounderline"
+		style="font-size: small">Zarejestruj się</a></p>
+	<form action="Language" method="get" style="font-size: small"
+		name="Language" target="_self"><label> <select
+		name="select" onchange="go()">
+		<option value="home.htm?language=pl">Polski</option>
+		<option value="home.htm?language=en">Angielski</option>
+	</select><br />
+	<strong>Język</strong> </label></form>
+	</div>
+	<p class="down">Dołącz do społeczności autostopowiczów na <strong>www.autostopowicz.com.pl</strong>
+	</p>
+	<p>Portal przeznaczony dla Firm przyjaznych pracownikom.</p>
+	Zarejestruj się i podróżuj wspólnie.
+	<p>Płać mniej za paliwo</p>
+	<p>I zdobywaj wiele innych korzyści <a href="Help.html"
+		target="_self" class="blink">....</a></p>
+	<img src="../images/autostopowicz.jpg" alt="" /></div>
+	<div style="clear: right;" />
+	</body>
+	<body></body>
+	</html>
+</f:view>
+
+
+
+
+
+

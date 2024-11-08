@@ -1,0 +1,67 @@
+8
+
+dir
+251
+svn+ssh://kapitanat/var/svn/autostopowicz/sources/branches/1.0/src/autostopowicz/hibernate-tools/src/main/webapp
+svn+ssh://kapitanat/var/svn/autostopowicz
+
+
+
+2008-04-07T14:04:32.724734Z
+101
+toms
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83a767f4-8540-0410-bd16-91f79f8b2fd9
+
+hibernate.reveng.mappings.xml
+file
+
+
+
+
+2008-04-07T08:57:00.781250Z
+f907d8a0d57934143f5d5db5dc47f590
+2008-04-07T09:01:11.837885Z
+93
+toms
+
+WEB-INF
+dir
+
+hibernate.reveng.entities.xml
+file
+
+
+
+
+2008-04-07T08:45:25.812500Z
+b40dc06edfca66ca6db3a808fbe5b2aa
+2008-04-07T09:01:11.837885Z
+93
+toms
+
+hibernate.cfg.xml
+file
+
+
+
+
+2008-04-07T08:42:35.359375Z
+570f2f975c31a7fad4cbf3f80aca3911
+2008-04-07T09:01:11.837885Z
+93
+toms
+

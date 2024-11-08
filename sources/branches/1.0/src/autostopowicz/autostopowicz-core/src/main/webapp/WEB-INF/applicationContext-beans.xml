@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:aop="http://www.springframework.org/schema/aop" xmlns:tx="http://www.springframework.org/schema/tx"
+  xsi:schemaLocation="
+       http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.0.xsd">
+ 
+  <bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
+  <property name="host"><value>mboxkr.ericpol.int</value></property>
+</bean>
+
+<bean id="mailMessage" class="org.springframework.mail.SimpleMailMessage">
+  <property name="from"><value>autostopowicz@mycompany.com</value></property>
+  <property name="subject"><value>confirm registration</value></property>
+</bean>
+ 
+ <bean id="countriesBean" class="pl.com.autostopowicz.model.CountriesBean">
+ <constructor-arg><ref bean="databaseManager"/></constructor-arg>  
+</bean>
+ 
+	  <bean id="citiesBean" class="pl.com.autostopowicz.model.CitiesBean">
+ <constructor-arg><ref bean="databaseManager"/></constructor-arg>  
+</bean>
+
+ <bean id="profileController" class="pl.com.autostopowicz.controller.ProfileController" scope="session">
+ 	
+	<property name="dataSource"><ref bean="databaseManager"/></property>  
+	<property name="authenticationBean"><ref bean="authenticationController"/></property>  
+	<property name="mailSender"><ref bean="mailSender"/></property> 
+	<property name="message"><ref bean="mailMessage"/></property>   
+</bean> 
+
+ <bean id="addDriveController" class="pl.com.autostopowicz.controller.AddDriveController" scope="session">
+ 	
+	<property name="dataSource"><ref bean="databaseManager"/></property>  
+	
+</bean> 
+ <bean id="startPageController" class="pl.com.autostopowicz.controller.StartPageController" scope="session">
+	<property name="dataSource"><ref bean="databaseManager"/></property>  
+</bean> 
+ <bean id="commentsArticlesController" class="pl.com.autostopowicz.controller.CommentsArticlesController" scope="session">
+ 	<property name="dataSource"><ref bean="databaseManager"/></property>  
+</bean> 
+ <bean id="checkDrivesController" class="pl.com.autostopowicz.controller.CheckDrivesController" scope="session">
+ 	
+	<property name="dataSource"><ref bean="databaseManager"/></property>  
+	<property name="drive"><ref bean="driveBean"/></property>  
+	<property name="cityBean"><ref bean="citiesBean"/></property>  
+	<property name="countryBean"><ref bean="countriesBean"/></property>  
+	<property name="mailSender"><ref bean="mailSender"/></property>  
+	<property name="message"><ref bean="mailMessage"/></property> 
+	<property name="authenticationBean"><ref bean="authenticationController"/></property>   
+</bean> 
+<bean id="helpController" class="pl.com.autostopowicz.controller.HelpController" scope="session">
+	<property name="dataSource"><ref bean="databaseManager"/></property>  
+</bean> 
+
+<bean id="registerController" class="pl.com.autostopowicz.controller.RegisterController" scope="session">
+	<property name="dataSource"><ref bean="databaseManager"/></property>  
+	<property name="mailSender"><ref bean="mailSender"/></property> 
+	<property name="message"><ref bean="mailMessage"/></property> 
+</bean> 
+
+
+ <bean id="calendarBean" class="pl.com.autostopowicz.model.CalendarBean" scope="session">
+</bean> 
+	
+ <bean id="gmBean" class="pl.com.autostopowicz.model.GMapBean" scope="session">
+</bean> 
+
+ <bean id="ddmenu" class="pl.com.autostopowicz.model.Menu" scope="session">
+</bean>
+
+<bean id="driveBean" class="pl.com.autostopowicz.model.DriveBean" scope="session">
+</bean>
+
+</beans>

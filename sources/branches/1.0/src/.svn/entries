@@ -1,0 +1,43 @@
+8
+
+dir
+251
+svn+ssh://kapitanat/var/svn/autostopowicz/sources/branches/1.0/src
+svn+ssh://kapitanat/var/svn/autostopowicz
+
+
+
+2008-06-24T14:37:07.063749Z
+251
+toms
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83a767f4-8540-0410-bd16-91f79f8b2fd9
+
+pom.xml
+file
+
+
+
+
+2008-04-12T12:11:03.750000Z
+14263a0f388cda363f242c0b0a46ff75
+2008-04-08T07:41:49.915451Z
+102
+toms
+
+autostopowicz
+dir
+

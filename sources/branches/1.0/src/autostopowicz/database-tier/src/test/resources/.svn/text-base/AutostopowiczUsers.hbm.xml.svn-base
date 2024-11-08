@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2008-04-07 10:57:09 by Hibernate Tools 3.2.0.b11 -->
+<hibernate-mapping>
+    <class name="pl.com.autostopowicz.entities.AutostopowiczUser" table="autostopowicz_users" catalog="AUTOSTOPOWICZ">
+        <comment></comment>
+        <id name="id" type="java.lang.Integer">
+            <column name="AutostopowiczId" />
+            <generator class="identity" />
+        </id>
+        <property name="autostopowiczName" type="string">
+            <column name="autostopowiczName" length="45" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="autostopowiczLogin" type="string">
+            <column name="autostopowiczLogin" length="45" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="autostopowiczPassword" type="string">
+            <column name="autostopowiczPassword" length="45" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+          <property name="autostopowiczEmail" type="string">
+            <column name="autostopowiczEmail" length="45" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+        <property name="autostopowiczRole" type="int">
+            <column name="autostopowiczRole" not-null="true">
+                <comment></comment>
+            </column>
+        </property>
+    </class>
+</hibernate-mapping>

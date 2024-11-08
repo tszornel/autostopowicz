@@ -1,0 +1,16 @@
+8
+
+dir
+251
+svn+ssh://kapitanat/var/svn/autostopowicz/documents/tags
+svn+ssh://kapitanat/var/svn/autostopowicz
+
+
+
+2007-12-05T13:37:26.450135Z
+2
+toms
+
+
+svn:special svn:externals svn:needs-lock
+

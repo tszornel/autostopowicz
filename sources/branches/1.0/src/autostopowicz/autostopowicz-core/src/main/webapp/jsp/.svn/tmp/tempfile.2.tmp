@@ -1,0 +1,59 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+
+<%@ include file="/jsp/include.jsp"%>
+
+<f:view>
+	<f:loadBundle basename="#{startPageController.localePath}" var="locale" />
+	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" xmlns:acegi="http://sourceforge.net/projects/jsf-comp/acegijsf">
+	<head>
+		<link href="<%=request.getContextPath()%>/css/style.css" rel="stylesheet" type="text/css"/>
+		<meta name="description" content="Portal Autostopowicz" />
+    	<meta name="keywords" content="Autostop, Autostopowicz, Carpooling, Carpooler" />
+    	<meta name="robots" content="all" />
+    	<meta name="robots" content="index,follow" />    
+    	<meta name="author" content="Toms" />
+    	<title><h:outputText value="#{locale.title}" /></title>
+	</head>
+	<body>
+		<div id="header" class="centered"></div>
+		<%@ include file="/jsp/menu.jsp"%>
+
+<<<<<<< .mine
+	<div style="clear:right;"></div>
+=======
+		<div style="clear: right;"></div>
+>>>>>>> .r81
+
+		<div id="content" class="centered">
+
+			<%@ include file="/jsp/loginbox.jsp"%>
+		
+<<<<<<< .mine
+	<p class="down">Dołącz do społeczności autostopowiczów na <strong>www.autostopowicz.com.pl</strong>
+	</p>
+	<p>Portal przeznaczony dla Firm przyjaznych pracownikom.</p>
+	Zarejestruj się i podróżuj wspólnie.
+	<p>Płać mniej za paliwo</p>
+	<p> <h:form id="more">I zdobywaj wiele innych korzyści <h:commandLink style="text-decoration:blink;" id="helpController" action="#{helpController.next}" value="..." /></h:form></p>
+	<img src="<%=request.getContextPath()%>/images/autostopowicz.jpg" alt="" /></div>
+	<div style="clear:right;" />
+=======
+			<p class="down">Dołącz do społeczności autostopowiczów na <strong>www.autostopowicz.com.pl</strong></p>
+			<p>Portal przeznaczony dla Firm przyjaznych pracownikom.</p>
+			<p>Zarejestruj się i podróżuj wspólnie.</p>
+			<p>Płać mniej za paliwo</p>
+			<p>I zdobywaj wiele innych korzyści <a href="Help.html" target="_self" class="blink">....</a></p>
+			
+			<img src="<%=request.getContextPath()%>/images/autostopowicz.jpg" alt="" />
+		</div>
+	<div style="clear: both;" ></div>
+>>>>>>> .r81
+	</body>
+	</html>
+</f:view>
+
+
+
+
+
+

@@ -1,0 +1,88 @@
+8
+
+dir
+251
+svn+ssh://kapitanat/var/svn/autostopowicz/sources/branches/1.0/src/autostopowicz/database-tier/dataModel/mysql
+svn+ssh://kapitanat/var/svn/autostopowicz
+
+
+
+2008-06-20T12:05:58.273491Z
+236
+toms
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83a767f4-8540-0410-bd16-91f79f8b2fd9
+
+Autostop 20080619 0921.sql
+file
+
+
+
+
+2008-06-19T18:09:10.593750Z
+65e83fe1d2c4215e9a1d96d5fe4a7e12
+2008-06-19T12:34:39.692910Z
+222
+toms
+
+autostopowicz 20080411 1623.sql
+file
+
+
+
+
+2008-04-12T09:45:32.000000Z
+214a84f422e5a4b4a886d6b20d1301b5
+2008-04-11T14:26:20.852496Z
+111
+toms
+
+Autostop 20080620 1404.sql
+file
+
+
+
+
+2008-06-20T20:23:54.328125Z
+7581bbdc24b4e634ab75d10d488c0da1
+2008-06-20T12:05:58.273491Z
+236
+toms
+
+autostopowicz 20080411 1639.sql
+file
+
+
+
+
+2008-04-12T09:45:32.000000Z
+d9e49522c86a85498a3ae50bbe06b8dc
+2008-04-11T14:41:03.191261Z
+112
+toms
+
+Autostop 20080512 1615.sql
+file
+
+
+
+
+2008-05-20T18:10:53.578125Z
+6bfd6811a233e7fa03ece3113ed1eaa4
+2008-05-14T14:38:02.065424Z
+134
+toms
+
